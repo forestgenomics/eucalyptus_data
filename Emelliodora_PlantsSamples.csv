@@ -371,10 +371,10 @@ PlantID,PlantName,AccessionID,AccessionName,ExperimentID,ExperimentName,Experime
 ,,,,,,,,,S45370,O_8,leaf,Emelliodora_LB_Block4,B11,O8,,outlier
 ,,,,,,,,,S45371,O_9,leaf,Emelliodora_LB_Block4,C11,O9,,outlier
 ,,,,,,,,,S45372,O_10,leaf,Emelliodora_LB_Block4,D11,O10,,outlier
-,,,,,,,,,S45373,site7_1,leaf,Emelliodora_LB_Block4,E11,site7-1,,
-,,,,,,,,,S45374,site7_2,leaf,Emelliodora_LB_Block4,F11,site7-2,,
-,,,,,,,,,S45375,site7_3,leaf,Emelliodora_LB_Block4,G11,site7-3,,
-,,,,,,,,,S45376,site7_4,leaf,Emelliodora_LB_Block4,H11,site7-4,,
-,,,,,,,,,S45377,site7_5,leaf,Emelliodora_LB_Block4,A12,site7-5,,
-,,,,,,,,,S45378,site7_6,leaf,Emelliodora_LB_Block4,B12,site7-6,,
-,,,,,,,,,S45379,site7_7,leaf,Emelliodora_LB_Block4,C12,site7-7,,
+,,,,,,,,,S45373,site7_1R,leaf,Emelliodora_LB_Block4,E11,site7-1,,
+,,,,,,,,,S45374,site7_2R,leaf,Emelliodora_LB_Block4,F11,site7-2,,
+,,,,,,,,,S45375,site7_3R,leaf,Emelliodora_LB_Block4,G11,site7-3,,
+,,,,,,,,,S45376,site7_4R,leaf,Emelliodora_LB_Block4,H11,site7-4,,
+,,,,,,,,,S45377,site7_5R,leaf,Emelliodora_LB_Block4,A12,site7-5,,
+,,,,,,,,,S45378,site7_6R,leaf,Emelliodora_LB_Block4,B12,site7-6,,
+,,,,,,,,,S45379,site7_7R,leaf,Emelliodora_LB_Block4,C12,site7-7,,
