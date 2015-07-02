@@ -1,912 +1,912 @@
-PlantID,PlantName,AccessionID,AccessionName,ExperimentID,ExperimentName,ExperimentCondition,GrowthLocation,TrayPosition,SampleID,SampleName,SampleType,PlateName,PlateCoordinate,NameInWell,TubeBarcode,Note
-,,,,,,,,,S45001,U-1,leaf,Emelliodora-LB-Block1,A1,U1,,
-,,,,,,,,,S45002,U-2,leaf,Emelliodora-LB-Block1,B1,U2,,
-,,,,,,,,,S45003,U-3,leaf,Emelliodora-LB-Block1,C1,U3,,
-,,,,,,,,,S45004,U-4,leaf,Emelliodora-LB-Block1,D1,U4,,
-,,,,,,,,,S45005,U-5,leaf,Emelliodora-LB-Block1,E1,U5,,
-,,,,,,,,,S45006,U-6,leaf,Emelliodora-LB-Block1,F1,U6,,
-,,,,,,,,,S45007,U-7,leaf,Emelliodora-LB-Block1,G1,U7,,
-,,,,,,,,,S45008,U-8,leaf,Emelliodora-LB-Block1,H1,U8,,fail
-,,,,,,,,,S45009,U-9,leaf,Emelliodora-LB-Block1,A2,U9,,
-,,,,,,,,,S45010,U-10,leaf,Emelliodora-LB-Block1,B2,U10,,
-,,,,,,,,,S45011,P-1,leaf,Emelliodora-LB-Block1,C2,P1,,
-,,,,,,,,,S45012,P-2,leaf,Emelliodora-LB-Block1,D2,P2,,
-,,,,,,,,,S45013,P-3,leaf,Emelliodora-LB-Block1,E2,P3,,
-,,,,,,,,,S45014,P-4,leaf,Emelliodora-LB-Block1,F2,P4,,
-,,,,,,,,,S45015,P-5,leaf,Emelliodora-LB-Block1,G2,P5,,
-,,,,,,,,,S45016,P-6,leaf,Emelliodora-LB-Block1,H2,P6,,
-,,,,,,,,,S45017,P-7,leaf,Emelliodora-LB-Block1,A3,P7,,
-,,,,,,,,,S45018,P-8,leaf,Emelliodora-LB-Block1,B3,P8,,
-,,,,,,,,,S45019,P-9,leaf,Emelliodora-LB-Block1,C3,P9,,
-,,,,,,,,,S45020,P-10,leaf,Emelliodora-LB-Block1,D3,P10,,
-,,,,,,,,,S45021,G-1,leaf,Emelliodora-LB-Block1,E3,G1,,
-,,,,,,,,,S45022,G-2,leaf,Emelliodora-LB-Block1,F3,G2,,
-,,,,,,,,,S45023,G-3,leaf,Emelliodora-LB-Block1,G3,G3,,
-,,,,,,,,,S45024,G-4,leaf,Emelliodora-LB-Block1,H3,G4,,
-,,,,,,,,,S45025,G-5,leaf,Emelliodora-LB-Block1,A4,G5,,
-,,,,,,,,,S45026,G-6,leaf,Emelliodora-LB-Block1,B4,G6,,
-,,,,,,,,,S45027,G-7,leaf,Emelliodora-LB-Block1,C4,G7,,
-,,,,,,,,,S45028,G-8,leaf,Emelliodora-LB-Block1,D4,G8,,
-,,,,,,,,,S45029,G-9,leaf,Emelliodora-LB-Block1,E4,G9,,
-,,,,,,,,,S45030,G-10,leaf,Emelliodora-LB-Block1,F4,G10,,
-,,,,,,,,,S45031,W1-1,leaf,Emelliodora-LB-Block1,G4,W1-1,,
-,,,,,,,,,S45032,W1-2,leaf,Emelliodora-LB-Block1,H4,W1-2,,
-,,,,,,,,,S45033,W1-3,leaf,Emelliodora-LB-Block1,A5,W1-3,,
-,,,,,,,,,S45034,W1-4,leaf,Emelliodora-LB-Block1,B5,W1-4,,
-,,,,,,,,,S45035,W1-5,leaf,Emelliodora-LB-Block1,C5,W1-5,,
-,,,,,,,,,S45036,W1-6,leaf,Emelliodora-LB-Block1,D5,W1-6,,
-,,,,,,,,,S45037,W1-7,leaf,Emelliodora-LB-Block1,E5,W1-7,,
-,,,,,,,,,S45038,W1-8,leaf,Emelliodora-LB-Block1,F5,W1-8,,
-,,,,,,,,,S45039,W1-9,leaf,Emelliodora-LB-Block1,G5,W1-9,,
-,,,,,,,,,S45040,W1-10,leaf,Emelliodora-LB-Block1,H5,W1-10,,
-,,,,,,,,,S45041,H-1,leaf,Emelliodora-LB-Block1,A6,H1,,
-,,,,,,,,,S45042,H-2,leaf,Emelliodora-LB-Block1,B6,H2,,
-,,,,,,,,,S45043,H-3,leaf,Emelliodora-LB-Block1,C6,H3,,
-,,,,,,,,,S45044,H-4,leaf,Emelliodora-LB-Block1,D6,H4,,
-,,,,,,,,,S45045,H-5,leaf,Emelliodora-LB-Block1,E6,H5,,
-,,,,,,,,,S45046,H-6,leaf,Emelliodora-LB-Block1,F6,H6,,
-,,,,,,,,,S45047,H-7,leaf,Emelliodora-LB-Block1,G6,H7,,
-,,,,,,,,,S45048,H-8,leaf,Emelliodora-LB-Block1,H6,H8,,
-,,,,,,,,,S45049,H-9,leaf,Emelliodora-LB-Block1,A7,H9,,
-,,,,,,,,,S45050,H-10,leaf,Emelliodora-LB-Block1,B7,H10,,
-,,,,,,,,,S45051,M-3,leaf,Emelliodora-LB-Block1,C7,M3,,
-,,,,,,,,,S45052,M-4,leaf,Emelliodora-LB-Block1,D7,M4,,
-,,,,,,,,,S45053,M-5,leaf,Emelliodora-LB-Block1,E7,M5,,
-,,,,,,,,,S45054,D-1,leaf,Emelliodora-LB-Block1,F7,D1,,
-,,,,,,,,,S45055,D-2,leaf,Emelliodora-LB-Block1,G7,D2,,
-,,,,,,,,,S45056,D-3,leaf,Emelliodora-LB-Block1,H7,D3,,
-,,,,,,,,,S45057,D-4,leaf,Emelliodora-LB-Block1,A8,D4,,
-,,,,,,,,,S45058,D-5,leaf,Emelliodora-LB-Block1,B8,D5,,
-,,,,,,,,,S45059,D-6,leaf,Emelliodora-LB-Block1,C8,D6,,
-,,,,,,,,,S45060,D-7,leaf,Emelliodora-LB-Block1,D8,D7,,
-,,,,,,,,,S45061,D-8,leaf,Emelliodora-LB-Block1,E8,D8,,
-,,,,,,,,,S45062,D-9,leaf,Emelliodora-LB-Block1,F8,D9,,
-,,,,,,,,,S45063,D-10,leaf,Emelliodora-LB-Block1,G8,D10,,
-,,,,,,,,,S45064,V-1,leaf,Emelliodora-LB-Block1,H8,V1,,
-,,,,,,,,,S45065,V-2,leaf,Emelliodora-LB-Block1,A9,V2,,
-,,,,,,,,,S45066,V-3,leaf,Emelliodora-LB-Block1,B9,V3,,
-,,,,,,,,,S45067,V-4,leaf,Emelliodora-LB-Block1,C9,V4,,
-,,,,,,,,,S45068,V-5,leaf,Emelliodora-LB-Block1,D9,V5,,
-,,,,,,,,,S45069,V-6,leaf,Emelliodora-LB-Block1,E9,V6,,
-,,,,,,,,,S45070,V-7,leaf,Emelliodora-LB-Block1,F9,V7,,
-,,,,,,,,,S45071,V-8,leaf,Emelliodora-LB-Block1,G9,V8,,
-,,,,,,,,,S45072,V-9,leaf,Emelliodora-LB-Block1,H9,V9,,
-,,,,,,,,,S45073,V-10,leaf,Emelliodora-LB-Block1,A10,V10,,
-,,,,,,,,,S45074,A-2,leaf,Emelliodora-LB-Block1,B10,A2,,
-,,,,,,,,,S45075,A-3,leaf,Emelliodora-LB-Block1,C10,A3,,
-,,,,,,,,,S45076,A-4,leaf,Emelliodora-LB-Block1,D10,A4,,
-,,,,,,,,,S45077,A-5,leaf,Emelliodora-LB-Block1,E10,A5,,
-,,,,,,,,,S45078,A-6,leaf,Emelliodora-LB-Block1,F10,A6,,
-,,,,,,,,,S45079,A-7,leaf,Emelliodora-LB-Block1,G10,A7,,
-,,,,,,,,,S45080,A-8,leaf,Emelliodora-LB-Block1,H10,A8,,
-,,,,,,,,,S45081,A-9,leaf,Emelliodora-LB-Block1,A11,A9,,
-,,,,,,,,,S45082,A-10,leaf,Emelliodora-LB-Block1,B11,A10,,
-,,,,,,,,,S45083,A-11,leaf,Emelliodora-LB-Block1,C11,A11,,
-,,,,,,,,,S45084,site1-1,leaf,Emelliodora-LB-Block1,D11,site1-1,,
-,,,,,,,,,S45085,site1-2,leaf,Emelliodora-LB-Block1,E11,site1-2,,
-,,,,,,,,,S45086,site1-3,leaf,Emelliodora-LB-Block1,F11,site1-3,,
-,,,,,,,,,S45087,site1-4,leaf,Emelliodora-LB-Block1,G11,site1-4,,
-,,,,,,,,,S45088,site1-5,leaf,Emelliodora-LB-Block1,H11,site1-5,,
-,,,,,,,,,S45089,site1-6,leaf,Emelliodora-LB-Block1,A12,site1-6,,
-,,,,,,,,,S45090,site1-7,leaf,Emelliodora-LB-Block1,B12,site1-7,,
-,,,,,,,,,S45091,site1-8,leaf,Emelliodora-LB-Block1,C12,site1-8,,
-,,,,,,,,,S45092,site1-9,leaf,Emelliodora-LB-Block1,D12,site1-9,,
-,,,,,,,,,S45093,site1-10,leaf,Emelliodora-LB-Block1,E12,site1-10,,
-,,,,,,,,,S45094,C-1,leaf,Emelliodora-LB-Block1,F12,C1,,
-,,,,,,,,,S45095,C-2,leaf,Emelliodora-LB-Block1,G12,C2,,
-,,,,,,,,,S45096,C-3,leaf,Emelliodora-LB-Block1,H12,C3,,fail
-,,,,,,,,,S45097,C-4,leaf,Emelliodora-LB-Block2,A1,C4,,
-,,,,,,,,,S45098,C-5,leaf,Emelliodora-LB-Block2,B1,C5,,
-,,,,,,,,,S45099,C-6,leaf,Emelliodora-LB-Block2,C1,C6,,
-,,,,,,,,,S45100,C-7,leaf,Emelliodora-LB-Block2,D1,C7,,
-,,,,,,,,,S45101,C-8,leaf,Emelliodora-LB-Block2,E1,C8,,
-,,,,,,,,,S45102,C-9,leaf,Emelliodora-LB-Block2,F1,C9,,
-,,,,,,,,,S45103,N2-1,leaf,Emelliodora-LB-Block2,G1,N2-1,,
-,,,,,,,,,S45104,N2-2,leaf,Emelliodora-LB-Block2,H1,N2-2,,fail
-,,,,,,,,,S45105,N2-3,leaf,Emelliodora-LB-Block2,A2,N2-3,,
-,,,,,,,,,S45106,N2-4,leaf,Emelliodora-LB-Block2,B2,N2-4,,
-,,,,,,,,,S45107,N2-5,leaf,Emelliodora-LB-Block2,C2,N2-5,,
-,,,,,,,,,S45108,N2-6,leaf,Emelliodora-LB-Block2,D2,N2-6,,
-,,,,,,,,,S45109,N2-7,leaf,Emelliodora-LB-Block2,E2,N2-7,,
-,,,,,,,,,S45110,N2-8,leaf,Emelliodora-LB-Block2,F2,N2-8,,
-,,,,,,,,,S45111,N2-9,leaf,Emelliodora-LB-Block2,G2,N2-9,,
-,,,,,,,,,S45112,N2-10,leaf,Emelliodora-LB-Block2,H2,N2-10,,
-,,,,,,,,,S45113,N1-1,leaf,Emelliodora-LB-Block2,A3,N1-1,,
-,,,,,,,,,S45114,N1-2,leaf,Emelliodora-LB-Block2,B3,N1-2,,
-,,,,,,,,,S45115,N1-3,leaf,Emelliodora-LB-Block2,C3,N1-3,,
-,,,,,,,,,S45116,N1-4,leaf,Emelliodora-LB-Block2,D3,N1-4,,
-,,,,,,,,,S45117,N1-5,leaf,Emelliodora-LB-Block2,E3,N1-5,,
-,,,,,,,,,S45118,N1-6,leaf,Emelliodora-LB-Block2,F3,N1-6,,
-,,,,,,,,,S45119,N1-7,leaf,Emelliodora-LB-Block2,G3,N1-7,,
-,,,,,,,,,S45120,N1-8,leaf,Emelliodora-LB-Block2,H3,N1-8,,
-,,,,,,,,,S45121,N1-9,leaf,Emelliodora-LB-Block2,A4,N1-9,,
-,,,,,,,,,S45122,N1-10,leaf,Emelliodora-LB-Block2,B4,N1-10,,
-,,,,,,,,,S45123,site3-1,leaf,Emelliodora-LB-Block2,C4,site3-1,,
-,,,,,,,,,S45124,site3-2,leaf,Emelliodora-LB-Block2,D4,site3-2,,
-,,,,,,,,,S45125,site3-3,leaf,Emelliodora-LB-Block2,E4,site3-3,,
-,,,,,,,,,S45126,site3-4,leaf,Emelliodora-LB-Block2,F4,site3-4,,
-,,,,,,,,,S45127,site3-5,leaf,Emelliodora-LB-Block2,G4,site3-5,,
-,,,,,,,,,S45128,site3-6,leaf,Emelliodora-LB-Block2,H4,site3-6,,
-,,,,,,,,,S45129,site3-7,leaf,Emelliodora-LB-Block2,A5,site3-7,,
-,,,,,,,,,S45130,site3-8,leaf,Emelliodora-LB-Block2,B5,site3-8,,
-,,,,,,,,,S45131,site3-9,leaf,Emelliodora-LB-Block2,C5,site3-9,,
-,,,,,,,,,S45132,site3-10,leaf,Emelliodora-LB-Block2,D5,site3-10,,
-,,,,,,,,,S45133,site7-1,leaf,Emelliodora-LB-Block2,E5,site7-1,,
-,,,,,,,,,S45134,site7-2,leaf,Emelliodora-LB-Block2,F5,site7-2,,
-,,,,,,,,,S45135,site7-3,leaf,Emelliodora-LB-Block2,G5,site7-3,,
-,,,,,,,,,S45136,site7-4,leaf,Emelliodora-LB-Block2,H5,site7-4,,
-,,,,,,,,,S45137,site7-5,leaf,Emelliodora-LB-Block2,A6,site7-5,,
-,,,,,,,,,S45138,site7-6,leaf,Emelliodora-LB-Block2,B6,site7-6,,
-,,,,,,,,,S45139,site7-7,leaf,Emelliodora-LB-Block2,C6,site7-7,,
-,,,,,,,,,S45140,B-1,leaf,Emelliodora-LB-Block2,D6,B1,,
-,,,,,,,,,S45141,B-2,leaf,Emelliodora-LB-Block2,E6,B2,,
-,,,,,,,,,S45142,B-3,leaf,Emelliodora-LB-Block2,F6,B3,,
-,,,,,,,,,S45143,B-4,leaf,Emelliodora-LB-Block2,G6,B4,,
-,,,,,,,,,S45144,B-5,leaf,Emelliodora-LB-Block2,H6,B5,,
-,,,,,,,,,S45145,B-6,leaf,Emelliodora-LB-Block2,A7,B6,,
-,,,,,,,,,S45146,B-7,leaf,Emelliodora-LB-Block2,B7,B7,,
-,,,,,,,,,S45147,B-8,leaf,Emelliodora-LB-Block2,C7,B8,,
-,,,,,,,,,S45148,B-9,leaf,Emelliodora-LB-Block2,D7,B9,,
-,,,,,,,,,S45149,B-10,leaf,Emelliodora-LB-Block2,E7,B10,,
-,,,,,,,,,S45150,J2-1,leaf,Emelliodora-LB-Block2,F7,J2-1,,
-,,,,,,,,,S45151,J2-2,leaf,Emelliodora-LB-Block2,G7,J2-2,,
-,,,,,,,,,S45152,J2-3,leaf,Emelliodora-LB-Block2,H7,J2-3,,
-,,,,,,,,,S45153,J2-4,leaf,Emelliodora-LB-Block2,A8,J2-4,,
-,,,,,,,,,S45154,J2-5,leaf,Emelliodora-LB-Block2,B8,J2-5,,
-,,,,,,,,,S45155,J2-6,leaf,Emelliodora-LB-Block2,C8,J2-6,,
-,,,,,,,,,S45156,J2-7,leaf,Emelliodora-LB-Block2,D8,J2-7,,
-,,,,,,,,,S45157,J2-8,leaf,Emelliodora-LB-Block2,E8,J2-8,,
-,,,,,,,,,S45158,J2-9,leaf,Emelliodora-LB-Block2,F8,J2-9,,
-,,,,,,,,,S45159,J2-10,leaf,Emelliodora-LB-Block2,G8,J2-10,,
-,,,,,,,,,S45160,site17-1,leaf,Emelliodora-LB-Block2,H8,site17-1,,
-,,,,,,,,,S45161,site17-2,leaf,Emelliodora-LB-Block2,A9,site17-2,,
-,,,,,,,,,S45162,site17-3,leaf,Emelliodora-LB-Block2,B9,site17-3,,
-,,,,,,,,,S45163,site17-4,leaf,Emelliodora-LB-Block2,C9,site17-4,,
-,,,,,,,,,S45164,site17-5,leaf,Emelliodora-LB-Block2,D9,site17-5,,
-,,,,,,,,,S45165,site17-6,leaf,Emelliodora-LB-Block2,E9,site17-6,,
-,,,,,,,,,S45166,site17-7,leaf,Emelliodora-LB-Block2,F9,site17-7,,
-,,,,,,,,,S45167,site17-8,leaf,Emelliodora-LB-Block2,G9,site17-8,,
-,,,,,,,,,S45168,site17-9,leaf,Emelliodora-LB-Block2,H9,site17-9,,
-,,,,,,,,,S45169,site17-10,leaf,Emelliodora-LB-Block2,A10,site17-10,,
-,,,,,,,,,S45170,site11-1,leaf,Emelliodora-LB-Block2,B10,site11-1,,
-,,,,,,,,,S45171,site11-2,leaf,Emelliodora-LB-Block2,C10,site11-2,,
-,,,,,,,,,S45172,site11-3,leaf,Emelliodora-LB-Block2,D10,site11-3,,
-,,,,,,,,,S45173,site11-4,leaf,Emelliodora-LB-Block2,E10,site11-4,,
-,,,,,,,,,S45174,site11-5,leaf,Emelliodora-LB-Block2,F10,site11-5,,
-,,,,,,,,,S45175,site11-6,leaf,Emelliodora-LB-Block2,G10,site11-6,,
-,,,,,,,,,S45176,site11-7,leaf,Emelliodora-LB-Block2,H10,site11-7,,
-,,,,,,,,,S45177,site11-8,leaf,Emelliodora-LB-Block2,A11,site11-8,,
-,,,,,,,,,S45178,site11-9,leaf,Emelliodora-LB-Block2,B11,site11-9,,
-,,,,,,,,,S45179,site11-10,leaf,Emelliodora-LB-Block2,C11,site11-10,,
-,,,,,,,,,S45180,i2-1,leaf,Emelliodora-LB-Block2,D11,i2-1,,
-,,,,,,,,,S45181,i2-2,leaf,Emelliodora-LB-Block2,E11,i2-2,,
-,,,,,,,,,S45182,i2-3,leaf,Emelliodora-LB-Block2,F11,i2-3,,
-,,,,,,,,,S45183,i2-4,leaf,Emelliodora-LB-Block2,G11,i2-4,,
-,,,,,,,,,S45184,i2-5,leaf,Emelliodora-LB-Block2,H11,i2-5,,
-,,,,,,,,,S45185,i2-6,leaf,Emelliodora-LB-Block2,A12,i2-6,,
-,,,,,,,,,S45186,i2-7,leaf,Emelliodora-LB-Block2,B12,i2-7,,
-,,,,,,,,,S45187,i2-8,leaf,Emelliodora-LB-Block2,C12,i2-8,,
-,,,,,,,,,S45188,i2-9,leaf,Emelliodora-LB-Block2,D12,i2-9,,fail
-,,,,,,,,,S45189,i2-10,leaf,Emelliodora-LB-Block2,E12,i2-10,,
-,,,,,,,,,S45190,site16-1,leaf,Emelliodora-LB-Block2,F12,site16-1,,
-,,,,,,,,,S45191,site16-2,leaf,Emelliodora-LB-Block2,G12,site16-2,,
-,,,,,,,,,S45192,site16-3,leaf,Emelliodora-LB-Block2,H12,site16-3,,fail
-,,,,,,,,,S45193,site16-4,leaf,Emelliodora-LB-Block3,A1,site16-4,,
-,,,,,,,,,S45194,site16-5,leaf,Emelliodora-LB-Block3,B1,site16-5,,
-,,,,,,,,,S45195,site16-6,leaf,Emelliodora-LB-Block3,C1,site16-6,,
-,,,,,,,,,S45196,site16-7,leaf,Emelliodora-LB-Block3,D1,site16-7,,
-,,,,,,,,,S45197,site2-1,leaf,Emelliodora-LB-Block3,E1,site2-1,,
-,,,,,,,,,S45198,site2-2,leaf,Emelliodora-LB-Block3,F1,site2-2,,
-,,,,,,,,,S45199,site2-3,leaf,Emelliodora-LB-Block3,G1,site2-3,,
-,,,,,,,,,S45200,site2-4,leaf,Emelliodora-LB-Block3,H1,site2-4,,fail
-,,,,,,,,,S45201,site2-5,leaf,Emelliodora-LB-Block3,A2,site2-5,,
-,,,,,,,,,S45202,site2-6,leaf,Emelliodora-LB-Block3,B2,site2-6,,
-,,,,,,,,,S45203,site2-7,leaf,Emelliodora-LB-Block3,C2,site2-7,,
-,,,,,,,,,S45204,site2-8,leaf,Emelliodora-LB-Block3,D2,site2-8,,
-,,,,,,,,,S45205,site2-9,leaf,Emelliodora-LB-Block3,E2,site2-9,,
-,,,,,,,,,S45206,site2-10,leaf,Emelliodora-LB-Block3,F2,site2-10,,
-,,,,,,,,,S45207,site14-1,leaf,Emelliodora-LB-Block3,G2,site14-1,,
-,,,,,,,,,S45208,site14-2,leaf,Emelliodora-LB-Block3,H2,site14-2,,
-,,,,,,,,,S45209,site14-3,leaf,Emelliodora-LB-Block3,A3,site14-3,,
-,,,,,,,,,S45210,site14-4,leaf,Emelliodora-LB-Block3,B3,site14-4,,
-,,,,,,,,,S45211,site14-5,leaf,Emelliodora-LB-Block3,C3,site14-5,,
-,,,,,,,,,S45212,site14-6,leaf,Emelliodora-LB-Block3,D3,site14-6,,
-,,,,,,,,,S45213,site14-7,leaf,Emelliodora-LB-Block3,E3,site14-7,,
-,,,,,,,,,S45214,site14-8,leaf,Emelliodora-LB-Block3,F3,site14-8,,
-,,,,,,,,,S45215,site14-9,leaf,Emelliodora-LB-Block3,G3,site14-9,,
-,,,,,,,,,S45216,site14-10,leaf,Emelliodora-LB-Block3,H3,site14-10,,
-,,,,,,,,,S45217,site5-1,leaf,Emelliodora-LB-Block3,A4,site5-1,,outlier
-,,,,,,,,,S45218,site5-2,leaf,Emelliodora-LB-Block3,B4,site5-2,,
-,,,,,,,,,S45219,site5-3,leaf,Emelliodora-LB-Block3,C4,site5-3,,
-,,,,,,,,,S45220,site5-4,leaf,Emelliodora-LB-Block3,D4,site5-4,,
-,,,,,,,,,S45221,site5-5,leaf,Emelliodora-LB-Block3,E4,site5-5,,
-,,,,,,,,,S45222,site5-6,leaf,Emelliodora-LB-Block3,F4,site5-6,,
-,,,,,,,,,S45223,site5-7,leaf,Emelliodora-LB-Block3,G4,site5-7,,
-,,,,,,,,,S45224,site5-8,leaf,Emelliodora-LB-Block3,H4,site5-8,,
-,,,,,,,,,S45225,site5-9,leaf,Emelliodora-LB-Block3,A5,site5-9,,
-,,,,,,,,,S45226,site5-10,leaf,Emelliodora-LB-Block3,B5,site5-10,,
-,,,,,,,,,S45227,site10-1,leaf,Emelliodora-LB-Block3,C5,site10-1,,
-,,,,,,,,,S45228,site10-2,leaf,Emelliodora-LB-Block3,D5,site10-2,,
-,,,,,,,,,S45229,site10-3,leaf,Emelliodora-LB-Block3,E5,site10-3,,
-,,,,,,,,,S45230,site10-4,leaf,Emelliodora-LB-Block3,F5,site10-4,,
-,,,,,,,,,S45231,site10-5,leaf,Emelliodora-LB-Block3,G5,site10-5,,
-,,,,,,,,,S45232,site10-6,leaf,Emelliodora-LB-Block3,H5,site10-6,,
-,,,,,,,,,S45233,site10-7,leaf,Emelliodora-LB-Block3,A6,site10-7,,
-,,,,,,,,,S45234,site10-8,leaf,Emelliodora-LB-Block3,B6,site10-8,,
-,,,,,,,,,S45235,site10-9,leaf,Emelliodora-LB-Block3,C6,site10-9,,
-,,,,,,,,,S45236,site10-10,leaf,Emelliodora-LB-Block3,D6,site10-10,,
-,,,,,,,,,S45237,T1-1,leaf,Emelliodora-LB-Block3,E6,T1-1,,
-,,,,,,,,,S45238,T1-2,leaf,Emelliodora-LB-Block3,F6,T1-2,,
-,,,,,,,,,S45239,T1-3,leaf,Emelliodora-LB-Block3,G6,T1-3,,
-,,,,,,,,,S45240,T1-4,leaf,Emelliodora-LB-Block3,H6,T1-4,,
-,,,,,,,,,S45241,T1-5,leaf,Emelliodora-LB-Block3,A7,T1-5,,
-,,,,,,,,,S45242,T1-6,leaf,Emelliodora-LB-Block3,B7,T1-6,,
-,,,,,,,,,S45243,T1-7,leaf,Emelliodora-LB-Block3,C7,T1-7,,
-,,,,,,,,,S45244,T1-8,leaf,Emelliodora-LB-Block3,D7,T1-8,,
-,,,,,,,,,S45245,T1-9,leaf,Emelliodora-LB-Block3,E7,T1-9,,
-,,,,,,,,,S45246,T1-10,leaf,Emelliodora-LB-Block3,F7,T1-10,,
-,,,,,,,,,S45247,site19-1,leaf,Emelliodora-LB-Block3,G7,site19-1,,
-,,,,,,,,,S45248,site19-2,leaf,Emelliodora-LB-Block3,H7,site19-2,,
-,,,,,,,,,S45249,site19-3,leaf,Emelliodora-LB-Block3,A8,site19-3,,
-,,,,,,,,,S45250,site19-4,leaf,Emelliodora-LB-Block3,B8,site19-4,,
-,,,,,,,,,S45251,site19-5,leaf,Emelliodora-LB-Block3,C8,site19-5,,
-,,,,,,,,,S45252,site19-6,leaf,Emelliodora-LB-Block3,D8,site19-6,,
-,,,,,,,,,S45253,site19-7,leaf,Emelliodora-LB-Block3,E8,site19-7,,
-,,,,,,,,,S45254,site19-8,leaf,Emelliodora-LB-Block3,F8,site19-8,,
-,,,,,,,,,S45255,site19-9,leaf,Emelliodora-LB-Block3,G8,site19-9,,
-,,,,,,,,,S45256,site19-10,leaf,Emelliodora-LB-Block3,H8,site19-10,,
-,,,,,,,,,S45257,K2-1,leaf,Emelliodora-LB-Block3,A9,K2-1,,
-,,,,,,,,,S45258,K2-2,leaf,Emelliodora-LB-Block3,B9,K2-2,,
-,,,,,,,,,S45259,K2-3,leaf,Emelliodora-LB-Block3,C9,K2-3,,
-,,,,,,,,,S45260,K2-4,leaf,Emelliodora-LB-Block3,D9,K2-4,,
-,,,,,,,,,S45261,K2-5,leaf,Emelliodora-LB-Block3,E9,K2-5,,
-,,,,,,,,,S45262,K2-6,leaf,Emelliodora-LB-Block3,F9,K2-6,,
-,,,,,,,,,S45263,K2-7,leaf,Emelliodora-LB-Block3,G9,K2-7,,
-,,,,,,,,,S45264,K2-8,leaf,Emelliodora-LB-Block3,H9,K2-8,,
-,,,,,,,,,S45265,K2-9,leaf,Emelliodora-LB-Block3,A10,K2-9,,
-,,,,,,,,,S45266,K2-10,leaf,Emelliodora-LB-Block3,B10,K2-10,,
-,,,,,,,,,S45267,site20-1,leaf,Emelliodora-LB-Block3,C10,site20-1,,
-,,,,,,,,,S45268,site20-2,leaf,Emelliodora-LB-Block3,D10,site20-2,,
-,,,,,,,,,S45269,site20-3,leaf,Emelliodora-LB-Block3,E10,site20-3,,fail
-,,,,,,,,,S45270,site20-4,leaf,Emelliodora-LB-Block3,F10,site20-4,,
-,,,,,,,,,S45271,site20-5,leaf,Emelliodora-LB-Block3,G10,site20-5,,
-,,,,,,,,,S45272,site20-6,leaf,Emelliodora-LB-Block3,H10,site20-6,,
-,,,,,,,,,S45273,site20-7,leaf,Emelliodora-LB-Block3,A11,site20-7,,
-,,,,,,,,,S45274,site20-8,leaf,Emelliodora-LB-Block3,B11,site20-8,,
-,,,,,,,,,S45275,site20-9,leaf,Emelliodora-LB-Block3,C11,site20-9,,
-,,,,,,,,,S45276,site20-10,leaf,Emelliodora-LB-Block3,D11,site20-10,,
-,,,,,,,,,S45277,W2-1,leaf,Emelliodora-LB-Block3,E11,W2-1,,
-,,,,,,,,,S45278,W2-2,leaf,Emelliodora-LB-Block3,F11,W2-2,,
-,,,,,,,,,S45279,W2-3,leaf,Emelliodora-LB-Block3,G11,W2-3,,
-,,,,,,,,,S45280,W2-4,leaf,Emelliodora-LB-Block3,H11,W2-4,,
-,,,,,,,,,S45281,W2-5,leaf,Emelliodora-LB-Block3,A12,W2-5,,
-,,,,,,,,,S45282,W2-6,leaf,Emelliodora-LB-Block3,B12,W2-6,,
-,,,,,,,,,S45283,W2-7,leaf,Emelliodora-LB-Block3,C12,W2-7,,
-,,,,,,,,,S45284,W2-8,leaf,Emelliodora-LB-Block3,D12,W2-8,,
-,,,,,,,,,S45285,W2-9,leaf,Emelliodora-LB-Block3,E12,W2-9,,fail
-,,,,,,,,,S45286,W2-10,leaf,Emelliodora-LB-Block3,F12,W2-10,,fail
-,,,,,,,,,S45287,site24-1,leaf,Emelliodora-LB-Block3,G12,site24-1,,
-,,,,,,,,,S45288,site24-2,leaf,Emelliodora-LB-Block3,H12,site24-2,,fail
-,,,,,,,,,S45289,site24-3,leaf,Emelliodora-LB-Block4,A1,site24-3,,
-,,,,,,,,,S45290,site24-4,leaf,Emelliodora-LB-Block4,B1,site24-4,,
-,,,,,,,,,S45291,site24-5,leaf,Emelliodora-LB-Block4,C1,site24-5,,
-,,,,,,,,,S45292,site24-6,leaf,Emelliodora-LB-Block4,D1,site24-6,,
-,,,,,,,,,S45293,site24-7,leaf,Emelliodora-LB-Block4,E1,site24-7,,
-,,,,,,,,,S45294,site24-8,leaf,Emelliodora-LB-Block4,F1,site24-8,,
-,,,,,,,,,S45295,site24-9,leaf,Emelliodora-LB-Block4,G1,site24-9,,
-,,,,,,,,,S45296,site24-10,leaf,Emelliodora-LB-Block4,H1,site24-10,,fail
-,,,,,,,,,S45297,W3-1,leaf,Emelliodora-LB-Block4,A2,W3-1,,
-,,,,,,,,,S45298,W3-2,leaf,Emelliodora-LB-Block4,B2,W3-2,,
-,,,,,,,,,S45299,W3-3,leaf,Emelliodora-LB-Block4,C2,W3-3,,
-,,,,,,,,,S45300,W3-4,leaf,Emelliodora-LB-Block4,D2,W3-4,,
-,,,,,,,,,S45301,W3-5,leaf,Emelliodora-LB-Block4,E2,W3-5,,
-,,,,,,,,,S45302,W3-6,leaf,Emelliodora-LB-Block4,F2,W3-6,,
-,,,,,,,,,S45303,W3-7,leaf,Emelliodora-LB-Block4,G2,W3-7,,
-,,,,,,,,,S45304,W3-8,leaf,Emelliodora-LB-Block4,H2,W3-8,,
-,,,,,,,,,S45305,W3-9,leaf,Emelliodora-LB-Block4,A3,W3-9,,
-,,,,,,,,,S45306,W3-10,leaf,Emelliodora-LB-Block4,B3,W3-10,,
-,,,,,,,,,S45307,T3-1,leaf,Emelliodora-LB-Block4,C3,T3-1,,
-,,,,,,,,,S45308,T3-2,leaf,Emelliodora-LB-Block4,D3,T3-2,,
-,,,,,,,,,S45309,T3-3,leaf,Emelliodora-LB-Block4,E3,T3-3,,
-,,,,,,,,,S45310,T3-4,leaf,Emelliodora-LB-Block4,F3,T3-4,,
-,,,,,,,,,S45311,T3-5,leaf,Emelliodora-LB-Block4,G3,T3-5,,
-,,,,,,,,,S45312,T3-6,leaf,Emelliodora-LB-Block4,H3,T3-6,,
-,,,,,,,,,S45313,T3-7,leaf,Emelliodora-LB-Block4,A4,T3-7,,
-,,,,,,,,,S45314,T3-8,leaf,Emelliodora-LB-Block4,B4,T3-8,,
-,,,,,,,,,S45315,T3-9,leaf,Emelliodora-LB-Block4,C4,T3-9,,
-,,,,,,,,,S45316,T3-10,leaf,Emelliodora-LB-Block4,D4,T3-10,,
-,,,,,,,,,S45317,site21-1,leaf,Emelliodora-LB-Block4,E4,site21-1,,
-,,,,,,,,,S45318,site21-2,leaf,Emelliodora-LB-Block4,F4,site21-2,,
-,,,,,,,,,S45319,site21-3,leaf,Emelliodora-LB-Block4,G4,site21-3,,
-,,,,,,,,,S45320,site21-4,leaf,Emelliodora-LB-Block4,H4,site21-4,,
-,,,,,,,,,S45321,site21-5,leaf,Emelliodora-LB-Block4,A5,site21-5,,
-,,,,,,,,,S45322,site21-6,leaf,Emelliodora-LB-Block4,B5,site21-6,,
-,,,,,,,,,S45323,site21-7,leaf,Emelliodora-LB-Block4,C5,site21-7,,
-,,,,,,,,,S45324,site21-8,leaf,Emelliodora-LB-Block4,D5,site21-8,,
-,,,,,,,,,S45325,site21-9,leaf,Emelliodora-LB-Block4,E5,site21-9,,
-,,,,,,,,,S45326,site21-10,leaf,Emelliodora-LB-Block4,F5,site21-10,,
-,,,,,,,,,S45327,T2-1,leaf,Emelliodora-LB-Block4,G5,T2-1,,
-,,,,,,,,,S45328,T2-2,leaf,Emelliodora-LB-Block4,H5,T2-2,,
-,,,,,,,,,S45329,T2-3,leaf,Emelliodora-LB-Block4,A6,T2-3,,
-,,,,,,,,,S45330,T2-4,leaf,Emelliodora-LB-Block4,B6,T2-4,,
-,,,,,,,,,S45331,T2-5,leaf,Emelliodora-LB-Block4,C6,T2-5,,
-,,,,,,,,,S45332,T2-6,leaf,Emelliodora-LB-Block4,D6,T2-6,,
-,,,,,,,,,S45333,T2-7,leaf,Emelliodora-LB-Block4,E6,T2-7,,
-,,,,,,,,,S45334,T2-8,leaf,Emelliodora-LB-Block4,F6,T2-8,,
-,,,,,,,,,S45335,T2-9,leaf,Emelliodora-LB-Block4,G6,T2-9,,
-,,,,,,,,,S45336,T2-10,leaf,Emelliodora-LB-Block4,H6,T2-10,,
-,,,,,,,,,S45337,site13-1,leaf,Emelliodora-LB-Block4,A7,site13-1,,
-,,,,,,,,,S45338,site13-2,leaf,Emelliodora-LB-Block4,B7,site13-2,,
-,,,,,,,,,S45339,site13-3,leaf,Emelliodora-LB-Block4,C7,site13-3,,
-,,,,,,,,,S45340,site13-4,leaf,Emelliodora-LB-Block4,D7,site13-4,,
-,,,,,,,,,S45341,site13-5,leaf,Emelliodora-LB-Block4,E7,site13-5,,
-,,,,,,,,,S45342,site13-6,leaf,Emelliodora-LB-Block4,F7,site13-6,,
-,,,,,,,,,S45343,site26-1,leaf,Emelliodora-LB-Block4,G7,site26-1,,outlier
-,,,,,,,,,S45344,site26-2,leaf,Emelliodora-LB-Block4,H7,site26-2,,outlier
-,,,,,,,,,S45345,site26-3,leaf,Emelliodora-LB-Block4,A8,site26-3,,outlier
-,,,,,,,,,S45346,site26-4,leaf,Emelliodora-LB-Block4,B8,site26-4,,outlier
-,,,,,,,,,S45347,site26-5,leaf,Emelliodora-LB-Block4,C8,site26-5,,outlier
-,,,,,,,,,S45348,site26-6,leaf,Emelliodora-LB-Block4,D8,site26-6,,
-,,,,,,,,,S45349,site26-7,leaf,Emelliodora-LB-Block4,E8,site26-7,,outlier
-,,,,,,,,,S45350,site26-8,leaf,Emelliodora-LB-Block4,F8,site26-8,,outlier
-,,,,,,,,,S45351,site26-9,leaf,Emelliodora-LB-Block4,G8,site26-9,,
-,,,,,,,,,S45352,site26-10,leaf,Emelliodora-LB-Block4,H8,site26-10,,outlier
-,,,,,,,,,S45353,i1-1,leaf,Emelliodora-LB-Block4,A9,i1-1,,
-,,,,,,,,,S45354,i1-2,leaf,Emelliodora-LB-Block4,B9,i1-2,,
-,,,,,,,,,S45355,i1-3,leaf,Emelliodora-LB-Block4,C9,i1-3,,
-,,,,,,,,,S45356,i1-4,leaf,Emelliodora-LB-Block4,D9,i1-4,,
-,,,,,,,,,S45357,i1-5,leaf,Emelliodora-LB-Block4,E9,i1-5,,
-,,,,,,,,,S45358,i1-6,leaf,Emelliodora-LB-Block4,F9,i1-6,,
-,,,,,,,,,S45359,i1-7,leaf,Emelliodora-LB-Block4,G9,i1-7,,
-,,,,,,,,,S45360,i1-8,leaf,Emelliodora-LB-Block4,H9,i1-8,,
-,,,,,,,,,S45361,i1-9,leaf,Emelliodora-LB-Block4,A10,i1-9,,
-,,,,,,,,,S45362,i1-10,leaf,Emelliodora-LB-Block4,B10,i1-10,,
-,,,,,,,,,S45363,O-1,leaf,Emelliodora-LB-Block4,C10,O1,,outlier
-,,,,,,,,,S45364,O-2,leaf,Emelliodora-LB-Block4,D10,O2,,outlier
-,,,,,,,,,S45365,O-3,leaf,Emelliodora-LB-Block4,E10,O3,,outlier
-,,,,,,,,,S45366,O-4,leaf,Emelliodora-LB-Block4,F10,O4,,outlier
-,,,,,,,,,S45367,O-5,leaf,Emelliodora-LB-Block4,G10,O5,,outlier
-,,,,,,,,,S45368,O-6,leaf,Emelliodora-LB-Block4,H10,O6,,outlier
-,,,,,,,,,S45369,O-7,leaf,Emelliodora-LB-Block4,A11,O7,,outlier
-,,,,,,,,,S45370,O-8,leaf,Emelliodora-LB-Block4,B11,O8,,outlier
-,,,,,,,,,S45371,O-9,leaf,Emelliodora-LB-Block4,C11,O9,,outlier
-,,,,,,,,,S45372,O-10,leaf,Emelliodora-LB-Block4,D11,O10,,outlier
-,,,,,,,,,S45373,site7-1R,leaf,Emelliodora-LB-Block4,E11,site7-1,,
-,,,,,,,,,S45374,site7-2R,leaf,Emelliodora-LB-Block4,F11,site7-2,,
-,,,,,,,,,S45375,site7-3R,leaf,Emelliodora-LB-Block4,G11,site7-3,,
-,,,,,,,,,S45376,site7-4R,leaf,Emelliodora-LB-Block4,H11,site7-4,,
-,,,,,,,,,S45377,site7-5R,leaf,Emelliodora-LB-Block4,A12,site7-5,,
-,,,,,,,,,S45378,site7-6R,leaf,Emelliodora-LB-Block4,B12,site7-6,,
-,,,,,,,,,S45379,site7-7R,leaf,Emelliodora-LB-Block4,C12,site7-7,,
-,,,,,,,,,S45380,LB19_7_01,whole seedling,Emelliodora_Plate5_2015,A1,LB19_7_01,,
-,,,,,,,,,S45381,LBD_3_07,whole seedling,Emelliodora_Plate5_2015,B1,LBD_3_07,,
-,,,,,,,,,S45382,LB19_24_01,whole seedling,Emelliodora_Plate5_2015,C1,LB19_24_01,,
-,,,,,,,,,S45383,LBK2_28_08,whole seedling,Emelliodora_Plate5_2015,D1,LBK2_28_08,,
-,,,,,,,,,S45384,LB11_9_03R,whole seedling,Emelliodora_Plate5_2015,E1,LB11_9_03R,,
-,,,,,,,,,S45385,LB11_9_02R,whole seedling,Emelliodora_Plate5_2015,F1,LB11_9_02R,,
-,,,,,,,,,S45386,LBD_11_22,whole seedling,Emelliodora_Plate5_2015,G1,LBD_11_22,,
-,,,,,,,,,S45387,LBD_5_07,whole seedling,Emelliodora_Plate5_2015,H1,LBD_5_07,,
-,,,,,,,,,S45388,LB19_7_02,whole seedling,Emelliodora_Plate5_2015,A2,LB19_7_02,,
-,,,,,,,,,S45389,LBD_3_08,whole seedling,Emelliodora_Plate5_2015,B2,LBD_3_08,,
-,,,,,,,,,S45390,LB19_24_02,whole seedling,Emelliodora_Plate5_2015,C2,LB19_24_02,,
-,,,,,,,,,S45391,LBK2_26_01,whole seedling,Emelliodora_Plate5_2015,D2,LBK2_26_01,,
-,,,,,,,,,S45392,LBD_11_01,whole seedling,Emelliodora_Plate5_2015,E2,LBD_11_01,,
-,,,,,,,,,S45393,LBD_11_11,whole seedling,Emelliodora_Plate5_2015,F2,LBD_11_11,,
-,,,,,,,,,S45394,LBD_11_23,whole seedling,Emelliodora_Plate5_2015,G2,LBD_11_23,,
-,,,,,,,,,S45395,LBD_5_08,whole seedling,Emelliodora_Plate5_2015,H2,LBD_5_08,,
-,,,,,,,,,S45396,LB19_7_03,whole seedling,Emelliodora_Plate5_2015,A3,LB19_7_03,,
-,,,,,,,,,S45397,LBD_3_09,whole seedling,Emelliodora_Plate5_2015,B3,LBD_3_09,,
-,,,,,,,,,S45398,LB19_24_03,whole seedling,Emelliodora_Plate5_2015,C3,LB19_24_03,,
-,,,,,,,,,S45399,LBK2_26_02,whole seedling,Emelliodora_Plate5_2015,D3,LBK2_26_02,,
-,,,,,,,,,S45400,LBD_11_1R,whole seedling,Emelliodora_Plate5_2015,E3,LBD_11_1R,,
-,,,,,,,,,S45401,LBD_11_12,whole seedling,Emelliodora_Plate5_2015,F3,LBD_11_12,,
-,,,,,,,,,S45402,LBD_11_24,whole seedling,Emelliodora_Plate5_2015,G3,LBD_11_24,,
-,,,,,,,,,S45403,LBD_5_09,whole seedling,Emelliodora_Plate5_2015,H3,LBD_5_09,,
-,,,,,,,,,S45404,LB19_7_04,whole seedling,Emelliodora_Plate5_2015,A4,LB19_7_04,,
-,,,,,,,,,S45405,LBD_3_10,whole seedling,Emelliodora_Plate5_2015,B4,LBD_3_10,,
-,,,,,,,,,S45406,LB19_24_04,whole seedling,Emelliodora_Plate5_2015,C4,LB19_24_04,,
-,,,,,,,,,S45407,LBK2_26_03,whole seedling,Emelliodora_Plate5_2015,D4,LBK2_26_03,,
-,,,,,,,,,S45408,LBD_11_02,whole seedling,Emelliodora_Plate5_2015,E4,LBD_11_02,,
-,,,,,,,,,S45409,LBD_11_13,whole seedling,Emelliodora_Plate5_2015,F4,LBD_11_13,,
-,,,,,,,,,S45410,LBD_11_25,whole seedling,Emelliodora_Plate5_2015,G4,LBD_11_25,,
-,,,,,,,,,S45411,LBD_5_10,whole seedling,Emelliodora_Plate5_2015,H4,LBD_5_10,,
-,,,,,,,,,S45412,LB19_7_05,whole seedling,Emelliodora_Plate5_2015,A5,LB19_7_05,,
-,,,,,,,,,S45413,LBD_3_11,whole seedling,Emelliodora_Plate5_2015,B5,LBD_3_11,,
-,,,,,,,,,S45414,LB19_24_05,whole seedling,Emelliodora_Plate5_2015,C5,LB19_24_05,,
-,,,,,,,,,S45415,LBK2_26_04,whole seedling,Emelliodora_Plate5_2015,D5,LBK2_26_04,,
-,,,,,,,,,S45416,LBD_11_03,whole seedling,Emelliodora_Plate5_2015,E5,LBD_11_03,,
-,,,,,,,,,S45417,LBD_11_14,whole seedling,Emelliodora_Plate5_2015,F5,LBD_11_14,,
-,,,,,,,,,S45418,LBD_11_26,whole seedling,Emelliodora_Plate5_2015,G5,LBD_11_26,,
-,,,,,,,,,S45419,LBD_5_11,whole seedling,Emelliodora_Plate5_2015,H5,LBD_5_11,,
-,,,,,,,,,S45420,LBM_5_01,whole seedling,Emelliodora_Plate5_2015,A6,LBM_5_01,,
-,,,,,,,,,S45421,LBD_3_12,whole seedling,Emelliodora_Plate5_2015,B6,LBD_3_12,,
-,,,,,,,,,S45422,LBK2_28_01,whole seedling,Emelliodora_Plate5_2015,C6,LBK2_28_01,,
-,,,,,,,,,S45423,LBK2_26_05,whole seedling,Emelliodora_Plate5_2015,D6,LBK2_26_05,,
-,,,,,,,,,S45424,LBD_11_04,whole seedling,Emelliodora_Plate5_2015,E6,LBD_11_04,,
-,,,,,,,,,S45425,LBD_11_15,whole seedling,Emelliodora_Plate5_2015,F6,LBD_11_15,,
-,,,,,,,,,S45426,LBD_5_01,whole seedling,Emelliodora_Plate5_2015,G6,LBD_5_01,,
-,,,,,,,,,S45427,LBD_5_12,whole seedling,Emelliodora_Plate5_2015,H6,LBD_5_12,,
-,,,,,,,,,S45428,LBM_5_02,whole seedling,Emelliodora_Plate5_2015,A7,LBM_5_02,,
-,,,,,,,,,S45429,LBD_12_01,whole seedling,Emelliodora_Plate5_2015,B7,LBD_12_01,,
-,,,,,,,,,S45430,LBK2_28_02,whole seedling,Emelliodora_Plate5_2015,C7,LBK2_28_02,,
-,,,,,,,,,S45431,LBK2_26_06,whole seedling,Emelliodora_Plate5_2015,D7,LBK2_26_06,,
-,,,,,,,,,S45432,LBD_11_05,whole seedling,Emelliodora_Plate5_2015,E7,LBD_11_05,,
-,,,,,,,,,S45433,LBD_11_16,whole seedling,Emelliodora_Plate5_2015,F7,LBD_11_16,,
-,,,,,,,,,S45434,LBD_5_02,whole seedling,Emelliodora_Plate5_2015,G7,LBD_5_02,,
-,,,,,,,,,S45435,LBD_5_13,whole seedling,Emelliodora_Plate5_2015,H7,LBD_5_13,,
-,,,,,,,,,S45436,LBM_5_03,whole seedling,Emelliodora_Plate5_2015,A8,LBM_5_03,,
-,,,,,,,,,S45437,LBD_12_02,whole seedling,Emelliodora_Plate5_2015,B8,LBD_12_02,,
-,,,,,,,,,S45438,LBK2_28_03,whole seedling,Emelliodora_Plate5_2015,C8,LBK2_28_03,,
-,,,,,,,,,S45439,LBK2_26_07,whole seedling,Emelliodora_Plate5_2015,D8,LBK2_26_07,,
-,,,,,,,,,S45440,LBD_11_06,whole seedling,Emelliodora_Plate5_2015,E8,LBD_11_06,,
-,,,,,,,,,S45441,LBD_11_17,whole seedling,Emelliodora_Plate5_2015,F8,LBD_11_17,,
-,,,,,,,,,S45442,LBD_5_03,whole seedling,Emelliodora_Plate5_2015,G8,LBD_5_03,,
-,,,,,,,,,S45443,LBD_5_14,whole seedling,Emelliodora_Plate5_2015,H8,LBD_5_14,,
-,,,,,,,,,S45444,LBM_5_04,whole seedling,Emelliodora_Plate5_2015,A9,LBM_5_04,,
-,,,,,,,,,S45445,LBD_12_03,whole seedling,Emelliodora_Plate5_2015,B9,LBD_12_03,,
-,,,,,,,,,S45446,LBK2_28_04,whole seedling,Emelliodora_Plate5_2015,C9,LBK2_28_04,,
-,,,,,,,,,S45447,LBK2_26_08,whole seedling,Emelliodora_Plate5_2015,D9,LBK2_26_08,,
-,,,,,,,,,S45448,LBD_11_07,whole seedling,Emelliodora_Plate5_2015,E9,LBD_11_07,,
-,,,,,,,,,S45449,LBD_11_18,whole seedling,Emelliodora_Plate5_2015,F9,LBD_11_18,,
-,,,,,,,,,S45450,LBD_5_04,whole seedling,Emelliodora_Plate5_2015,G9,LBD_5_04,,
-,,,,,,,,,S45451,LBD_5_15,whole seedling,Emelliodora_Plate5_2015,H9,LBD_5_15,,
-,,,,,,,,,S45452,LBM_5_05,whole seedling,Emelliodora_Plate5_2015,A10,LBM_5_05,,
-,,,,,,,,,S45453,LBD_12_04,whole seedling,Emelliodora_Plate5_2015,B10,LBD_12_04,,
-,,,,,,,,,S45454,LBK2_28_05,whole seedling,Emelliodora_Plate5_2015,C10,LBK2_28_05,,
-,,,,,,,,,S45455,LB11_9_01,whole seedling,Emelliodora_Plate5_2015,D10,LB11_9_01,,
-,,,,,,,,,S45456,LBD_11_08,whole seedling,Emelliodora_Plate5_2015,E10,LBD_11_08,,
-,,,,,,,,,S45457,LBD_11_19,whole seedling,Emelliodora_Plate5_2015,F10,LBD_11_19,,
-,,,,,,,,,S45458,LBD_5_05,whole seedling,Emelliodora_Plate5_2015,G10,LBD_5_05,,
-,,,,,,,,,S45459,LBD_5_16,whole seedling,Emelliodora_Plate5_2015,H10,LBD_5_16,,
-,,,,,,,,,S45460,LBM_5_06,whole seedling,Emelliodora_Plate5_2015,A11,LBM_5_06,,
-,,,,,,,,,S45461,LBD_12_05,whole seedling,Emelliodora_Plate5_2015,B11,LBD_12_05,,
-,,,,,,,,,S45462,LBK2_28_06,whole seedling,Emelliodora_Plate5_2015,C11,LBK2_28_06,,
-,,,,,,,,,S45463,LB11_9_02,whole seedling,Emelliodora_Plate5_2015,D11,LB11_9_02,,
-,,,,,,,,,S45464,LBD_11_09,whole seedling,Emelliodora_Plate5_2015,E11,LBD_11_09,,
-,,,,,,,,,S45465,LBD_11_20,whole seedling,Emelliodora_Plate5_2015,F11,LBD_11_20,,
-,,,,,,,,,S45466,LBD_5_06,whole seedling,Emelliodora_Plate5_2015,G11,LBD_5_06,,
-,,,,,,,,,S45467,LBD_5_17,whole seedling,Emelliodora_Plate5_2015,H11,LBD_5_17,,
-,,,,,,,,,S45468,LBM_5_07,whole seedling,Emelliodora_Plate5_2015,A12,LBM_5_07,,
-,,,,,,,,,S45469,LBD_12_06,whole seedling,Emelliodora_Plate5_2015,B12,LBD_12_06,,
-,,,,,,,,,S45470,LBK2_28_07,whole seedling,Emelliodora_Plate5_2015,C12,LBK2_28_07,,
-,,,,,,,,,S45471,LB11_9_03,whole seedling,Emelliodora_Plate5_2015,D12,LB11_9_03,,
-,,,,,,,,,S45472,LBD_11_10,whole seedling,Emelliodora_Plate5_2015,E12,LBD_11_10,,
-,,,,,,,,,S45473,LBD_11_21,whole seedling,Emelliodora_Plate5_2015,F12,LBD_11_21,,
-,,,,,,,,,S45474,LBD_5_06R,whole seedling,Emelliodora_Plate5_2015,G12,LBD_5_06R,,
-,,,,,,,,,S45475,LBD_5_18,whole seedling,Emelliodora_Plate5_2015,H12,LBD_5_18,,
-,,,,,,,,,S45476,LBD_3_01,whole seedling,Emelliodora_Plate6_2015,A1,LBD_3_01,,
-,,,,,,,,,S45477,LBK2_22_07,whole seedling,Emelliodora_Plate6_2015,B1,LBK2_22_07,,
-,,,,,,,,,S45478,LBD_8_05,whole seedling,Emelliodora_Plate6_2015,C1,LBD_8_05,,
-,,,,,,,,,S45479,LB19_12_05,whole seedling,Emelliodora_Plate6_2015,D1,LB19_12_05,,
-,,,,,,,,,S45480,LB19_2_02,whole seedling,Emelliodora_Plate6_2015,E1,LB19_2_02,,
-,,,,,,,,,S45481,LB19_28_01,whole seedling,Emelliodora_Plate6_2015,F1,LB19_28_01,,
-,,,,,,,,,S45482,LB19_5_03,whole seedling,Emelliodora_Plate6_2015,G1,LB19_5_03,,
-,,,,,,,,,S45483,LBT1_14_02,whole seedling,Emelliodora_Plate6_2015,H1,LBT1_14_02,,
-,,,,,,,,,S45484,LBD_3_02,whole seedling,Emelliodora_Plate6_2015,A2,LBD_3_02,,
-,,,,,,,,,S45485,LBK2_22_08,whole seedling,Emelliodora_Plate6_2015,B2,LBK2_22_08,,
-,,,,,,,,,S45486,LBD_8_06,whole seedling,Emelliodora_Plate6_2015,C2,LBD_8_06,,
-,,,,,,,,,S45487,LB19_12_06,whole seedling,Emelliodora_Plate6_2015,D2,LB19_12_06,,
-,,,,,,,,,S45488,LB19_2_03,whole seedling,Emelliodora_Plate6_2015,E2,LB19_2_03,,
-,,,,,,,,,S45489,LB19_28_02,whole seedling,Emelliodora_Plate6_2015,F2,LB19_28_02,,
-,,,,,,,,,S45490,LB19_5_04,whole seedling,Emelliodora_Plate6_2015,G2,LB19_5_04,,
-,,,,,,,,,S45491,LBT1_14_03,whole seedling,Emelliodora_Plate6_2015,H2,LBT1_14_03,,
-,,,,,,,,,S45492,LBD_3_03,whole seedling,Emelliodora_Plate6_2015,A3,LBD_3_03,,
-,,,,,,,,,S45493,LBK2_22_09,whole seedling,Emelliodora_Plate6_2015,B3,LBK2_22_09,,
-,,,,,,,,,S45494,LBD_8_07,whole seedling,Emelliodora_Plate6_2015,C3,LBD_8_07,,
-,,,,,,,,,S45495,LB19_12_07,whole seedling,Emelliodora_Plate6_2015,D3,LB19_12_07,,
-,,,,,,,,,S45496,LB19_2_04,whole seedling,Emelliodora_Plate6_2015,E3,LB19_2_04,,
-,,,,,,,,,S45497,LB19_28_03,whole seedling,Emelliodora_Plate6_2015,F3,LB19_28_03,,
-,,,,,,,,,S45498,LB19_7_06,whole seedling,Emelliodora_Plate6_2015,G3,LB19_7_06,,
-,,,,,,,,,S45499,LBT1_14_04,whole seedling,Emelliodora_Plate6_2015,H3,LBT1_14_04,,
-,,,,,,,,,S45500,LBD_3_04,whole seedling,Emelliodora_Plate6_2015,A4,LBD_3_04,,
-,,,,,,,,,S45501,LBK2_22_10,whole seedling,Emelliodora_Plate6_2015,B4,LBK2_22_10,,
-,,,,,,,,,S45502,LBD_8_08,whole seedling,Emelliodora_Plate6_2015,C4,LBD_8_08,,
-,,,,,,,,,S45503,LB19_12_08,whole seedling,Emelliodora_Plate6_2015,D4,LB19_12_08,,
-,,,,,,,,,S45504,LB19_2_05,whole seedling,Emelliodora_Plate6_2015,E4,LB19_2_05,,
-,,,,,,,,,S45505,LB19_28_04,whole seedling,Emelliodora_Plate6_2015,F4,LB19_28_04,,
-,,,,,,,,,S45506,LB19_7_07,whole seedling,Emelliodora_Plate6_2015,G4,LB19_7_07,,
-,,,,,,,,,S45507,LBT1_14_05,whole seedling,Emelliodora_Plate6_2015,H4,LBT1_14_05,,
-,,,,,,,,,S45508,LBD_3_05,whole seedling,Emelliodora_Plate6_2015,A5,LBD_3_05,,
-,,,,,,,,,S45509,LBK2_22_11,whole seedling,Emelliodora_Plate6_2015,B5,LBK2_22_11,,
-,,,,,,,,,S45510,LBD_8_09,whole seedling,Emelliodora_Plate6_2015,C5,LBD_8_09,,
-,,,,,,,,,S45511,LB19_12_09,whole seedling,Emelliodora_Plate6_2015,D5,LB19_12_09,,
-,,,,,,,,,S45512,LB19_2_06,whole seedling,Emelliodora_Plate6_2015,E5,LB19_2_06,,
-,,,,,,,,,S45513,LB19_28_05,whole seedling,Emelliodora_Plate6_2015,F5,LB19_28_05,,
-,,,,,,,,,S45514,LB19_7_08,whole seedling,Emelliodora_Plate6_2015,G5,LB19_7_08,,
-,,,,,,,,,S45515,LBT1_14_06,whole seedling,Emelliodora_Plate6_2015,H5,LBT1_14_06,,
-,,,,,,,,,S45516,LBD_3_06,whole seedling,Emelliodora_Plate6_2015,A6,LBD_3_06,,
-,,,,,,,,,S45517,LBK2_22_12,whole seedling,Emelliodora_Plate6_2015,B6,LBK2_22_12,,
-,,,,,,,,,S45518,LBD_8_10,whole seedling,Emelliodora_Plate6_2015,C6,LBD_8_10,,
-,,,,,,,,,S45519,LB19_24_06,whole seedling,Emelliodora_Plate6_2015,D6,LB19_24_06,,
-,,,,,,,,,S45520,LB19_2_07,whole seedling,Emelliodora_Plate6_2015,E6,LB19_2_07,,
-,,,,,,,,,S45521,LB19_28_06,whole seedling,Emelliodora_Plate6_2015,F6,LB19_28_06,,
-,,,,,,,,,S45522,LB19_7_09,whole seedling,Emelliodora_Plate6_2015,G6,LB19_7_09,,
-,,,,,,,,,S45523,LBT1_14_07,whole seedling,Emelliodora_Plate6_2015,H6,LBT1_14_07,,
-,,,,,,,,,S45524,LBK2_22_01,whole seedling,Emelliodora_Plate6_2015,A7,LBK2_22_01,,
-,,,,,,,,,S45525,LBK2_22_13,whole seedling,Emelliodora_Plate6_2015,B7,LBK2_22_13,,
-,,,,,,,,,S45526,LBD_8_11,whole seedling,Emelliodora_Plate6_2015,C7,LBD_8_11,,
-,,,,,,,,,S45527,LB19_24_07,whole seedling,Emelliodora_Plate6_2015,D7,LB19_24_07,,
-,,,,,,,,,S45528,KMCH_01_01,whole seedling,Emelliodora_Plate6_2015,E7,KMCH_01_01,,
-,,,,,,,,,S45529,LB19_28_07,whole seedling,Emelliodora_Plate6_2015,F7,LB19_28_07,,
-,,,,,,,,,S45530,LB19_7_10,whole seedling,Emelliodora_Plate6_2015,G7,LB19_7_10,,
-,,,,,,,,,S45531,LBT1_14_08,whole seedling,Emelliodora_Plate6_2015,H7,LBT1_14_08,,
-,,,,,,,,,S45532,LBK2_22_02,whole seedling,Emelliodora_Plate6_2015,A8,LBK2_22_02,,
-,,,,,,,,,S45533,LBK2_22_14,whole seedling,Emelliodora_Plate6_2015,B8,LBK2_22_14,,
-,,,,,,,,,S45534,LBD_8_12,whole seedling,Emelliodora_Plate6_2015,C8,LBD_8_12,,
-,,,,,,,,,S45535,LB19_24_08,whole seedling,Emelliodora_Plate6_2015,D8,LB19_24_08,,
-,,,,,,,,,S45536,KMCH_01_02,whole seedling,Emelliodora_Plate6_2015,E8,KMCH_01_02,,
-,,,,,,,,,S45537,LB19_28_08,whole seedling,Emelliodora_Plate6_2015,F8,LB19_28_08,,
-,,,,,,,,,S45538,LB19_7_11,whole seedling,Emelliodora_Plate6_2015,G8,LB19_7_11,,
-,,,,,,,,,S45539,LBT1_14_09,whole seedling,Emelliodora_Plate6_2015,H8,LBT1_14_09,,
-,,,,,,,,,S45540,LBK2_22_03,whole seedling,Emelliodora_Plate6_2015,A9,LBK2_22_03,,
-,,,,,,,,,S45541,LBD_8_01,whole seedling,Emelliodora_Plate6_2015,B9,LBD_8_01,,
-,,,,,,,,,S45542,LB19_12_01,whole seedling,Emelliodora_Plate6_2015,C9,LB19_12_01,,
-,,,,,,,,,S45543,LB19_24_09,whole seedling,Emelliodora_Plate6_2015,D9,LB19_24_09,,
-,,,,,,,,,S45544,KMCH_01_03,whole seedling,Emelliodora_Plate6_2015,E9,KMCH_01_03,,
-,,,,,,,,,S45545,LB19_4_01,whole seedling,Emelliodora_Plate6_2015,F9,LB19_4_01,,
-,,,,,,,,,S45546,LB19_7_12,whole seedling,Emelliodora_Plate6_2015,G9,LB19_7_12,,
-,,,,,,,,,S45547,LBT1_14_10,whole seedling,Emelliodora_Plate6_2015,H9,LBT1_14_10,,
-,,,,,,,,,S45548,LBK2_22_04,whole seedling,Emelliodora_Plate6_2015,A10,LBK2_22_04,,
-,,,,,,,,,S45549,LBD_8_02,whole seedling,Emelliodora_Plate6_2015,B10,LBD_8_02,,
-,,,,,,,,,S45550,LB19_12_02,whole seedling,Emelliodora_Plate6_2015,C10,LB19_12_02,,
-,,,,,,,,,S45551,LB19_24_10,whole seedling,Emelliodora_Plate6_2015,D10,LB19_24_10,,
-,,,,,,,,,S45552,KMCH_01_04,whole seedling,Emelliodora_Plate6_2015,E10,KMCH_01_04,,
-,,,,,,,,,S45553,LB19_4_02,whole seedling,Emelliodora_Plate6_2015,F10,LB19_4_02,,
-,,,,,,,,,S45554,LB19_7_13,whole seedling,Emelliodora_Plate6_2015,G10,LB19_7_13,,
-,,,,,,,,,S45555,LBT1_14_11,whole seedling,Emelliodora_Plate6_2015,H10,LBT1_14_11,,
-,,,,,,,,,S45556,LBK2_22_05,whole seedling,Emelliodora_Plate6_2015,A11,LBK2_22_05,,
-,,,,,,,,,S45557,LBD_8_03,whole seedling,Emelliodora_Plate6_2015,B11,LBD_8_03,,
-,,,,,,,,,S45558,LB19_12_03,whole seedling,Emelliodora_Plate6_2015,C11,LB19_12_03,,
-,,,,,,,,,S45559,LB19_24_11,whole seedling,Emelliodora_Plate6_2015,D11,LB19_24_11,,
-,,,,,,,,,S45560,KMCH_01_05,whole seedling,Emelliodora_Plate6_2015,E11,KMCH_01_05,,
-,,,,,,,,,S45561,LB19_5_01,whole seedling,Emelliodora_Plate6_2015,F11,LB19_5_01,,
-,,,,,,,,,S45562,LBT1_02_01,whole seedling,Emelliodora_Plate6_2015,G11,LBT1_02_01,,
-,,,,,,,,,S45563,LBT1_14_12,whole seedling,Emelliodora_Plate6_2015,H11,LBT1_14_12,,
-,,,,,,,,,S45564,LBK2_22_06,whole seedling,Emelliodora_Plate6_2015,A12,LBK2_22_06,,
-,,,,,,,,,S45565,LBD_8_04,whole seedling,Emelliodora_Plate6_2015,B12,LBD_8_04,,
-,,,,,,,,,S45566,LB19_12_04,whole seedling,Emelliodora_Plate6_2015,C12,LB19_12_04,,
-,,,,,,,,,S45567,LB19_2_01,whole seedling,Emelliodora_Plate6_2015,D12,LB19_2_01,,
-,,,,,,,,,S45568,KMCH_01_06,whole seedling,Emelliodora_Plate6_2015,E12,KMCH_01_06,,
-,,,,,,,,,S45569,LB19_5_02,whole seedling,Emelliodora_Plate6_2015,F12,LB19_5_02,,
-,,,,,,,,,S45570,LBT1_14_01,whole seedling,Emelliodora_Plate6_2015,G12,LBT1_14_01,,
-,,,,,,,,,S45571,LBT1_14_13,whole seedling,Emelliodora_Plate6_2015,H12,LBT1_14_13,,
-,,,,,,,,,S45572,LBD_11_27,whole seedling,Emelliodora_Plate9_2015,A1,LBD_11_27,,
-,,,,,,,,,S45573,LBD_11_28,whole seedling,Emelliodora_Plate9_2015,B1,LBD_11_28,,
-,,,,,,,,,S45574,LBD_11_29,whole seedling,Emelliodora_Plate9_2015,C1,LBD_11_29,,
-,,,,,,,,,S45575,LBD_11_30,whole seedling,Emelliodora_Plate9_2015,D1,LBD_11_30,,
-,,,,,,,,,S45576,LBD_11_31,whole seedling,Emelliodora_Plate9_2015,E1,LBD_11_31,,
-,,,,,,,,,S45577,LBD_11_32,whole seedling,Emelliodora_Plate9_2015,F1,LBD_11_32,,
-,,,,,,,,,S45578,LBD_11_33,whole seedling,Emelliodora_Plate9_2015,G1,LBD_11_33,,
-,,,,,,,,,S45579,LBD_11_34,whole seedling,Emelliodora_Plate9_2015,H1,LBD_11_34,,
-,,,,,,,,,S45580,LBD_5_08,whole seedling,Emelliodora_Plate9_2015,A2,LBD_5_08,,
-,,,,,,,,,S45581,LBD_5_09,whole seedling,Emelliodora_Plate9_2015,B2,LBD_5_09,,
-,,,,,,,,,S45582,LBD_5_10,whole seedling,Emelliodora_Plate9_2015,C2,LBD_5_10,,
-,,,,,,,,,S45583,LBD_5_11,whole seedling,Emelliodora_Plate9_2015,D2,LBD_5_11,,
-,,,,,,,,,S45584,LBD_5_12,whole seedling,Emelliodora_Plate9_2015,E2,LBD_5_12,,
-,,,,,,,,,S45585,LBD_5_13,whole seedling,Emelliodora_Plate9_2015,F2,LBD_5_13,,
-,,,,,,,,,S45586,LBD_5_14,whole seedling,Emelliodora_Plate9_2015,G2,LBD_5_14,,
-,,,,,,,,,S45587,LBD_5_15,whole seedling,Emelliodora_Plate9_2015,H2,LBD_5_15,,
-,,,,,,,,,S45588,LBD_6_01,whole seedling,Emelliodora_Plate9_2015,A3,LBD_6_01,,
-,,,,,,,,,S45589,LBD_6_02,whole seedling,Emelliodora_Plate9_2015,B3,LBD_6_02,,
-,,,,,,,,,S45590,LBD_6_03,whole seedling,Emelliodora_Plate9_2015,C3,LBD_6_03,,
-,,,,,,,,,S45591,LBD_6_04,whole seedling,Emelliodora_Plate9_2015,D3,LBD_6_04,,
-,,,,,,,,,S45592,LBD_6_05,whole seedling,Emelliodora_Plate9_2015,E3,LBD_6_05,,
-,,,,,,,,,S45593,LBD_6_06,whole seedling,Emelliodora_Plate9_2015,F3,LBD_6_06,,
-,,,,,,,,,S45594,LBD_6_07,whole seedling,Emelliodora_Plate9_2015,G3,LBD_6_07,,
-,,,,,,,,,S45595,LBD_6_08,whole seedling,Emelliodora_Plate9_2015,H3,LBD_6_08,,
-,,,,,,,,,S45596,LBD_10_01,whole seedling,Emelliodora_Plate9_2015,A4,LBD_10_01,,
-,,,,,,,,,S45597,LBD_10_02,whole seedling,Emelliodora_Plate9_2015,B4,LBD_10_02,,
-,,,,,,,,,S45598,LBD_10_03,whole seedling,Emelliodora_Plate9_2015,C4,LBD_10_03,,
-,,,,,,,,,S45599,LBD_10_04,whole seedling,Emelliodora_Plate9_2015,D4,LBD_10_04,,
-,,,,,,,,,S45600,LBD_10_05,whole seedling,Emelliodora_Plate9_2015,E4,LBD_10_05,,
-,,,,,,,,,S45601,LBD_10_06,whole seedling,Emelliodora_Plate9_2015,F4,LBD_10_06,,
-,,,,,,,,,S45602,LBD_10_07,whole seedling,Emelliodora_Plate9_2015,G4,LBD_10_07,,
-,,,,,,,,,S45603,LBD_10_08,whole seedling,Emelliodora_Plate9_2015,H4,LBD_10_08,,
-,,,,,,,,,S45604,LB21_13_01,whole seedling,Emelliodora_Plate9_2015,A5,LB21_13_01,,
-,,,,,,,,,S45605,LB21_13_02,whole seedling,Emelliodora_Plate9_2015,B5,LB21_13_02,,
-,,,,,,,,,S45606,LB21_13_03,whole seedling,Emelliodora_Plate9_2015,C5,LB21_13_03,,
-,,,,,,,,,S45607,LB21_13_04,whole seedling,Emelliodora_Plate9_2015,D5,LB21_13_04,,
-,,,,,,,,,S45608,LB21_13_05,whole seedling,Emelliodora_Plate9_2015,E5,LB21_13_05,,
-,,,,,,,,,S45609,LB21_13_06,whole seedling,Emelliodora_Plate9_2015,F5,LB21_13_06,,
-,,,,,,,,,S45610,LB21_24_01,whole seedling,Emelliodora_Plate9_2015,G5,LB21_24_01,,
-,,,,,,,,,S45611,LB21_24_02,whole seedling,Emelliodora_Plate9_2015,H5,LB21_24_02,,
-,,,,,,,,,S45612,LB21_7_01,whole seedling,Emelliodora_Plate9_2015,A6,LB21_7_01,,
-,,,,,,,,,S45613,LB21_7_02,whole seedling,Emelliodora_Plate9_2015,B6,LB21_7_02,,
-,,,,,,,,,S45614,LB21_7_03,whole seedling,Emelliodora_Plate9_2015,C6,LB21_7_03,,
-,,,,,,,,,S45615,LB21_7_04,whole seedling,Emelliodora_Plate9_2015,D6,LB21_7_04,,
-,,,,,,,,,S45616,LB21_7_05,whole seedling,Emelliodora_Plate9_2015,E6,LB21_7_05,,
-,,,,,,,,,S45617,LB21_7_06,whole seedling,Emelliodora_Plate9_2015,F6,LB21_7_06,,
-,,,,,,,,,S45618,LB21_7_07,whole seedling,Emelliodora_Plate9_2015,G6,LB21_7_07,,
-,,,,,,,,,S45619,LB21_7_07R,whole seedling,Emelliodora_Plate9_2015,H6,LB21_7_07R,,
-,,,,,,,,,S45620,LB21_1_01,whole seedling,Emelliodora_Plate9_2015,A7,LB21_1_01,,
-,,,,,,,,,S45621,LB21_1_01R,whole seedling,Emelliodora_Plate9_2015,B7,LB21_1_01R,,
-,,,,,,,,,S45622,LB21_1_02,whole seedling,Emelliodora_Plate9_2015,C7,LB21_1_02,,
-,,,,,,,,,S45623,LB21_1_02R,whole seedling,Emelliodora_Plate9_2015,D7,LB21_1_02R,,
-,,,,,,,,,S45624,LB21_1_03,whole seedling,Emelliodora_Plate9_2015,E7,LB21_1_03,,
-,,,,,,,,,S45625,LB21_1_04,whole seedling,Emelliodora_Plate9_2015,F7,LB21_1_04,,
-,,,,,,,,,S45626,LB21_1_05,whole seedling,Emelliodora_Plate9_2015,G7,LB21_1_05,,
-,,,,,,,,,S45627,LB21_1_06,whole seedling,Emelliodora_Plate9_2015,H7,LB21_1_06,,
-,,,,,,,,,S45628,LB21_1_07,whole seedling,Emelliodora_Plate9_2015,A8,LB21_1_07,,
-,,,,,,,,,S45629,LB21_1_08,whole seedling,Emelliodora_Plate9_2015,B8,LB21_1_08,,
-,,,,,,,,,S45630,LB21_5_01,whole seedling,Emelliodora_Plate9_2015,C8,LB21_5_01,,
-,,,,,,,,,S45631,LB21_5_01R,whole seedling,Emelliodora_Plate9_2015,D8,LB21_5_01R,,
-,,,,,,,,,S45632,LB21_5_02,whole seedling,Emelliodora_Plate9_2015,E8,LB21_5_02,,
-,,,,,,,,,S45633,LB21_5_02R,whole seedling,Emelliodora_Plate9_2015,F8,LB21_5_02R,,
-,,,,,,,,,S45634,LB21_5_03,whole seedling,Emelliodora_Plate9_2015,G8,LB21_5_03,,
-,,,,,,,,,S45635,LB21_5_04,whole seedling,Emelliodora_Plate9_2015,H8,LB21_5_04,,
-,,,,,,,,,S45636,LB21_5_05,whole seedling,Emelliodora_Plate9_2015,A9,LB21_5_05,,
-,,,,,,,,,S45637,LB21_5_06,whole seedling,Emelliodora_Plate9_2015,B9,LB21_5_06,,
-,,,,,,,,,S45638,LB21_5_07,whole seedling,Emelliodora_Plate9_2015,C9,LB21_5_07,,
-,,,,,,,,,S45639,LB21_5_08,whole seedling,Emelliodora_Plate9_2015,D9,LB21_5_08,,
-,,,,,,,,,S45640,LB21_5_09,whole seedling,Emelliodora_Plate9_2015,E9,LB21_5_09,,
-,,,,,,,,,S45641,LB21_5_10,whole seedling,Emelliodora_Plate9_2015,F9,LB21_5_10,,
-,,,,,,,,,S45642,LB21_5_11,whole seedling,Emelliodora_Plate9_2015,G9,LB21_5_11,,
-,,,,,,,,,S45643,LBM_6_01,whole seedling,Emelliodora_Plate9_2015,H9,LBM_6_01,,
-,,,,,,,,,S45644,LBM_6_02,whole seedling,Emelliodora_Plate9_2015,A10,LBM_6_02,,
-,,,,,,,,,S45645,LBM_6_03,whole seedling,Emelliodora_Plate9_2015,B10,LBM_6_03,,
-,,,,,,,,,S45646,LBM_1_01,whole seedling,Emelliodora_Plate9_2015,C10,LBM_1_01,,
-,,,,,,,,,S45647,LBM_1_02,whole seedling,Emelliodora_Plate9_2015,D10,LBM_1_02,,
-,,,,,,,,,S45648,LBM_1_03,whole seedling,Emelliodora_Plate9_2015,E10,LBM_1_03,,
-,,,,,,,,,S45649,LBM_1_04,whole seedling,Emelliodora_Plate9_2015,F10,LBM_1_04,,
-,,,,,,,,,S45650,LBM_1_05,whole seedling,Emelliodora_Plate9_2015,G10,LBM_1_05,,
-,,,,,,,,,S45651,LBM_1_06,whole seedling,Emelliodora_Plate9_2015,H10,LBM_1_06,,
-,,,,,,,,,S45652,LBM_1_07,whole seedling,Emelliodora_Plate9_2015,A11,LBM_1_07,,
-,,,,,,,,,S45653,LBM_1_08,whole seedling,Emelliodora_Plate9_2015,B11,LBM_1_08,,
-,,,,,,,,,S45654,LBM_1_09,whole seedling,Emelliodora_Plate9_2015,C11,LBM_1_09,,
-,,,,,,,,,S45655,LBM_1_10,whole seedling,Emelliodora_Plate9_2015,D11,LBM_1_10,,
-,,,,,,,,,S45656,LBM_1_11,whole seedling,Emelliodora_Plate9_2015,E11,LBM_1_11,,
-,,,,,,,,,S45657,LBM_1_12,whole seedling,Emelliodora_Plate9_2015,F11,LBM_1_12,,
-,,,,,,,,,S45658,LBM_1_13,whole seedling,Emelliodora_Plate9_2015,G11,LBM_1_13,,
-,,,,,,,,,S45659,LBM_1_14,whole seedling,Emelliodora_Plate9_2015,H11,LBM_1_14,,
-,,,,,,,,,S45660,LBM_1_15,whole seedling,Emelliodora_Plate9_2015,A12,LBM_1_15,,
-,,,,,,,,,S45661,LBM_1_16,whole seedling,Emelliodora_Plate9_2015,B12,LBM_1_16,,
-,,,,,,,,,S45662,LBM_1_17,whole seedling,Emelliodora_Plate9_2015,C12,LBM_1_17,,
-,,,,,,,,,S45663,LBM_1_18,whole seedling,Emelliodora_Plate9_2015,D12,LBM_1_18,,
-,,,,,,,,,S45664,LBM_1_19,whole seedling,Emelliodora_Plate9_2015,E12,LBM_1_19,,
-,,,,,,,,,S45665,LBM_1_20,whole seedling,Emelliodora_Plate9_2015,F12,LBM_1_20,,
-,,,,,,,,,S45666,LBM_1_21,whole seedling,Emelliodora_Plate9_2015,G12,LBM_1_21,,
-,,,,,,,,,S45667,LBM_1_22,whole seedling,Emelliodora_Plate9_2015,H12,LBM_1_22,,
-,,,,,,,,,S45668,LBM_2_01,whole seedling,Emelliodora_Plate10_2015,A1,LBM_2_01,,
-,,,,,,,,,S45669,LBM_2_02,whole seedling,Emelliodora_Plate10_2015,B1,LBM_2_02,,
-,,,,,,,,,S45670,LBM_2_03,whole seedling,Emelliodora_Plate10_2015,C1,LBM_2_03,,
-,,,,,,,,,S45671,LBM_2_04,whole seedling,Emelliodora_Plate10_2015,D1,LBM_2_04,,
-,,,,,,,,,S45672,LBM_2_05,whole seedling,Emelliodora_Plate10_2015,E1,LBM_2_05,,
-,,,,,,,,,S45673,LBM_2_06,whole seedling,Emelliodora_Plate10_2015,F1,LBM_2_06,,
-,,,,,,,,,S45674,LBM_2_07,whole seedling,Emelliodora_Plate10_2015,G1,LBM_2_07,,
-,,,,,,,,,S45675,LBM_2_08,whole seedling,Emelliodora_Plate10_2015,H1,LBM_2_08,,
-,,,,,,,,,S45676,LBM_5_08,whole seedling,Emelliodora_Plate10_2015,A2,LBM_5_08,,
-,,,,,,,,,S45677,LBM_5_09,whole seedling,Emelliodora_Plate10_2015,B2,LBM_5_09,,
-,,,,,,,,,S45678,LBM_5_10,whole seedling,Emelliodora_Plate10_2015,C2,LBM_5_10,,
-,,,,,,,,,S45679,LBM_5_11,whole seedling,Emelliodora_Plate10_2015,D2,LBM_5_11,,
-,,,,,,,,,S45680,LBM_5_12,whole seedling,Emelliodora_Plate10_2015,E2,LBM_5_12,,
-,,,,,,,,,S45681,LBM_5_13,whole seedling,Emelliodora_Plate10_2015,F2,LBM_5_13,,
-,,,,,,,,,S45682,LBM_5_13R,whole seedling,Emelliodora_Plate10_2015,G2,LBM_5_13R,,
-,,,,,,,,,S45683,LBM_5_14,whole seedling,Emelliodora_Plate10_2015,H2,LBM_5_14,,
-,,,,,,,,,S45684,LBM_5_15,whole seedling,Emelliodora_Plate10_2015,A3,LBM_5_15,,
-,,,,,,,,,S45685,LBM_5_16,whole seedling,Emelliodora_Plate10_2015,B3,LBM_5_16,,
-,,,,,,,,,S45686,LBM_5_17,whole seedling,Emelliodora_Plate10_2015,C3,LBM_5_17,,
-,,,,,,,,,S45687,LBM_5_18,whole seedling,Emelliodora_Plate10_2015,D3,LBM_5_18,,
-,,,,,,,,,S45688,LBM_5_19,whole seedling,Emelliodora_Plate10_2015,E3,LBM_5_19,,
-,,,,,,,,,S45689,LBM_3_1,whole seedling,Emelliodora_Plate10_2015,F3,LBM_3_1,,
-,,,,,,,,,S45690,LBM_3_2,whole seedling,Emelliodora_Plate10_2015,G3,LBM_3_2,,
-,,,,,,,,,S45691,LBM_3_3,whole seedling,Emelliodora_Plate10_2015,H3,LBM_3_3,,
-,,,,,,,,,S45692,LBM_3_04,whole seedling,Emelliodora_Plate10_2015,A4,LBM_3_04,,
-,,,,,,,,,S45693,LBM_3_05,whole seedling,Emelliodora_Plate10_2015,B4,LBM_3_05,,
-,,,,,,,,,S45694,LBM_3_06,whole seedling,Emelliodora_Plate10_2015,C4,LBM_3_06,,
-,,,,,,,,,S45695,LBM_3_07,whole seedling,Emelliodora_Plate10_2015,D4,LBM_3_07,,
-,,,,,,,,,S45696,LBM_3_08,whole seedling,Emelliodora_Plate10_2015,E4,LBM_3_08,,
-,,,,,,,,,S45697,LB24_22_1,whole seedling,Emelliodora_Plate10_2015,F4,LB24_22_1,,
-,,,,,,,,,S45698,LB24_22_2,whole seedling,Emelliodora_Plate10_2015,G4,LB24_22_2,,
-,,,,,,,,,S45699,LB24_22_3,whole seedling,Emelliodora_Plate10_2015,H4,LB24_22_3,,
-,,,,,,,,,S45700,LB24_22_4,whole seedling,Emelliodora_Plate10_2015,A5,LB24_22_4,,
-,,,,,,,,,S45701,LB24_22_5,whole seedling,Emelliodora_Plate10_2015,B5,LB24_22_5,,
-,,,,,,,,,S45702,LB24_22_6,whole seedling,Emelliodora_Plate10_2015,C5,LB24_22_6,,
-,,,,,,,,,S45703,LB24_22_7,whole seedling,Emelliodora_Plate10_2015,D5,LB24_22_7,,
-,,,,,,,,,S45704,LB24_22_8,whole seedling,Emelliodora_Plate10_2015,E5,LB24_22_8,,
-,,,,,,,,,S45705,LB24_22_9,whole seedling,Emelliodora_Plate10_2015,F5,LB24_22_9,,
-,,,,,,,,,S45706,LB24_22_10,whole seedling,Emelliodora_Plate10_2015,G5,LB24_22_10,,
-,,,,,,,,,S45707,LB24_22_11,whole seedling,Emelliodora_Plate10_2015,H5,LB24_22_11,,
-,,,,,,,,,S45708,LB24_22_12,whole seedling,Emelliodora_Plate10_2015,A6,LB24_22_12,,
-,,,,,,,,,S45709,LB24_22_13,whole seedling,Emelliodora_Plate10_2015,B6,LB24_22_13,,
-,,,,,,,,,S45710,LB24_20_01,whole seedling,Emelliodora_Plate10_2015,C6,LB24_20_01,,
-,,,,,,,,,S45711,LB24_20_02,whole seedling,Emelliodora_Plate10_2015,D6,LB24_20_02,,
-,,,,,,,,,S45712,LB24_20_03,whole seedling,Emelliodora_Plate10_2015,E6,LB24_20_03,,
-,,,,,,,,,S45713,LB24_20_04,whole seedling,Emelliodora_Plate10_2015,F6,LB24_20_04,,
-,,,,,,,,,S45714,LB24_20_05,whole seedling,Emelliodora_Plate10_2015,G6,LB24_20_05,,
-,,,,,,,,,S45715,LB24_20_06,whole seedling,Emelliodora_Plate10_2015,H6,LB24_20_06,,
-,,,,,,,,,S45716,LB24_20_07,whole seedling,Emelliodora_Plate10_2015,A7,LB24_20_07,,
-,,,,,,,,,S45717,LB24_20_08,whole seedling,Emelliodora_Plate10_2015,B7,LB24_20_08,,
-,,,,,,,,,S45718,LB24_20_09,whole seedling,Emelliodora_Plate10_2015,C7,LB24_20_09,,
-,,,,,,,,,S45719,LB24_20_10,whole seedling,Emelliodora_Plate10_2015,D7,LB24_20_10,,
-,,,,,,,,,S45720,LBK2_28_09,whole seedling,Emelliodora_Plate10_2015,E7,LBK2_28_09,,
-,,,,,,,,,S45721,LBK2_28_10,whole seedling,Emelliodora_Plate10_2015,F7,LBK2_28_10,,
-,,,,,,,,,S45722,LBK2_26_09,whole seedling,Emelliodora_Plate10_2015,G7,LBK2_26_09,,
-,,,,,,,,,S45723,LBK2_26_10,whole seedling,Emelliodora_Plate10_2015,H7,LBK2_26_10,,
-,,,,,,,,,S45724,LBM_1_23,whole seedling,Emelliodora_Plate10_2015,A8,LBM_1_23,,
-,,,,,,,,,S45725,LBM_1_24,whole seedling,Emelliodora_Plate10_2015,B8,LBM_1_24,,
-,,,,,,,,,S45726,LBM_1_25,whole seedling,Emelliodora_Plate10_2015,C8,LBM_1_25,,
-,,,,,,,,,S45727,LB11_8_01,whole seedling,Emelliodora_Plate10_2015,D8,LB11_8_01,,
-,,,,,,,,,S45728,LB11_8_02,whole seedling,Emelliodora_Plate10_2015,E8,LB11_8_02,,
-,,,,,,,,,S45729,LB11_8_03,whole seedling,Emelliodora_Plate10_2015,F8,LB11_8_03,,
-,,,,,,,,,S45730,LB11_8_04,whole seedling,Emelliodora_Plate10_2015,G8,LB11_8_04,,
-,,,,,,,,,S45731,LB11_8_05,whole seedling,Emelliodora_Plate10_2015,H8,LB11_8_05,,
-,,,,,,,,,S45732,LB11_8_06,whole seedling,Emelliodora_Plate10_2015,A9,LB11_8_06,,
-,,,,,,,,,S45733,LB11_8_07,whole seedling,Emelliodora_Plate10_2015,B9,LB11_8_07,,
-,,,,,,,,,S45734,LB11_8_08,whole seedling,Emelliodora_Plate10_2015,C9,LB11_8_08,,
-,,,,,,,,,S45735,LB11_8_09,whole seedling,Emelliodora_Plate10_2015,D9,LB11_8_09,,
-,,,,,,,,,S45736,LB11_8_10,whole seedling,Emelliodora_Plate10_2015,E9,LB11_8_10,,
-,,,,,,,,,S45737,LB11_8_11,whole seedling,Emelliodora_Plate10_2015,F9,LB11_8_11,,
-,,,,,,,,,S45738,LB11_8_12,whole seedling,Emelliodora_Plate10_2015,G9,LB11_8_12,,
-,,,,,,,,,S45739,LB24_16_01,whole seedling,Emelliodora_Plate10_2015,H9,LB24_16_01,,
-,,,,,,,,,S45740,LB24_16_02,whole seedling,Emelliodora_Plate10_2015,A10,LB24_16_02,,
-,,,,,,,,,S45741,LB24_16_03,whole seedling,Emelliodora_Plate10_2015,B10,LB24_16_03,,
-,,,,,,,,,S45742,LB24_16_04,whole seedling,Emelliodora_Plate10_2015,C10,LB24_16_04,,
-,,,,,,,,,S45743,LB24_16_05,whole seedling,Emelliodora_Plate10_2015,D10,LB24_16_05,,
-,,,,,,,,,S45744,LB24_16_06,whole seedling,Emelliodora_Plate10_2015,E10,LB24_16_06,,
-,,,,,,,,,S45745,LB24_16_07,whole seedling,Emelliodora_Plate10_2015,F10,LB24_16_07,,
-,,,,,,,,,S45746,LB24_16_08,whole seedling,Emelliodora_Plate10_2015,G10,LB24_16_08,,
-,,,,,,,,,S45747,LB24_16_09,whole seedling,Emelliodora_Plate10_2015,H10,LB24_16_09,,
-,,,,,,,,,S45748,LB24_16_10,whole seedling,Emelliodora_Plate10_2015,A11,LB24_16_10,,
-,,,,,,,,,S45749,LBM_6_01,whole seedling,Emelliodora_Plate10_2015,B11,LBM_6_01,,
-,,,,,,,,,S45750,LBM_6_02,whole seedling,Emelliodora_Plate10_2015,C11,LBM_6_02,,
-,,,,,,,,,S45751,LBM_6_03,whole seedling,Emelliodora_Plate10_2015,D11,LBM_6_03,,
-,,,,,,,,,S45752,LBM_6_04,whole seedling,Emelliodora_Plate10_2015,E11,LBM_6_04,,
-,,,,,,,,,S45753,LBM_6_05,whole seedling,Emelliodora_Plate10_2015,F11,LBM_6_05,,
-,,,,,,,,,S45754,LBM_6_06,whole seedling,Emelliodora_Plate10_2015,G11,LBM_6_06,,
-,,,,,,,,,S45755,LB11_1_01,whole seedling,Emelliodora_Plate10_2015,H11,LB11_1_01,,
-,,,,,,,,,S45756,LB11_1_02,whole seedling,Emelliodora_Plate10_2015,A12,LB11_1_02,,
-,,,,,,,,,S45757,LB11_1_03,whole seedling,Emelliodora_Plate10_2015,B12,LB11_1_03,,
-,,,,,,,,,S45758,LB11_1_04,whole seedling,Emelliodora_Plate10_2015,C12,LB11_1_04,,
-,,,,,,,,,S45759,LB11_1_05,whole seedling,Emelliodora_Plate10_2015,D12,LB11_1_05,,
-,,,,,,,,,S45760,LB11_1_06,whole seedling,Emelliodora_Plate10_2015,E12,LB11_1_06,,
-,,,,,,,,,S45761,LB11_1_07,whole seedling,Emelliodora_Plate10_2015,F12,LB11_1_07,,
-,,,,,,,,,S45762,LB11_1_08,whole seedling,Emelliodora_Plate10_2015,G12,LB11_1_08,,
-,,,,,,,,,S45763,LB11_1_09,whole seedling,Emelliodora_Plate10_2015,H12,LB11_1_09,,
-,,,,,,,,,S45764,YBT1t1_4,leaf from seedling,Emel003A,A1,5321,,
-,,,,,,,,,S45765,YBT3t12_3,leaf from seedling,Emel003A,B1,5424,,
-,,,,,,,,,S45766,PadoM2_4,leaf from seedling,Emel003A,C1,5304,,
-,,,,,,,,,S45767,YBT1t13_1,leaf from seedling,Emel003A,D1,5326,,
-,,,,,,,,,S45768,YBT2t22_6,leaf from seedling,Emel003A,E1,5392,,
-,,,,,,,,,S45769,YBT3t9_7,leaf from seedling,Emel003A,F1,5458,,
-,,,,,,,,,S45770,YBT3t9_4,leaf from seedling,Emel003A,G1,5455,,
-,,,,,,,,,S45771,YBT2t22_5,leaf from seedling,Emel003A,H1,5391,,
-,,,,,,,,,S45772,YBT2t20_4,leaf from seedling,Emel003A,A2,5374,,
-,,,,,,,,,S45773,YBT2t21_6,leaf from seedling,Emel003A,B2,5384,,
-,,,,,,,,,S45774,YBT1t7_4,leaf from seedling,Emel003A,C2,5345,,
-,,,,,,,,,S45775,YBT1t10_4,leaf from seedling,Emel003A,D2,5325,,
-,,,,,,,,,S45776,PadoM4_6,leaf from seedling,Emel003A,E2,5314,,
-,,,,,,,,,S45777,YBT3t10_2,leaf from seedling,Emel003A,F2,5407,,
-,,,,,,,,,S45778,YBT3t11_7,leaf from seedling,Emel003A,G2,5420,,
-,,,,,,,,,S45779,PadoM2_5,leaf from seedling,Emel003A,H2,5305,,
-,,,,,,,,,S45780,YBT1t6_3,leaf from seedling,Emel003A,A3,5336,,
-,,,,,,,,,S45781,YBT3t11_6,leaf from seedling,Emel003A,B3,5419,,
-,,,,,,,,,S45782,YBT2t21_5,leaf from seedling,Emel003A,C3,5383,,
-,,,,,,,,,S45783,YBT3t4_1,leaf from seedling,Emel003A,D3,5430,,
-,,,,,,,,,S45784,YBT1t15_1,leaf from seedling,Emel003A,E3,5327,,
-,,,,,,,,,S45785,YBT2t9_4,leaf from seedling,Emel003A,F3,5401,,
-,,,,,,,,,S45786,YBT3t8_4,leaf from seedling,Emel003A,G3,5447,,
-,,,,,,,,,S45787,YBT2t26_3,leaf from seedling,Emel003A,H3,5397,,
-,,,,,,,,,S45788,YBT2t15_2,leaf from seedling,Emel003A,A4,5363,,
-,,,,,,,,,S45789,YBT3t11_8,leaf from seedling,Emel003A,B4,5421,,
-,,,,,,,,,S45790,PadoM6_1,leaf from seedling,Emel003A,C4,5316,,
-,,,,,,,,,S45791,YBT2t12_5,leaf from seedling,Emel003A,D4,5358,,
-,,,,,,,,,S45792,YBT3t11_4,leaf from seedling,Emel003A,E4,5417,,
-,,,,,,,,,S45793,YBT2t9_2,leaf from seedling,Emel003A,F4,5399,,
-,,,,,,,,,S45794,PadoM4_4,leaf from seedling,Emel003A,G4,5312,,
-,,,,,,,,,S45795,YBT1t6_2,leaf from seedling,Emel003A,H4,5335,,
-,,,,,,,,,S45796,YBT3t10_3,leaf from seedling,Emel003A,A5,5408,,
-,,,,,,,,,S45797,YBT1t9_6,leaf from seedling,Emel003A,B5,5351,,
-,,,,,,,,,S45798,YBT2t22_7,leaf from seedling,Emel003A,C5,5393,,
-,,,,,,,,,S45799,YBT1t1_3,leaf from seedling,Emel003A,D5,5320,,
-,,,,,,,,,S45800,YBT3t4_3,leaf from seedling,Emel003A,E5,5432,,
-,,,,,,,,,S45801,YBT2t22_2,leaf from seedling,Emel003A,F5,5388,,
-,,,,,,,,,S45802,YBT3t7_1,leaf from seedling,Emel003A,G5,5436,,
-,,,,,,,,,S45803,YBT2t22_3,leaf from seedling,Emel003A,H5,5389,,
-,,,,,,,,,S45804,YBT3t7_2,leaf from seedling,Emel003A,A6,5437,,
-,,,,,,,,,S45805,YBT2t9_1,leaf from seedling,Emel003A,B6,5398,,
-,,,,,,,,,S45806,YBT3t9_2,leaf from seedling,Emel003A,C6,5453,,
-,,,,,,,,,S45807,YBT2t20_1,leaf from seedling,Emel003A,D6,5371,,
-,,,,,,,,,S45808,YBT1t6_7,leaf from seedling,Emel003A,E6,5340,,
-,,,,,,,,,S45809,YBT1t6_8,leaf from seedling,Emel003A,F6,5341,,
-,,,,,,,,,S45810,YBT3t12_1,leaf from seedling,Emel003A,G6,5422,,
-,,,,,,,,,S45811,YBT2t21_7,leaf from seedling,Emel003A,H6,5385,,
-,,,,,,,,,S45812,YBT1t10_1,leaf from seedling,Emel003A,A7,5322,,
-,,,,,,,,,blank1,empty,leaf from seedling,Emel003A,B7,empty,,
-,,,,,,,,,S45813,YBT2t15_1,leaf from seedling,Emel003A,C7,5362,,
-,,,,,,,,,S45814,YBT3t4_2,leaf from seedling,Emel003A,D7,5431,,
-,,,,,,,,,S45815,YBT1t1_2,leaf from seedling,Emel003A,E7,5319,,
-,,,,,,,,,S45816,YBT2t12_3,leaf from seedling,Emel003A,F7,5356,,
-,,,,,,,,,S45817,YBT2t22_1,leaf from seedling,Emel003A,G7,5387,,
-,,,,,,,,,S45818,YBT2t26_2,leaf from seedling,Emel003A,H7,5396,,
-,,,,,,,,,S45819,YBT2t19_2,leaf from seedling,Emel003A,A8,5368,,
-,,,,,,,,,S45820,YBT3t8_1,leaf from seedling,Emel003A,B8,5444,,
-,,,,,,,,,S45821,YBT2t20_7,leaf from seedling,Emel003A,C8,5377,,
-,,,,,,,,,S45822,PadoM2_7,leaf from seedling,Emel003A,D8,5307,,
-,,,,,,,,,S45823,YBT2t15_3,leaf from seedling,Emel003A,E8,5364,,
-,,,,,,,,,S45824,YBT2t12_4,leaf from seedling,Emel003A,F8,5357,,
-,,,,,,,,,S45825,YBT3t8_7,leaf from seedling,Emel003A,G8,5450,,
-,,,,,,,,,S45826,YBT3t11_2,leaf from seedling,Emel003A,H8,5415,,
-,,,,,,,,,S45827,YBT3t10_4,leaf from seedling,Emel003A,A9,5409,,
-,,,,,,,,,S45828,PadoM2_2,leaf from seedling,Emel003A,B9,5302,,
-,,,,,,,,,S45829,YBT1t7_1,leaf from seedling,Emel003A,C9,5342,,
-,,,,,,,,,S45830,YBT2t22_4,leaf from seedling,Emel003A,D9,5390,,
-,,,,,,,,,S45831,YBT2t12_6,leaf from seedling,Emel003A,E9,5359,,
-,,,,,,,,,S45832,YBT1t9_2,leaf from seedling,Emel003A,F9,5347,,
-,,,,,,,,,S45833,YBT2t19_3,leaf from seedling,Emel003A,G9,5369,,
-,,,,,,,,,S45834,YBT2t12_1,leaf from seedling,Emel003A,H9,5354,,
-,,,,,,,,,S45835,YBT3t10_1,leaf from seedling,Emel003A,A10,5406,,
-,,,,,,,,,S45836,PadoM4_5,leaf from seedling,Emel003A,B10,5313,,
-,,,,,,,,,S45837,PadoM4_2,leaf from seedling,Emel003A,C10,5310,,
-,,,,,,,,,S45838,YBT1t6_4,leaf from seedling,Emel003A,D10,5337,,
-,,,,,,,,,S45839,YBT2t12_7,leaf from seedling,Emel003A,E10,5360,,
-,,,,,,,,,S45840,YBT3t9_6,leaf from seedling,Emel003A,F10,5457,,
-,,,,,,,,,S45841,PadoM4_3,leaf from seedling,Emel003A,G10,5311,,
-,,,,,,,,,S45842,YBT3t3_1,leaf from seedling,Emel003A,H10,5426,,
-,,,,,,,,,S45843,YBT1t9_7,leaf from seedling,Emel003A,A11,5352,,
-,,,,,,,,,S45844,YBT1t6_5,leaf from seedling,Emel003A,B11,5338,,
-,,,,,,,,,S45845,PadoM6_2,leaf from seedling,Emel003A,C11,5317,,
-,,,,,,,,,S45846,YBT1t9_1,leaf from seedling,Emel003A,D11,5346,,
-,,,,,,,,,S45847,YBT2t20_8,leaf from seedling,Emel003A,E11,5378,,
-,,,,,,,,,S45848,PadoM4_1,leaf from seedling,Emel003A,F11,5309,,
-,,,,,,,,,S45849,YBT2t21_4,leaf from seedling,Emel003A,G11,5382,,
-,,,,,,,,,S45850,YBT3t9_5,leaf from seedling,Emel003A,H11,5456,,
-,,,,,,,,,S45851,YBT2t9_5,leaf from seedling,Emel003A,A12,5402,,
-,,,,,,,,,S45852,YBT1t5_2,leaf from seedling,Emel003A,B12,5331,,
-,,,,,,,,,S45853,YBT2t15_4,leaf from seedling,Emel003A,C12,5365,,
-,,,,,,,,,S45854,YBT3t10_5,leaf from seedling,Emel003A,D12,5410,,
-,,,,,,,,,S45855,PadoM4_7,leaf from seedling,Emel003A,E12,5315,,
-,,,,,,,,,S45856,YBT1t6_1,leaf from seedling,Emel003A,F12,5334,,
-,,,,,,,,,S45857,YBT2t20_3,leaf from seedling,Emel003A,G12,5373,,
-,,,,,,,,,S45858,YBT3t8_5,leaf from seedling,Emel003A,H12,5448,,
-,,,,,,,,,S45859,YBT1t7_3,leaf from seedling,Emel003B,A1,5344,,
-,,,,,,,,,S45860,YBT1t9_4,leaf from seedling,Emel003B,B1,5349,,
-,,,,,,,,,S45861,YBT3t4_4,leaf from seedling,Emel003B,C1,5433,,
-,,,,,,,,,S45862,YBT3t7_5,leaf from seedling,Emel003B,D1,5440,,
-,,,,,,,,,S45863,YBT1t10_2,leaf from seedling,Emel003B,E1,5323,,
-,,,,,,,,,S45864,YBT1t9_5,leaf from seedling,Emel003B,F1,5350,,
-,,,,,,,,,S45865,YBT1t10_3,leaf from seedling,Emel003B,G1,5324,,
-,,,,,,,,,S45866,YBT3t7_4,leaf from seedling,Emel003B,H1,5439,,
-,,,,,,,,,S45867,PadoM2_6,leaf from seedling,Emel003B,A2,5306,,
-,,,,,,,,,S45868,YBT3t10_6,leaf from seedling,Emel003B,B2,5411,,
-,,,,,,,,,S45869,YBT2t9_3,leaf from seedling,Emel003B,C2,5400,,
-,,,,,,,,,S45870,YBT1t9_8,leaf from seedling,Emel003B,D2,5353,,
-,,,,,,,,,S45871,YBT2t26_1,leaf from seedling,Emel003B,E2,5395,,
-,,,,,,,,,S45872,YBT3t11_1,leaf from seedling,Emel003B,F2,5414,,
-,,,,,,,,,S45873,YBT3t8_6,leaf from seedling,Emel003B,G2,5449,,
-,,,,,,,,,S45874,YBT3t8_2,leaf from seedling,Emel003B,H2,5445,,
-,,,,,,,,,S45875,YBT2t19_1,leaf from seedling,Emel003B,A3,5367,,
-,,,,,,,,,S45876,YBT3t7_8,leaf from seedling,Emel003B,B3,5443,,
-,,,,,,,,,S45877,YBT3t11_1,leaf from seedling,Emel003B,C3,5414,,
-,,,,,,,,,S45878,PadoM2_3,leaf from seedling,Emel003B,D3,5303,,
-,,,,,,,,,S45879,YBT2t20_5,leaf from seedling,Emel003B,E3,5375,,
-,,,,,,,,,S45880,YBT2t20_2,leaf from seedling,Emel003B,F3,5372,,
-,,,,,,,,,S45881,YBT3t7_6,leaf from seedling,Emel003B,G3,5441,,
-,,,,,,,,,S45882,YBT3t7_7,leaf from seedling,Emel003B,H3,5442,,
-,,,,,,,,,S45883,PadoM2_8,leaf from seedling,Emel003B,A4,5308,,
-,,,,,,,,,S45884,YBT1t15_3,leaf from seedling,Emel003B,B4,5329,,
-,,,,,,,,,S45885,YBT2t21_1,leaf from seedling,Emel003B,C4,5379,,
-,,,,,,,,,S45886,YBT3t9_3,leaf from seedling,Emel003B,D4,5454,,
-,,,,,,,,,S45887,YBT3t3_2,leaf from seedling,Emel003B,E4,5427,,
-,,,,,,,,,S45888,YBT2t21_2,leaf from seedling,Emel003B,F4,5380,,
-,,,,,,,,,S45889,YBT3t9_8,leaf from seedling,Emel003B,G4,5459,,
-,,,,,,,,,S45890,YBT1t6_6,leaf from seedling,Emel003B,H4,5339,,
-,,,,,,,,,S45891,YBT1t7_2,leaf from seedling,Emel003B,A5,5343,,
-,,,,,,,,,S45892,YBT2t12_8,leaf from seedling,Emel003B,B5,5361,,
-,,,,,,,,,S45893,YBT1t9_3,leaf from seedling,Emel003B,C5,5348,,
-,,,,,,,,,S45894,YBT3t12_2,leaf from seedling,Emel003B,D5,5423,,
-,,,,,,,,,S45895,YBT1t1_1,leaf from seedling,Emel003B,E5,5318,,
-,,,,,,,,,S45896,YBT2t12_2,leaf from seedling,Emel003B,F5,5355,,
-,,,,,,,,,S45897,YBT3t7_3,leaf from seedling,Emel003B,G5,5438,,
-,,,,,,,,,S45898,YBT3t11_5,leaf from seedling,Emel003B,H5,5418,,
-,,,,,,,,,S45899,YBT2t21_3,leaf from seedling,Emel003B,A6,5381,,
-,,,,,,,,,S45900,YBT2t20_6,leaf from seedling,Emel003B,B6,5376,,
-,,,,,,,,,S45901,YBT1t5_1,leaf from seedling,Emel003B,C6,5330,,
-,,,,,,,,,S45902,YBT3t8_3,leaf from seedling,Emel003B,D6,5446,,
-,,,,,,,,,S45903,YBT3t9_1,leaf from seedling,Emel003B,E6,5452,,
-,,,,,,,,,S45904,YBT3t11_3,leaf from seedling,Emel003B,F6,5416,,
-,,,,,,,,,S45905,YBT1t6_6r,leaf from seedling,Emel003B,G6,r5339,,
-,,,,,,,,,S45906,YBT2t12_8r,leaf from seedling,Emel003B,H6,r5361,,
-,,,,,,,,,S45907,PadoM6_1r,leaf from seedling,Emel003B,A7,r5316,,
-,,,,,,,,,S45908,YBT2t19_2r,leaf from seedling,Emel003B,B7,r5368,,
-,,,,,,,,,S45909,PadoM4_1r,leaf from seedling,Emel003B,C7,r5309,,
-,,,,,,,,,S45910,YBT_unknown,leaf from seedling,Emel003B,D7,r0000,,
+PlantID,PlantName,AccessionID,AccessionName,ExperimentID,ExperimentName,ExperimentCondition,GrowthLocation,TrayPosition,SampleID,SampleName,SampleType,PlateName,PlateCoordinate,NameInWell,TubeBarcode,Note,PopulationName
+,,,,,,,,,S45001,U-1,leaf,Emelliodora-LB-Block1,A1,U1,,,LB-U
+,,,,,,,,,S45002,U-2,leaf,Emelliodora-LB-Block1,B1,U2,,,LB-U
+,,,,,,,,,S45003,U-3,leaf,Emelliodora-LB-Block1,C1,U3,,,LB-U
+,,,,,,,,,S45004,U-4,leaf,Emelliodora-LB-Block1,D1,U4,,,LB-U
+,,,,,,,,,S45005,U-5,leaf,Emelliodora-LB-Block1,E1,U5,,,LB-U
+,,,,,,,,,S45006,U-6,leaf,Emelliodora-LB-Block1,F1,U6,,,LB-U
+,,,,,,,,,S45007,U-7,leaf,Emelliodora-LB-Block1,G1,U7,,,LB-U
+,,,,,,,,,S45008,U-8,leaf,Emelliodora-LB-Block1,H1,U8,,fail,LB-U
+,,,,,,,,,S45009,U-9,leaf,Emelliodora-LB-Block1,A2,U9,,,LB-U
+,,,,,,,,,S45010,U-10,leaf,Emelliodora-LB-Block1,B2,U10,,,LB-U
+,,,,,,,,,S45011,P-1,leaf,Emelliodora-LB-Block1,C2,P1,,,LB-P
+,,,,,,,,,S45012,P-2,leaf,Emelliodora-LB-Block1,D2,P2,,,LB-P
+,,,,,,,,,S45013,P-3,leaf,Emelliodora-LB-Block1,E2,P3,,,LB-P
+,,,,,,,,,S45014,P-4,leaf,Emelliodora-LB-Block1,F2,P4,,,LB-P
+,,,,,,,,,S45015,P-5,leaf,Emelliodora-LB-Block1,G2,P5,,,LB-P
+,,,,,,,,,S45016,P-6,leaf,Emelliodora-LB-Block1,H2,P6,,,LB-P
+,,,,,,,,,S45017,P-7,leaf,Emelliodora-LB-Block1,A3,P7,,,LB-P
+,,,,,,,,,S45018,P-8,leaf,Emelliodora-LB-Block1,B3,P8,,,LB-P
+,,,,,,,,,S45019,P-9,leaf,Emelliodora-LB-Block1,C3,P9,,,LB-P
+,,,,,,,,,S45020,P-10,leaf,Emelliodora-LB-Block1,D3,P10,,,LB-P
+,,,,,,,,,S45021,G-1,leaf,Emelliodora-LB-Block1,E3,G1,,,LB-G
+,,,,,,,,,S45022,G-2,leaf,Emelliodora-LB-Block1,F3,G2,,,LB-G
+,,,,,,,,,S45023,G-3,leaf,Emelliodora-LB-Block1,G3,G3,,,LB-G
+,,,,,,,,,S45024,G-4,leaf,Emelliodora-LB-Block1,H3,G4,,,LB-G
+,,,,,,,,,S45025,G-5,leaf,Emelliodora-LB-Block1,A4,G5,,,LB-G
+,,,,,,,,,S45026,G-6,leaf,Emelliodora-LB-Block1,B4,G6,,,LB-G
+,,,,,,,,,S45027,G-7,leaf,Emelliodora-LB-Block1,C4,G7,,,LB-G
+,,,,,,,,,S45028,G-8,leaf,Emelliodora-LB-Block1,D4,G8,,,LB-G
+,,,,,,,,,S45029,G-9,leaf,Emelliodora-LB-Block1,E4,G9,,,LB-G
+,,,,,,,,,S45030,G-10,leaf,Emelliodora-LB-Block1,F4,G10,,,LB-G
+,,,,,,,,,S45031,W1-1,leaf,Emelliodora-LB-Block1,G4,W1-1,,,LB-W1
+,,,,,,,,,S45032,W1-2,leaf,Emelliodora-LB-Block1,H4,W1-2,,,LB-W1
+,,,,,,,,,S45033,W1-3,leaf,Emelliodora-LB-Block1,A5,W1-3,,,LB-W1
+,,,,,,,,,S45034,W1-4,leaf,Emelliodora-LB-Block1,B5,W1-4,,,LB-W1
+,,,,,,,,,S45035,W1-5,leaf,Emelliodora-LB-Block1,C5,W1-5,,,LB-W1
+,,,,,,,,,S45036,W1-6,leaf,Emelliodora-LB-Block1,D5,W1-6,,,LB-W1
+,,,,,,,,,S45037,W1-7,leaf,Emelliodora-LB-Block1,E5,W1-7,,,LB-W1
+,,,,,,,,,S45038,W1-8,leaf,Emelliodora-LB-Block1,F5,W1-8,,,LB-W1
+,,,,,,,,,S45039,W1-9,leaf,Emelliodora-LB-Block1,G5,W1-9,,,LB-W1
+,,,,,,,,,S45040,W1-10,leaf,Emelliodora-LB-Block1,H5,W1-10,,,LB-W1
+,,,,,,,,,S45041,H-1,leaf,Emelliodora-LB-Block1,A6,H1,,,LB-H
+,,,,,,,,,S45042,H-2,leaf,Emelliodora-LB-Block1,B6,H2,,,LB-H
+,,,,,,,,,S45043,H-3,leaf,Emelliodora-LB-Block1,C6,H3,,,LB-H
+,,,,,,,,,S45044,H-4,leaf,Emelliodora-LB-Block1,D6,H4,,,LB-H
+,,,,,,,,,S45045,H-5,leaf,Emelliodora-LB-Block1,E6,H5,,,LB-H
+,,,,,,,,,S45046,H-6,leaf,Emelliodora-LB-Block1,F6,H6,,,LB-H
+,,,,,,,,,S45047,H-7,leaf,Emelliodora-LB-Block1,G6,H7,,,LB-H
+,,,,,,,,,S45048,H-8,leaf,Emelliodora-LB-Block1,H6,H8,,,LB-H
+,,,,,,,,,S45049,H-9,leaf,Emelliodora-LB-Block1,A7,H9,,,LB-H
+,,,,,,,,,S45050,H-10,leaf,Emelliodora-LB-Block1,B7,H10,,,LB-H
+,,,,,,,,,S45051,M-3,leaf,Emelliodora-LB-Block1,C7,M3,,,LB-M
+,,,,,,,,,S45052,M-4,leaf,Emelliodora-LB-Block1,D7,M4,,,LB-M
+,,,,,,,,,S45053,M-5,leaf,Emelliodora-LB-Block1,E7,M5,,,LB-M
+,,,,,,,,,S45054,D-1,leaf,Emelliodora-LB-Block1,F7,D1,,,LB-D
+,,,,,,,,,S45055,D-2,leaf,Emelliodora-LB-Block1,G7,D2,,,LB-D
+,,,,,,,,,S45056,D-3,leaf,Emelliodora-LB-Block1,H7,D3,,,LB-D
+,,,,,,,,,S45057,D-4,leaf,Emelliodora-LB-Block1,A8,D4,,,LB-D
+,,,,,,,,,S45058,D-5,leaf,Emelliodora-LB-Block1,B8,D5,,,LB-D
+,,,,,,,,,S45059,D-6,leaf,Emelliodora-LB-Block1,C8,D6,,,LB-D
+,,,,,,,,,S45060,D-7,leaf,Emelliodora-LB-Block1,D8,D7,,,LB-D
+,,,,,,,,,S45061,D-8,leaf,Emelliodora-LB-Block1,E8,D8,,,LB-D
+,,,,,,,,,S45062,D-9,leaf,Emelliodora-LB-Block1,F8,D9,,,LB-D
+,,,,,,,,,S45063,D-10,leaf,Emelliodora-LB-Block1,G8,D10,,,LB-D
+,,,,,,,,,S45064,V-1,leaf,Emelliodora-LB-Block1,H8,V1,,,LB-V
+,,,,,,,,,S45065,V-2,leaf,Emelliodora-LB-Block1,A9,V2,,,LB-V
+,,,,,,,,,S45066,V-3,leaf,Emelliodora-LB-Block1,B9,V3,,,LB-V
+,,,,,,,,,S45067,V-4,leaf,Emelliodora-LB-Block1,C9,V4,,,LB-V
+,,,,,,,,,S45068,V-5,leaf,Emelliodora-LB-Block1,D9,V5,,,LB-V
+,,,,,,,,,S45069,V-6,leaf,Emelliodora-LB-Block1,E9,V6,,,LB-V
+,,,,,,,,,S45070,V-7,leaf,Emelliodora-LB-Block1,F9,V7,,,LB-V
+,,,,,,,,,S45071,V-8,leaf,Emelliodora-LB-Block1,G9,V8,,,LB-V
+,,,,,,,,,S45072,V-9,leaf,Emelliodora-LB-Block1,H9,V9,,,LB-V
+,,,,,,,,,S45073,V-10,leaf,Emelliodora-LB-Block1,A10,V10,,,LB-V
+,,,,,,,,,S45074,A-2,leaf,Emelliodora-LB-Block1,B10,A2,,,LB-A
+,,,,,,,,,S45075,A-3,leaf,Emelliodora-LB-Block1,C10,A3,,,LB-A
+,,,,,,,,,S45076,A-4,leaf,Emelliodora-LB-Block1,D10,A4,,,LB-A
+,,,,,,,,,S45077,A-5,leaf,Emelliodora-LB-Block1,E10,A5,,,LB-A
+,,,,,,,,,S45078,A-6,leaf,Emelliodora-LB-Block1,F10,A6,,,LB-A
+,,,,,,,,,S45079,A-7,leaf,Emelliodora-LB-Block1,G10,A7,,,LB-A
+,,,,,,,,,S45080,A-8,leaf,Emelliodora-LB-Block1,H10,A8,,,LB-A
+,,,,,,,,,S45081,A-9,leaf,Emelliodora-LB-Block1,A11,A9,,,LB-A
+,,,,,,,,,S45082,A-10,leaf,Emelliodora-LB-Block1,B11,A10,,,LB-A
+,,,,,,,,,S45083,A-11,leaf,Emelliodora-LB-Block1,C11,A11,,,LB-A
+,,,,,,,,,S45084,site1-1,leaf,Emelliodora-LB-Block1,D11,site1-1,,,LB-1
+,,,,,,,,,S45085,site1-2,leaf,Emelliodora-LB-Block1,E11,site1-2,,,LB-1
+,,,,,,,,,S45086,site1-3,leaf,Emelliodora-LB-Block1,F11,site1-3,,,LB-1
+,,,,,,,,,S45087,site1-4,leaf,Emelliodora-LB-Block1,G11,site1-4,,,LB-1
+,,,,,,,,,S45088,site1-5,leaf,Emelliodora-LB-Block1,H11,site1-5,,,LB-1
+,,,,,,,,,S45089,site1-6,leaf,Emelliodora-LB-Block1,A12,site1-6,,,LB-1
+,,,,,,,,,S45090,site1-7,leaf,Emelliodora-LB-Block1,B12,site1-7,,,LB-1
+,,,,,,,,,S45091,site1-8,leaf,Emelliodora-LB-Block1,C12,site1-8,,,LB-1
+,,,,,,,,,S45092,site1-9,leaf,Emelliodora-LB-Block1,D12,site1-9,,,LB-1
+,,,,,,,,,S45093,site1-10,leaf,Emelliodora-LB-Block1,E12,site1-10,,,LB-1
+,,,,,,,,,S45094,C-1,leaf,Emelliodora-LB-Block1,F12,C1,,,LB-C
+,,,,,,,,,S45095,C-2,leaf,Emelliodora-LB-Block1,G12,C2,,,LB-C
+,,,,,,,,,S45096,C-3,leaf,Emelliodora-LB-Block1,H12,C3,,fail,LB-C
+,,,,,,,,,S45097,C-4,leaf,Emelliodora-LB-Block2,A1,C4,,,LB-C
+,,,,,,,,,S45098,C-5,leaf,Emelliodora-LB-Block2,B1,C5,,,LB-C
+,,,,,,,,,S45099,C-6,leaf,Emelliodora-LB-Block2,C1,C6,,,LB-C
+,,,,,,,,,S45100,C-7,leaf,Emelliodora-LB-Block2,D1,C7,,,LB-C
+,,,,,,,,,S45101,C-8,leaf,Emelliodora-LB-Block2,E1,C8,,,LB-C
+,,,,,,,,,S45102,C-9,leaf,Emelliodora-LB-Block2,F1,C9,,,LB-C
+,,,,,,,,,S45103,N2-1,leaf,Emelliodora-LB-Block2,G1,N2-1,,,LB-N2
+,,,,,,,,,S45104,N2-2,leaf,Emelliodora-LB-Block2,H1,N2-2,,fail,LB-N2
+,,,,,,,,,S45105,N2-3,leaf,Emelliodora-LB-Block2,A2,N2-3,,,LB-N2
+,,,,,,,,,S45106,N2-4,leaf,Emelliodora-LB-Block2,B2,N2-4,,,LB-N2
+,,,,,,,,,S45107,N2-5,leaf,Emelliodora-LB-Block2,C2,N2-5,,,LB-N2
+,,,,,,,,,S45108,N2-6,leaf,Emelliodora-LB-Block2,D2,N2-6,,,LB-N2
+,,,,,,,,,S45109,N2-7,leaf,Emelliodora-LB-Block2,E2,N2-7,,,LB-N2
+,,,,,,,,,S45110,N2-8,leaf,Emelliodora-LB-Block2,F2,N2-8,,,LB-N2
+,,,,,,,,,S45111,N2-9,leaf,Emelliodora-LB-Block2,G2,N2-9,,,LB-N2
+,,,,,,,,,S45112,N2-10,leaf,Emelliodora-LB-Block2,H2,N2-10,,,LB-N2
+,,,,,,,,,S45113,N1-1,leaf,Emelliodora-LB-Block2,A3,N1-1,,,LB-N1
+,,,,,,,,,S45114,N1-2,leaf,Emelliodora-LB-Block2,B3,N1-2,,,LB-N1
+,,,,,,,,,S45115,N1-3,leaf,Emelliodora-LB-Block2,C3,N1-3,,,LB-N1
+,,,,,,,,,S45116,N1-4,leaf,Emelliodora-LB-Block2,D3,N1-4,,,LB-N1
+,,,,,,,,,S45117,N1-5,leaf,Emelliodora-LB-Block2,E3,N1-5,,,LB-N1
+,,,,,,,,,S45118,N1-6,leaf,Emelliodora-LB-Block2,F3,N1-6,,,LB-N1
+,,,,,,,,,S45119,N1-7,leaf,Emelliodora-LB-Block2,G3,N1-7,,,LB-N1
+,,,,,,,,,S45120,N1-8,leaf,Emelliodora-LB-Block2,H3,N1-8,,,LB-N1
+,,,,,,,,,S45121,N1-9,leaf,Emelliodora-LB-Block2,A4,N1-9,,,LB-N1
+,,,,,,,,,S45122,N1-10,leaf,Emelliodora-LB-Block2,B4,N1-10,,,LB-N1
+,,,,,,,,,S45123,site3-1,leaf,Emelliodora-LB-Block2,C4,site3-1,,,LB-3
+,,,,,,,,,S45124,site3-2,leaf,Emelliodora-LB-Block2,D4,site3-2,,,LB-3
+,,,,,,,,,S45125,site3-3,leaf,Emelliodora-LB-Block2,E4,site3-3,,,LB-3
+,,,,,,,,,S45126,site3-4,leaf,Emelliodora-LB-Block2,F4,site3-4,,,LB-3
+,,,,,,,,,S45127,site3-5,leaf,Emelliodora-LB-Block2,G4,site3-5,,,LB-3
+,,,,,,,,,S45128,site3-6,leaf,Emelliodora-LB-Block2,H4,site3-6,,,LB-3
+,,,,,,,,,S45129,site3-7,leaf,Emelliodora-LB-Block2,A5,site3-7,,,LB-3
+,,,,,,,,,S45130,site3-8,leaf,Emelliodora-LB-Block2,B5,site3-8,,,LB-3
+,,,,,,,,,S45131,site3-9,leaf,Emelliodora-LB-Block2,C5,site3-9,,,LB-3
+,,,,,,,,,S45132,site3-10,leaf,Emelliodora-LB-Block2,D5,site3-10,,,LB-3
+,,,,,,,,,S45133,site7-1,leaf,Emelliodora-LB-Block2,E5,site7-1,,geogout,LB-7
+,,,,,,,,,S45134,site7-2,leaf,Emelliodora-LB-Block2,F5,site7-2,,geogout,LB-7
+,,,,,,,,,S45135,site7-3,leaf,Emelliodora-LB-Block2,G5,site7-3,,geogout,LB-7
+,,,,,,,,,S45136,site7-4,leaf,Emelliodora-LB-Block2,H5,site7-4,,geogout,LB-7
+,,,,,,,,,S45137,site7-5,leaf,Emelliodora-LB-Block2,A6,site7-5,,geogout,LB-7
+,,,,,,,,,S45138,site7-6,leaf,Emelliodora-LB-Block2,B6,site7-6,,geogout,LB-7
+,,,,,,,,,S45139,site7-7,leaf,Emelliodora-LB-Block2,C6,site7-7,,geogout,LB-7
+,,,,,,,,,S45140,B-1,leaf,Emelliodora-LB-Block2,D6,B1,,,LB-B
+,,,,,,,,,S45141,B-2,leaf,Emelliodora-LB-Block2,E6,B2,,,LB-B
+,,,,,,,,,S45142,B-3,leaf,Emelliodora-LB-Block2,F6,B3,,,LB-B
+,,,,,,,,,S45143,B-4,leaf,Emelliodora-LB-Block2,G6,B4,,,LB-B
+,,,,,,,,,S45144,B-5,leaf,Emelliodora-LB-Block2,H6,B5,,,LB-B
+,,,,,,,,,S45145,B-6,leaf,Emelliodora-LB-Block2,A7,B6,,,LB-B
+,,,,,,,,,S45146,B-7,leaf,Emelliodora-LB-Block2,B7,B7,,,LB-B
+,,,,,,,,,S45147,B-8,leaf,Emelliodora-LB-Block2,C7,B8,,,LB-B
+,,,,,,,,,S45148,B-9,leaf,Emelliodora-LB-Block2,D7,B9,,,LB-B
+,,,,,,,,,S45149,B-10,leaf,Emelliodora-LB-Block2,E7,B10,,,LB-B
+,,,,,,,,,S45150,J2-1,leaf,Emelliodora-LB-Block2,F7,J2-1,,,LB-J2
+,,,,,,,,,S45151,J2-2,leaf,Emelliodora-LB-Block2,G7,J2-2,,,LB-J2
+,,,,,,,,,S45152,J2-3,leaf,Emelliodora-LB-Block2,H7,J2-3,,,LB-J2
+,,,,,,,,,S45153,J2-4,leaf,Emelliodora-LB-Block2,A8,J2-4,,,LB-J2
+,,,,,,,,,S45154,J2-5,leaf,Emelliodora-LB-Block2,B8,J2-5,,,LB-J2
+,,,,,,,,,S45155,J2-6,leaf,Emelliodora-LB-Block2,C8,J2-6,,,LB-J2
+,,,,,,,,,S45156,J2-7,leaf,Emelliodora-LB-Block2,D8,J2-7,,,LB-J2
+,,,,,,,,,S45157,J2-8,leaf,Emelliodora-LB-Block2,E8,J2-8,,,LB-J2
+,,,,,,,,,S45158,J2-9,leaf,Emelliodora-LB-Block2,F8,J2-9,,,LB-J2
+,,,,,,,,,S45159,J2-10,leaf,Emelliodora-LB-Block2,G8,J2-10,,,LB-J2
+,,,,,,,,,S45160,site17-1,leaf,Emelliodora-LB-Block2,H8,site17-1,,,LB-17
+,,,,,,,,,S45161,site17-2,leaf,Emelliodora-LB-Block2,A9,site17-2,,,LB-17
+,,,,,,,,,S45162,site17-3,leaf,Emelliodora-LB-Block2,B9,site17-3,,,LB-17
+,,,,,,,,,S45163,site17-4,leaf,Emelliodora-LB-Block2,C9,site17-4,,,LB-17
+,,,,,,,,,S45164,site17-5,leaf,Emelliodora-LB-Block2,D9,site17-5,,,LB-17
+,,,,,,,,,S45165,site17-6,leaf,Emelliodora-LB-Block2,E9,site17-6,,,LB-17
+,,,,,,,,,S45166,site17-7,leaf,Emelliodora-LB-Block2,F9,site17-7,,,LB-17
+,,,,,,,,,S45167,site17-8,leaf,Emelliodora-LB-Block2,G9,site17-8,,,LB-17
+,,,,,,,,,S45168,site17-9,leaf,Emelliodora-LB-Block2,H9,site17-9,,,LB-17
+,,,,,,,,,S45169,site17-10,leaf,Emelliodora-LB-Block2,A10,site17-10,,,LB-17
+,,,,,,,,,S45170,site11-1,leaf,Emelliodora-LB-Block2,B10,site11-1,,,LB-11
+,,,,,,,,,S45171,site11-2,leaf,Emelliodora-LB-Block2,C10,site11-2,,,LB-11
+,,,,,,,,,S45172,site11-3,leaf,Emelliodora-LB-Block2,D10,site11-3,,,LB-11
+,,,,,,,,,S45173,site11-4,leaf,Emelliodora-LB-Block2,E10,site11-4,,,LB-11
+,,,,,,,,,S45174,site11-5,leaf,Emelliodora-LB-Block2,F10,site11-5,,,LB-11
+,,,,,,,,,S45175,site11-6,leaf,Emelliodora-LB-Block2,G10,site11-6,,,LB-11
+,,,,,,,,,S45176,site11-7,leaf,Emelliodora-LB-Block2,H10,site11-7,,,LB-11
+,,,,,,,,,S45177,site11-8,leaf,Emelliodora-LB-Block2,A11,site11-8,,,LB-11
+,,,,,,,,,S45178,site11-9,leaf,Emelliodora-LB-Block2,B11,site11-9,,,LB-11
+,,,,,,,,,S45179,site11-10,leaf,Emelliodora-LB-Block2,C11,site11-10,,,LB-11
+,,,,,,,,,S45180,i2-1,leaf,Emelliodora-LB-Block2,D11,i2-1,,,LB-i2
+,,,,,,,,,S45181,i2-2,leaf,Emelliodora-LB-Block2,E11,i2-2,,,LB-i2
+,,,,,,,,,S45182,i2-3,leaf,Emelliodora-LB-Block2,F11,i2-3,,,LB-i2
+,,,,,,,,,S45183,i2-4,leaf,Emelliodora-LB-Block2,G11,i2-4,,,LB-i2
+,,,,,,,,,S45184,i2-5,leaf,Emelliodora-LB-Block2,H11,i2-5,,,LB-i2
+,,,,,,,,,S45185,i2-6,leaf,Emelliodora-LB-Block2,A12,i2-6,,,LB-i2
+,,,,,,,,,S45186,i2-7,leaf,Emelliodora-LB-Block2,B12,i2-7,,,LB-i2
+,,,,,,,,,S45187,i2-8,leaf,Emelliodora-LB-Block2,C12,i2-8,,,LB-i2
+,,,,,,,,,S45188,i2-9,leaf,Emelliodora-LB-Block2,D12,i2-9,,fail,LB-i2
+,,,,,,,,,S45189,i2-10,leaf,Emelliodora-LB-Block2,E12,i2-10,,,LB-i2
+,,,,,,,,,S45190,site16-1,leaf,Emelliodora-LB-Block2,F12,site16-1,,,LB-16
+,,,,,,,,,S45191,site16-2,leaf,Emelliodora-LB-Block2,G12,site16-2,,,LB-16
+,,,,,,,,,S45192,site16-3,leaf,Emelliodora-LB-Block2,H12,site16-3,,fail,LB-16
+,,,,,,,,,S45193,site16-4,leaf,Emelliodora-LB-Block3,A1,site16-4,,,LB-16
+,,,,,,,,,S45194,site16-5,leaf,Emelliodora-LB-Block3,B1,site16-5,,,LB-16
+,,,,,,,,,S45195,site16-6,leaf,Emelliodora-LB-Block3,C1,site16-6,,,LB-16
+,,,,,,,,,S45196,site16-7,leaf,Emelliodora-LB-Block3,D1,site16-7,,,LB-16
+,,,,,,,,,S45197,site2-1,leaf,Emelliodora-LB-Block3,E1,site2-1,,,LB-2
+,,,,,,,,,S45198,site2-2,leaf,Emelliodora-LB-Block3,F1,site2-2,,,LB-2
+,,,,,,,,,S45199,site2-3,leaf,Emelliodora-LB-Block3,G1,site2-3,,,LB-2
+,,,,,,,,,S45200,site2-4,leaf,Emelliodora-LB-Block3,H1,site2-4,,fail,LB-2
+,,,,,,,,,S45201,site2-5,leaf,Emelliodora-LB-Block3,A2,site2-5,,,LB-2
+,,,,,,,,,S45202,site2-6,leaf,Emelliodora-LB-Block3,B2,site2-6,,,LB-2
+,,,,,,,,,S45203,site2-7,leaf,Emelliodora-LB-Block3,C2,site2-7,,,LB-2
+,,,,,,,,,S45204,site2-8,leaf,Emelliodora-LB-Block3,D2,site2-8,,,LB-2
+,,,,,,,,,S45205,site2-9,leaf,Emelliodora-LB-Block3,E2,site2-9,,,LB-2
+,,,,,,,,,S45206,site2-10,leaf,Emelliodora-LB-Block3,F2,site2-10,,,LB-2
+,,,,,,,,,S45207,site14-1,leaf,Emelliodora-LB-Block3,G2,site14-1,,,LB-14
+,,,,,,,,,S45208,site14-2,leaf,Emelliodora-LB-Block3,H2,site14-2,,,LB-14
+,,,,,,,,,S45209,site14-3,leaf,Emelliodora-LB-Block3,A3,site14-3,,,LB-14
+,,,,,,,,,S45210,site14-4,leaf,Emelliodora-LB-Block3,B3,site14-4,,,LB-14
+,,,,,,,,,S45211,site14-5,leaf,Emelliodora-LB-Block3,C3,site14-5,,,LB-14
+,,,,,,,,,S45212,site14-6,leaf,Emelliodora-LB-Block3,D3,site14-6,,,LB-14
+,,,,,,,,,S45213,site14-7,leaf,Emelliodora-LB-Block3,E3,site14-7,,,LB-14
+,,,,,,,,,S45214,site14-8,leaf,Emelliodora-LB-Block3,F3,site14-8,,,LB-14
+,,,,,,,,,S45215,site14-9,leaf,Emelliodora-LB-Block3,G3,site14-9,,,LB-14
+,,,,,,,,,S45216,site14-10,leaf,Emelliodora-LB-Block3,H3,site14-10,,,LB-14
+,,,,,,,,,S45217,site5-1,leaf,Emelliodora-LB-Block3,A4,site5-1,,outlier,LB-5
+,,,,,,,,,S45218,site5-2,leaf,Emelliodora-LB-Block3,B4,site5-2,,,LB-5
+,,,,,,,,,S45219,site5-3,leaf,Emelliodora-LB-Block3,C4,site5-3,,,LB-5
+,,,,,,,,,S45220,site5-4,leaf,Emelliodora-LB-Block3,D4,site5-4,,,LB-5
+,,,,,,,,,S45221,site5-5,leaf,Emelliodora-LB-Block3,E4,site5-5,,,LB-5
+,,,,,,,,,S45222,site5-6,leaf,Emelliodora-LB-Block3,F4,site5-6,,,LB-5
+,,,,,,,,,S45223,site5-7,leaf,Emelliodora-LB-Block3,G4,site5-7,,,LB-5
+,,,,,,,,,S45224,site5-8,leaf,Emelliodora-LB-Block3,H4,site5-8,,,LB-5
+,,,,,,,,,S45225,site5-9,leaf,Emelliodora-LB-Block3,A5,site5-9,,,LB-5
+,,,,,,,,,S45226,site5-10,leaf,Emelliodora-LB-Block3,B5,site5-10,,,LB-5
+,,,,,,,,,S45227,site10-1,leaf,Emelliodora-LB-Block3,C5,site10-1,,,LB-10
+,,,,,,,,,S45228,site10-2,leaf,Emelliodora-LB-Block3,D5,site10-2,,,LB-10
+,,,,,,,,,S45229,site10-3,leaf,Emelliodora-LB-Block3,E5,site10-3,,,LB-10
+,,,,,,,,,S45230,site10-4,leaf,Emelliodora-LB-Block3,F5,site10-4,,,LB-10
+,,,,,,,,,S45231,site10-5,leaf,Emelliodora-LB-Block3,G5,site10-5,,,LB-10
+,,,,,,,,,S45232,site10-6,leaf,Emelliodora-LB-Block3,H5,site10-6,,,LB-10
+,,,,,,,,,S45233,site10-7,leaf,Emelliodora-LB-Block3,A6,site10-7,,,LB-10
+,,,,,,,,,S45234,site10-8,leaf,Emelliodora-LB-Block3,B6,site10-8,,,LB-10
+,,,,,,,,,S45235,site10-9,leaf,Emelliodora-LB-Block3,C6,site10-9,,,LB-10
+,,,,,,,,,S45236,site10-10,leaf,Emelliodora-LB-Block3,D6,site10-10,,,LB-10
+,,,,,,,,,S45237,T1-1,leaf,Emelliodora-LB-Block3,E6,T1-1,,,LB-T1
+,,,,,,,,,S45238,T1-2,leaf,Emelliodora-LB-Block3,F6,T1-2,,,LB-T1
+,,,,,,,,,S45239,T1-3,leaf,Emelliodora-LB-Block3,G6,T1-3,,,LB-T1
+,,,,,,,,,S45240,T1-4,leaf,Emelliodora-LB-Block3,H6,T1-4,,,LB-T1
+,,,,,,,,,S45241,T1-5,leaf,Emelliodora-LB-Block3,A7,T1-5,,,LB-T1
+,,,,,,,,,S45242,T1-6,leaf,Emelliodora-LB-Block3,B7,T1-6,,,LB-T1
+,,,,,,,,,S45243,T1-7,leaf,Emelliodora-LB-Block3,C7,T1-7,,,LB-T1
+,,,,,,,,,S45244,T1-8,leaf,Emelliodora-LB-Block3,D7,T1-8,,,LB-T1
+,,,,,,,,,S45245,T1-9,leaf,Emelliodora-LB-Block3,E7,T1-9,,,LB-T1
+,,,,,,,,,S45246,T1-10,leaf,Emelliodora-LB-Block3,F7,T1-10,,,LB-T1
+,,,,,,,,,S45247,site19-1,leaf,Emelliodora-LB-Block3,G7,site19-1,,,LB-19
+,,,,,,,,,S45248,site19-2,leaf,Emelliodora-LB-Block3,H7,site19-2,,,LB-19
+,,,,,,,,,S45249,site19-3,leaf,Emelliodora-LB-Block3,A8,site19-3,,,LB-19
+,,,,,,,,,S45250,site19-4,leaf,Emelliodora-LB-Block3,B8,site19-4,,,LB-19
+,,,,,,,,,S45251,site19-5,leaf,Emelliodora-LB-Block3,C8,site19-5,,,LB-19
+,,,,,,,,,S45252,site19-6,leaf,Emelliodora-LB-Block3,D8,site19-6,,,LB-19
+,,,,,,,,,S45253,site19-7,leaf,Emelliodora-LB-Block3,E8,site19-7,,,LB-19
+,,,,,,,,,S45254,site19-8,leaf,Emelliodora-LB-Block3,F8,site19-8,,,LB-19
+,,,,,,,,,S45255,site19-9,leaf,Emelliodora-LB-Block3,G8,site19-9,,,LB-19
+,,,,,,,,,S45256,site19-10,leaf,Emelliodora-LB-Block3,H8,site19-10,,,LB-19
+,,,,,,,,,S45257,K2-1,leaf,Emelliodora-LB-Block3,A9,K2-1,,,LB-K2
+,,,,,,,,,S45258,K2-2,leaf,Emelliodora-LB-Block3,B9,K2-2,,,LB-K2
+,,,,,,,,,S45259,K2-3,leaf,Emelliodora-LB-Block3,C9,K2-3,,,LB-K2
+,,,,,,,,,S45260,K2-4,leaf,Emelliodora-LB-Block3,D9,K2-4,,,LB-K2
+,,,,,,,,,S45261,K2-5,leaf,Emelliodora-LB-Block3,E9,K2-5,,,LB-K2
+,,,,,,,,,S45262,K2-6,leaf,Emelliodora-LB-Block3,F9,K2-6,,,LB-K2
+,,,,,,,,,S45263,K2-7,leaf,Emelliodora-LB-Block3,G9,K2-7,,,LB-K2
+,,,,,,,,,S45264,K2-8,leaf,Emelliodora-LB-Block3,H9,K2-8,,,LB-K2
+,,,,,,,,,S45265,K2-9,leaf,Emelliodora-LB-Block3,A10,K2-9,,,LB-K2
+,,,,,,,,,S45266,K2-10,leaf,Emelliodora-LB-Block3,B10,K2-10,,,LB-K2
+,,,,,,,,,S45267,site20-1,leaf,Emelliodora-LB-Block3,C10,site20-1,,,LB-20
+,,,,,,,,,S45268,site20-2,leaf,Emelliodora-LB-Block3,D10,site20-2,,,LB-20
+,,,,,,,,,S45269,site20-3,leaf,Emelliodora-LB-Block3,E10,site20-3,,fail,LB-20
+,,,,,,,,,S45270,site20-4,leaf,Emelliodora-LB-Block3,F10,site20-4,,,LB-20
+,,,,,,,,,S45271,site20-5,leaf,Emelliodora-LB-Block3,G10,site20-5,,,LB-20
+,,,,,,,,,S45272,site20-6,leaf,Emelliodora-LB-Block3,H10,site20-6,,,LB-20
+,,,,,,,,,S45273,site20-7,leaf,Emelliodora-LB-Block3,A11,site20-7,,,LB-20
+,,,,,,,,,S45274,site20-8,leaf,Emelliodora-LB-Block3,B11,site20-8,,,LB-20
+,,,,,,,,,S45275,site20-9,leaf,Emelliodora-LB-Block3,C11,site20-9,,,LB-20
+,,,,,,,,,S45276,site20-10,leaf,Emelliodora-LB-Block3,D11,site20-10,,,LB-20
+,,,,,,,,,S45277,W2-1,leaf,Emelliodora-LB-Block3,E11,W2-1,,,LB-W2
+,,,,,,,,,S45278,W2-2,leaf,Emelliodora-LB-Block3,F11,W2-2,,,LB-W2
+,,,,,,,,,S45279,W2-3,leaf,Emelliodora-LB-Block3,G11,W2-3,,,LB-W2
+,,,,,,,,,S45280,W2-4,leaf,Emelliodora-LB-Block3,H11,W2-4,,,LB-W2
+,,,,,,,,,S45281,W2-5,leaf,Emelliodora-LB-Block3,A12,W2-5,,,LB-W2
+,,,,,,,,,S45282,W2-6,leaf,Emelliodora-LB-Block3,B12,W2-6,,,LB-W2
+,,,,,,,,,S45283,W2-7,leaf,Emelliodora-LB-Block3,C12,W2-7,,,LB-W2
+,,,,,,,,,S45284,W2-8,leaf,Emelliodora-LB-Block3,D12,W2-8,,,LB-W2
+,,,,,,,,,S45285,W2-9,leaf,Emelliodora-LB-Block3,E12,W2-9,,fail,LB-W2
+,,,,,,,,,S45286,W2-10,leaf,Emelliodora-LB-Block3,F12,W2-10,,fail,LB-W2
+,,,,,,,,,S45287,site24-1,leaf,Emelliodora-LB-Block3,G12,site24-1,,,LB-24
+,,,,,,,,,S45288,site24-2,leaf,Emelliodora-LB-Block3,H12,site24-2,,fail,LB-24
+,,,,,,,,,S45289,site24-3,leaf,Emelliodora-LB-Block4,A1,site24-3,,,LB-24
+,,,,,,,,,S45290,site24-4,leaf,Emelliodora-LB-Block4,B1,site24-4,,,LB-24
+,,,,,,,,,S45291,site24-5,leaf,Emelliodora-LB-Block4,C1,site24-5,,,LB-24
+,,,,,,,,,S45292,site24-6,leaf,Emelliodora-LB-Block4,D1,site24-6,,,LB-24
+,,,,,,,,,S45293,site24-7,leaf,Emelliodora-LB-Block4,E1,site24-7,,,LB-24
+,,,,,,,,,S45294,site24-8,leaf,Emelliodora-LB-Block4,F1,site24-8,,,LB-24
+,,,,,,,,,S45295,site24-9,leaf,Emelliodora-LB-Block4,G1,site24-9,,,LB-24
+,,,,,,,,,S45296,site24-10,leaf,Emelliodora-LB-Block4,H1,site24-10,,fail,LB-24
+,,,,,,,,,S45297,W3-1,leaf,Emelliodora-LB-Block4,A2,W3-1,,,LB-W3
+,,,,,,,,,S45298,W3-2,leaf,Emelliodora-LB-Block4,B2,W3-2,,,LB-W3
+,,,,,,,,,S45299,W3-3,leaf,Emelliodora-LB-Block4,C2,W3-3,,,LB-W3
+,,,,,,,,,S45300,W3-4,leaf,Emelliodora-LB-Block4,D2,W3-4,,,LB-W3
+,,,,,,,,,S45301,W3-5,leaf,Emelliodora-LB-Block4,E2,W3-5,,,LB-W3
+,,,,,,,,,S45302,W3-6,leaf,Emelliodora-LB-Block4,F2,W3-6,,,LB-W3
+,,,,,,,,,S45303,W3-7,leaf,Emelliodora-LB-Block4,G2,W3-7,,,LB-W3
+,,,,,,,,,S45304,W3-8,leaf,Emelliodora-LB-Block4,H2,W3-8,,,LB-W3
+,,,,,,,,,S45305,W3-9,leaf,Emelliodora-LB-Block4,A3,W3-9,,,LB-W3
+,,,,,,,,,S45306,W3-10,leaf,Emelliodora-LB-Block4,B3,W3-10,,,LB-W3
+,,,,,,,,,S45307,T3-1,leaf,Emelliodora-LB-Block4,C3,T3-1,,,LB-T3
+,,,,,,,,,S45308,T3-2,leaf,Emelliodora-LB-Block4,D3,T3-2,,,LB-T3
+,,,,,,,,,S45309,T3-3,leaf,Emelliodora-LB-Block4,E3,T3-3,,,LB-T3
+,,,,,,,,,S45310,T3-4,leaf,Emelliodora-LB-Block4,F3,T3-4,,,LB-T3
+,,,,,,,,,S45311,T3-5,leaf,Emelliodora-LB-Block4,G3,T3-5,,,LB-T3
+,,,,,,,,,S45312,T3-6,leaf,Emelliodora-LB-Block4,H3,T3-6,,,LB-T3
+,,,,,,,,,S45313,T3-7,leaf,Emelliodora-LB-Block4,A4,T3-7,,,LB-T3
+,,,,,,,,,S45314,T3-8,leaf,Emelliodora-LB-Block4,B4,T3-8,,,LB-T3
+,,,,,,,,,S45315,T3-9,leaf,Emelliodora-LB-Block4,C4,T3-9,,,LB-T3
+,,,,,,,,,S45316,T3-10,leaf,Emelliodora-LB-Block4,D4,T3-10,,,LB-T3
+,,,,,,,,,S45317,site21-1,leaf,Emelliodora-LB-Block4,E4,site21-1,,,LB-21
+,,,,,,,,,S45318,site21-2,leaf,Emelliodora-LB-Block4,F4,site21-2,,,LB-21
+,,,,,,,,,S45319,site21-3,leaf,Emelliodora-LB-Block4,G4,site21-3,,,LB-21
+,,,,,,,,,S45320,site21-4,leaf,Emelliodora-LB-Block4,H4,site21-4,,,LB-21
+,,,,,,,,,S45321,site21-5,leaf,Emelliodora-LB-Block4,A5,site21-5,,,LB-21
+,,,,,,,,,S45322,site21-6,leaf,Emelliodora-LB-Block4,B5,site21-6,,,LB-21
+,,,,,,,,,S45323,site21-7,leaf,Emelliodora-LB-Block4,C5,site21-7,,,LB-21
+,,,,,,,,,S45324,site21-8,leaf,Emelliodora-LB-Block4,D5,site21-8,,,LB-21
+,,,,,,,,,S45325,site21-9,leaf,Emelliodora-LB-Block4,E5,site21-9,,,LB-21
+,,,,,,,,,S45326,site21-10,leaf,Emelliodora-LB-Block4,F5,site21-10,,,LB-21
+,,,,,,,,,S45327,T2-1,leaf,Emelliodora-LB-Block4,G5,T2-1,,,LB-T2
+,,,,,,,,,S45328,T2-2,leaf,Emelliodora-LB-Block4,H5,T2-2,,,LB-T2
+,,,,,,,,,S45329,T2-3,leaf,Emelliodora-LB-Block4,A6,T2-3,,,LB-T2
+,,,,,,,,,S45330,T2-4,leaf,Emelliodora-LB-Block4,B6,T2-4,,,LB-T2
+,,,,,,,,,S45331,T2-5,leaf,Emelliodora-LB-Block4,C6,T2-5,,,LB-T2
+,,,,,,,,,S45332,T2-6,leaf,Emelliodora-LB-Block4,D6,T2-6,,,LB-T2
+,,,,,,,,,S45333,T2-7,leaf,Emelliodora-LB-Block4,E6,T2-7,,,LB-T2
+,,,,,,,,,S45334,T2-8,leaf,Emelliodora-LB-Block4,F6,T2-8,,,LB-T2
+,,,,,,,,,S45335,T2-9,leaf,Emelliodora-LB-Block4,G6,T2-9,,,LB-T2
+,,,,,,,,,S45336,T2-10,leaf,Emelliodora-LB-Block4,H6,T2-10,,,LB-T2
+,,,,,,,,,S45337,site13-1,leaf,Emelliodora-LB-Block4,A7,site13-1,,,LB-13
+,,,,,,,,,S45338,site13-2,leaf,Emelliodora-LB-Block4,B7,site13-2,,,LB-13
+,,,,,,,,,S45339,site13-3,leaf,Emelliodora-LB-Block4,C7,site13-3,,,LB-13
+,,,,,,,,,S45340,site13-4,leaf,Emelliodora-LB-Block4,D7,site13-4,,,LB-13
+,,,,,,,,,S45341,site13-5,leaf,Emelliodora-LB-Block4,E7,site13-5,,,LB-13
+,,,,,,,,,S45342,site13-6,leaf,Emelliodora-LB-Block4,F7,site13-6,,,LB-13
+,,,,,,,,,S45343,site26-1,leaf,Emelliodora-LB-Block4,G7,site26-1,,outlier,LB-26
+,,,,,,,,,S45344,site26-2,leaf,Emelliodora-LB-Block4,H7,site26-2,,outlier,LB-26
+,,,,,,,,,S45345,site26-3,leaf,Emelliodora-LB-Block4,A8,site26-3,,outlier,LB-26
+,,,,,,,,,S45346,site26-4,leaf,Emelliodora-LB-Block4,B8,site26-4,,outlier,LB-26
+,,,,,,,,,S45347,site26-5,leaf,Emelliodora-LB-Block4,C8,site26-5,,outlier,LB-26
+,,,,,,,,,S45348,site26-6,leaf,Emelliodora-LB-Block4,D8,site26-6,,,LB-26
+,,,,,,,,,S45349,site26-7,leaf,Emelliodora-LB-Block4,E8,site26-7,,outlier,LB-26
+,,,,,,,,,S45350,site26-8,leaf,Emelliodora-LB-Block4,F8,site26-8,,outlier,LB-26
+,,,,,,,,,S45351,site26-9,leaf,Emelliodora-LB-Block4,G8,site26-9,,,LB-26
+,,,,,,,,,S45352,site26-10,leaf,Emelliodora-LB-Block4,H8,site26-10,,outlier,LB-26
+,,,,,,,,,S45353,i1-1,leaf,Emelliodora-LB-Block4,A9,i1-1,,,LB-I1
+,,,,,,,,,S45354,i1-2,leaf,Emelliodora-LB-Block4,B9,i1-2,,,LB-I1
+,,,,,,,,,S45355,i1-3,leaf,Emelliodora-LB-Block4,C9,i1-3,,,LB-I1
+,,,,,,,,,S45356,i1-4,leaf,Emelliodora-LB-Block4,D9,i1-4,,,LB-I1
+,,,,,,,,,S45357,i1-5,leaf,Emelliodora-LB-Block4,E9,i1-5,,,LB-I1
+,,,,,,,,,S45358,i1-6,leaf,Emelliodora-LB-Block4,F9,i1-6,,,LB-I1
+,,,,,,,,,S45359,i1-7,leaf,Emelliodora-LB-Block4,G9,i1-7,,,LB-I1
+,,,,,,,,,S45360,i1-8,leaf,Emelliodora-LB-Block4,H9,i1-8,,,LB-I1
+,,,,,,,,,S45361,i1-9,leaf,Emelliodora-LB-Block4,A10,i1-9,,,LB-I1
+,,,,,,,,,S45362,i1-10,leaf,Emelliodora-LB-Block4,B10,i1-10,,,LB-I1
+,,,,,,,,,S45363,O-1,leaf,Emelliodora-LB-Block4,C10,O1,,outlier,LB-O
+,,,,,,,,,S45364,O-2,leaf,Emelliodora-LB-Block4,D10,O2,,outlier,LB-O
+,,,,,,,,,S45365,O-3,leaf,Emelliodora-LB-Block4,E10,O3,,outlier,LB-O
+,,,,,,,,,S45366,O-4,leaf,Emelliodora-LB-Block4,F10,O4,,outlier,LB-O
+,,,,,,,,,S45367,O-5,leaf,Emelliodora-LB-Block4,G10,O5,,outlier,LB-O
+,,,,,,,,,S45368,O-6,leaf,Emelliodora-LB-Block4,H10,O6,,outlier,LB-O
+,,,,,,,,,S45369,O-7,leaf,Emelliodora-LB-Block4,A11,O7,,outlier,LB-O
+,,,,,,,,,S45370,O-8,leaf,Emelliodora-LB-Block4,B11,O8,,outlier,LB-O
+,,,,,,,,,S45371,O-9,leaf,Emelliodora-LB-Block4,C11,O9,,outlier,LB-O
+,,,,,,,,,S45372,O-10,leaf,Emelliodora-LB-Block4,D11,O10,,outlier,LB-O
+,,,,,,,,,S45373,site7-1R,leaf,Emelliodora-LB-Block4,E11,site7-1,,geogout,LB-7
+,,,,,,,,,S45374,site7-2R,leaf,Emelliodora-LB-Block4,F11,site7-2,,geogout,LB-7
+,,,,,,,,,S45375,site7-3R,leaf,Emelliodora-LB-Block4,G11,site7-3,,geogout,LB-7
+,,,,,,,,,S45376,site7-4R,leaf,Emelliodora-LB-Block4,H11,site7-4,,geogout,LB-7
+,,,,,,,,,S45377,site7-5R,leaf,Emelliodora-LB-Block4,A12,site7-5,,geogout,LB-7
+,,,,,,,,,S45378,site7-6R,leaf,Emelliodora-LB-Block4,B12,site7-6,,geogout,LB-7
+,,,,,,,,,S45379,site7-7R,leaf,Emelliodora-LB-Block4,C12,site7-7,,geogout,LB-7
+,,,,,,,,,S45380,LB19_7_01,whole seedling,Emelliodora_Plate5_2015,A1,LB19_7_01,,,LB-19
+,,,,,,,,,S45381,LBD_3_07,whole seedling,Emelliodora_Plate5_2015,B1,LBD_3_07,,,LB-D
+,,,,,,,,,S45382,LB19_24_01,whole seedling,Emelliodora_Plate5_2015,C1,LB19_24_01,,,LB-19
+,,,,,,,,,S45383,LBK2_28_08,whole seedling,Emelliodora_Plate5_2015,D1,LBK2_28_08,,,LB-K2
+,,,,,,,,,S45384,LB11_9_03R,whole seedling,Emelliodora_Plate5_2015,E1,LB11_9_03R,,,LB-11
+,,,,,,,,,S45385,LB11_9_02R,whole seedling,Emelliodora_Plate5_2015,F1,LB11_9_02R,,,LB-11
+,,,,,,,,,S45386,LBD_11_22,whole seedling,Emelliodora_Plate5_2015,G1,LBD_11_22,,,LB-D
+,,,,,,,,,S45387,LBD_5_07,whole seedling,Emelliodora_Plate5_2015,H1,LBD_5_07,,,LB-D
+,,,,,,,,,S45388,LB19_7_02,whole seedling,Emelliodora_Plate5_2015,A2,LB19_7_02,,,LB-19
+,,,,,,,,,S45389,LBD_3_08,whole seedling,Emelliodora_Plate5_2015,B2,LBD_3_08,,,LB-D
+,,,,,,,,,S45390,LB19_24_02,whole seedling,Emelliodora_Plate5_2015,C2,LB19_24_02,,,LB-19
+,,,,,,,,,S45391,LBK2_26_01,whole seedling,Emelliodora_Plate5_2015,D2,LBK2_26_01,,,LB-K2
+,,,,,,,,,S45392,LBD_11_01,whole seedling,Emelliodora_Plate5_2015,E2,LBD_11_01,,,LB-D
+,,,,,,,,,S45393,LBD_11_11,whole seedling,Emelliodora_Plate5_2015,F2,LBD_11_11,,,LB-D
+,,,,,,,,,S45394,LBD_11_23,whole seedling,Emelliodora_Plate5_2015,G2,LBD_11_23,,,LB-D
+,,,,,,,,,S45395,LBD_5_08,whole seedling,Emelliodora_Plate5_2015,H2,LBD_5_08,,,LB-D
+,,,,,,,,,S45396,LB19_7_03,whole seedling,Emelliodora_Plate5_2015,A3,LB19_7_03,,,LB-19
+,,,,,,,,,S45397,LBD_3_09,whole seedling,Emelliodora_Plate5_2015,B3,LBD_3_09,,,LB-D
+,,,,,,,,,S45398,LB19_24_03,whole seedling,Emelliodora_Plate5_2015,C3,LB19_24_03,,,LB-19
+,,,,,,,,,S45399,LBK2_26_02,whole seedling,Emelliodora_Plate5_2015,D3,LBK2_26_02,,,LB-K2
+,,,,,,,,,S45400,LBD_11_1R,whole seedling,Emelliodora_Plate5_2015,E3,LBD_11_1R,,,LB-D
+,,,,,,,,,S45401,LBD_11_12,whole seedling,Emelliodora_Plate5_2015,F3,LBD_11_12,,,LB-D
+,,,,,,,,,S45402,LBD_11_24,whole seedling,Emelliodora_Plate5_2015,G3,LBD_11_24,,,LB-D
+,,,,,,,,,S45403,LBD_5_09,whole seedling,Emelliodora_Plate5_2015,H3,LBD_5_09,,,LB-D
+,,,,,,,,,S45404,LB19_7_04,whole seedling,Emelliodora_Plate5_2015,A4,LB19_7_04,,,LB-19
+,,,,,,,,,S45405,LBD_3_10,whole seedling,Emelliodora_Plate5_2015,B4,LBD_3_10,,,LB-D
+,,,,,,,,,S45406,LB19_24_04,whole seedling,Emelliodora_Plate5_2015,C4,LB19_24_04,,,LB-19
+,,,,,,,,,S45407,LBK2_26_03,whole seedling,Emelliodora_Plate5_2015,D4,LBK2_26_03,,,LB-K2
+,,,,,,,,,S45408,LBD_11_02,whole seedling,Emelliodora_Plate5_2015,E4,LBD_11_02,,,LB-D
+,,,,,,,,,S45409,LBD_11_13,whole seedling,Emelliodora_Plate5_2015,F4,LBD_11_13,,,LB-D
+,,,,,,,,,S45410,LBD_11_25,whole seedling,Emelliodora_Plate5_2015,G4,LBD_11_25,,,LB-D
+,,,,,,,,,S45411,LBD_5_10,whole seedling,Emelliodora_Plate5_2015,H4,LBD_5_10,,,LB-D
+,,,,,,,,,S45412,LB19_7_05,whole seedling,Emelliodora_Plate5_2015,A5,LB19_7_05,,,LB-19
+,,,,,,,,,S45413,LBD_3_11,whole seedling,Emelliodora_Plate5_2015,B5,LBD_3_11,,,LB-D
+,,,,,,,,,S45414,LB19_24_05,whole seedling,Emelliodora_Plate5_2015,C5,LB19_24_05,,,LB-19
+,,,,,,,,,S45415,LBK2_26_04,whole seedling,Emelliodora_Plate5_2015,D5,LBK2_26_04,,,LB-K2
+,,,,,,,,,S45416,LBD_11_03,whole seedling,Emelliodora_Plate5_2015,E5,LBD_11_03,,,LB-D
+,,,,,,,,,S45417,LBD_11_14,whole seedling,Emelliodora_Plate5_2015,F5,LBD_11_14,,,LB-D
+,,,,,,,,,S45418,LBD_11_26,whole seedling,Emelliodora_Plate5_2015,G5,LBD_11_26,,,LB-D
+,,,,,,,,,S45419,LBD_5_11,whole seedling,Emelliodora_Plate5_2015,H5,LBD_5_11,,,LB-D
+,,,,,,,,,S45420,LBM_5_01,whole seedling,Emelliodora_Plate5_2015,A6,LBM_5_01,,,LB-M
+,,,,,,,,,S45421,LBD_3_12,whole seedling,Emelliodora_Plate5_2015,B6,LBD_3_12,,,LB-D
+,,,,,,,,,S45422,LBK2_28_01,whole seedling,Emelliodora_Plate5_2015,C6,LBK2_28_01,,,LB-K2
+,,,,,,,,,S45423,LBK2_26_05,whole seedling,Emelliodora_Plate5_2015,D6,LBK2_26_05,,,LB-K2
+,,,,,,,,,S45424,LBD_11_04,whole seedling,Emelliodora_Plate5_2015,E6,LBD_11_04,,,LB-D
+,,,,,,,,,S45425,LBD_11_15,whole seedling,Emelliodora_Plate5_2015,F6,LBD_11_15,,,LB-D
+,,,,,,,,,S45426,LBD_5_01,whole seedling,Emelliodora_Plate5_2015,G6,LBD_5_01,,,LB-D
+,,,,,,,,,S45427,LBD_5_12,whole seedling,Emelliodora_Plate5_2015,H6,LBD_5_12,,,LB-D
+,,,,,,,,,S45428,LBM_5_02,whole seedling,Emelliodora_Plate5_2015,A7,LBM_5_02,,,LB-M
+,,,,,,,,,S45429,LBD_12_01,whole seedling,Emelliodora_Plate5_2015,B7,LBD_12_01,,,LB-D
+,,,,,,,,,S45430,LBK2_28_02,whole seedling,Emelliodora_Plate5_2015,C7,LBK2_28_02,,,LB-K2
+,,,,,,,,,S45431,LBK2_26_06,whole seedling,Emelliodora_Plate5_2015,D7,LBK2_26_06,,,LB-K2
+,,,,,,,,,S45432,LBD_11_05,whole seedling,Emelliodora_Plate5_2015,E7,LBD_11_05,,,LB-D
+,,,,,,,,,S45433,LBD_11_16,whole seedling,Emelliodora_Plate5_2015,F7,LBD_11_16,,,LB-D
+,,,,,,,,,S45434,LBD_5_02,whole seedling,Emelliodora_Plate5_2015,G7,LBD_5_02,,,LB-D
+,,,,,,,,,S45435,LBD_5_13,whole seedling,Emelliodora_Plate5_2015,H7,LBD_5_13,,,LB-D
+,,,,,,,,,S45436,LBM_5_03,whole seedling,Emelliodora_Plate5_2015,A8,LBM_5_03,,,LB-M
+,,,,,,,,,S45437,LBD_12_02,whole seedling,Emelliodora_Plate5_2015,B8,LBD_12_02,,,LB-D
+,,,,,,,,,S45438,LBK2_28_03,whole seedling,Emelliodora_Plate5_2015,C8,LBK2_28_03,,,LB-K2
+,,,,,,,,,S45439,LBK2_26_07,whole seedling,Emelliodora_Plate5_2015,D8,LBK2_26_07,,,LB-K2
+,,,,,,,,,S45440,LBD_11_06,whole seedling,Emelliodora_Plate5_2015,E8,LBD_11_06,,,LB-D
+,,,,,,,,,S45441,LBD_11_17,whole seedling,Emelliodora_Plate5_2015,F8,LBD_11_17,,,LB-D
+,,,,,,,,,S45442,LBD_5_03,whole seedling,Emelliodora_Plate5_2015,G8,LBD_5_03,,,LB-D
+,,,,,,,,,S45443,LBD_5_14,whole seedling,Emelliodora_Plate5_2015,H8,LBD_5_14,,,LB-D
+,,,,,,,,,S45444,LBM_5_04,whole seedling,Emelliodora_Plate5_2015,A9,LBM_5_04,,,LB-M
+,,,,,,,,,S45445,LBD_12_03,whole seedling,Emelliodora_Plate5_2015,B9,LBD_12_03,,,LB-D
+,,,,,,,,,S45446,LBK2_28_04,whole seedling,Emelliodora_Plate5_2015,C9,LBK2_28_04,,,LB-K2
+,,,,,,,,,S45447,LBK2_26_08,whole seedling,Emelliodora_Plate5_2015,D9,LBK2_26_08,,,LB-K2
+,,,,,,,,,S45448,LBD_11_07,whole seedling,Emelliodora_Plate5_2015,E9,LBD_11_07,,,LB-D
+,,,,,,,,,S45449,LBD_11_18,whole seedling,Emelliodora_Plate5_2015,F9,LBD_11_18,,,LB-D
+,,,,,,,,,S45450,LBD_5_04,whole seedling,Emelliodora_Plate5_2015,G9,LBD_5_04,,,LB-D
+,,,,,,,,,S45451,LBD_5_15,whole seedling,Emelliodora_Plate5_2015,H9,LBD_5_15,,,LB-D
+,,,,,,,,,S45452,LBM_5_05,whole seedling,Emelliodora_Plate5_2015,A10,LBM_5_05,,,LB-M
+,,,,,,,,,S45453,LBD_12_04,whole seedling,Emelliodora_Plate5_2015,B10,LBD_12_04,,,LB-D
+,,,,,,,,,S45454,LBK2_28_05,whole seedling,Emelliodora_Plate5_2015,C10,LBK2_28_05,,,LB-K2
+,,,,,,,,,S45455,LB11_9_01,whole seedling,Emelliodora_Plate5_2015,D10,LB11_9_01,,,LB-11
+,,,,,,,,,S45456,LBD_11_08,whole seedling,Emelliodora_Plate5_2015,E10,LBD_11_08,,,LB-D
+,,,,,,,,,S45457,LBD_11_19,whole seedling,Emelliodora_Plate5_2015,F10,LBD_11_19,,,LB-D
+,,,,,,,,,S45458,LBD_5_05,whole seedling,Emelliodora_Plate5_2015,G10,LBD_5_05,,,LB-D
+,,,,,,,,,S45459,LBD_5_16,whole seedling,Emelliodora_Plate5_2015,H10,LBD_5_16,,,LB-D
+,,,,,,,,,S45460,LBM_5_06,whole seedling,Emelliodora_Plate5_2015,A11,LBM_5_06,,,LB-M
+,,,,,,,,,S45461,LBD_12_05,whole seedling,Emelliodora_Plate5_2015,B11,LBD_12_05,,,LB-D
+,,,,,,,,,S45462,LBK2_28_06,whole seedling,Emelliodora_Plate5_2015,C11,LBK2_28_06,,,LB-K2
+,,,,,,,,,S45463,LB11_9_02,whole seedling,Emelliodora_Plate5_2015,D11,LB11_9_02,,,LB-11
+,,,,,,,,,S45464,LBD_11_09,whole seedling,Emelliodora_Plate5_2015,E11,LBD_11_09,,,LB-D
+,,,,,,,,,S45465,LBD_11_20,whole seedling,Emelliodora_Plate5_2015,F11,LBD_11_20,,,LB-D
+,,,,,,,,,S45466,LBD_5_06,whole seedling,Emelliodora_Plate5_2015,G11,LBD_5_06,,,LB-D
+,,,,,,,,,S45467,LBD_5_17,whole seedling,Emelliodora_Plate5_2015,H11,LBD_5_17,,,LB-D
+,,,,,,,,,S45468,LBM_5_07,whole seedling,Emelliodora_Plate5_2015,A12,LBM_5_07,,,LB-M
+,,,,,,,,,S45469,LBD_12_06,whole seedling,Emelliodora_Plate5_2015,B12,LBD_12_06,,,LB-D
+,,,,,,,,,S45470,LBK2_28_07,whole seedling,Emelliodora_Plate5_2015,C12,LBK2_28_07,,,LB-K2
+,,,,,,,,,S45471,LB11_9_03,whole seedling,Emelliodora_Plate5_2015,D12,LB11_9_03,,,LB-11
+,,,,,,,,,S45472,LBD_11_10,whole seedling,Emelliodora_Plate5_2015,E12,LBD_11_10,,,LB-D
+,,,,,,,,,S45473,LBD_11_21,whole seedling,Emelliodora_Plate5_2015,F12,LBD_11_21,,,LB-D
+,,,,,,,,,S45474,LBD_5_06R,whole seedling,Emelliodora_Plate5_2015,G12,LBD_5_06R,,,LB-D
+,,,,,,,,,S45475,LBD_5_18,whole seedling,Emelliodora_Plate5_2015,H12,LBD_5_18,,,LB-D
+,,,,,,,,,S45476,LBD_3_01,whole seedling,Emelliodora_Plate6_2015,A1,LBD_3_01,,,LB-D
+,,,,,,,,,S45477,LBK2_22_07,whole seedling,Emelliodora_Plate6_2015,B1,LBK2_22_07,,,LB-K2
+,,,,,,,,,S45478,LBD_8_05,whole seedling,Emelliodora_Plate6_2015,C1,LBD_8_05,,,LB-D
+,,,,,,,,,S45479,LB19_12_05,whole seedling,Emelliodora_Plate6_2015,D1,LB19_12_05,,,LB-19
+,,,,,,,,,S45480,LB19_2_02,whole seedling,Emelliodora_Plate6_2015,E1,LB19_2_02,,,LB-19
+,,,,,,,,,S45481,LB19_28_01,whole seedling,Emelliodora_Plate6_2015,F1,LB19_28_01,,,LB-19
+,,,,,,,,,S45482,LB19_5_03,whole seedling,Emelliodora_Plate6_2015,G1,LB19_5_03,,,LB-19
+,,,,,,,,,S45483,LBT1_14_02,whole seedling,Emelliodora_Plate6_2015,H1,LBT1_14_02,,,LB-T1
+,,,,,,,,,S45484,LBD_3_02,whole seedling,Emelliodora_Plate6_2015,A2,LBD_3_02,,,LB-D
+,,,,,,,,,S45485,LBK2_22_08,whole seedling,Emelliodora_Plate6_2015,B2,LBK2_22_08,,,LB-K2
+,,,,,,,,,S45486,LBD_8_06,whole seedling,Emelliodora_Plate6_2015,C2,LBD_8_06,,,LB-D
+,,,,,,,,,S45487,LB19_12_06,whole seedling,Emelliodora_Plate6_2015,D2,LB19_12_06,,,LB-19
+,,,,,,,,,S45488,LB19_2_03,whole seedling,Emelliodora_Plate6_2015,E2,LB19_2_03,,,LB-19
+,,,,,,,,,S45489,LB19_28_02,whole seedling,Emelliodora_Plate6_2015,F2,LB19_28_02,,,LB-19
+,,,,,,,,,S45490,LB19_5_04,whole seedling,Emelliodora_Plate6_2015,G2,LB19_5_04,,,LB-19
+,,,,,,,,,S45491,LBT1_14_03,whole seedling,Emelliodora_Plate6_2015,H2,LBT1_14_03,,,LB-T1
+,,,,,,,,,S45492,LBD_3_03,whole seedling,Emelliodora_Plate6_2015,A3,LBD_3_03,,,LB-D
+,,,,,,,,,S45493,LBK2_22_09,whole seedling,Emelliodora_Plate6_2015,B3,LBK2_22_09,,,LB-K2
+,,,,,,,,,S45494,LBD_8_07,whole seedling,Emelliodora_Plate6_2015,C3,LBD_8_07,,,LB-D
+,,,,,,,,,S45495,LB19_12_07,whole seedling,Emelliodora_Plate6_2015,D3,LB19_12_07,,,LB-19
+,,,,,,,,,S45496,LB19_2_04,whole seedling,Emelliodora_Plate6_2015,E3,LB19_2_04,,,LB-19
+,,,,,,,,,S45497,LB19_28_03,whole seedling,Emelliodora_Plate6_2015,F3,LB19_28_03,,,LB-19
+,,,,,,,,,S45498,LB19_7_06,whole seedling,Emelliodora_Plate6_2015,G3,LB19_7_06,,,LB-19
+,,,,,,,,,S45499,LBT1_14_04,whole seedling,Emelliodora_Plate6_2015,H3,LBT1_14_04,,,LB-T1
+,,,,,,,,,S45500,LBD_3_04,whole seedling,Emelliodora_Plate6_2015,A4,LBD_3_04,,,LB-D
+,,,,,,,,,S45501,LBK2_22_10,whole seedling,Emelliodora_Plate6_2015,B4,LBK2_22_10,,,LB-K2
+,,,,,,,,,S45502,LBD_8_08,whole seedling,Emelliodora_Plate6_2015,C4,LBD_8_08,,,LB-D
+,,,,,,,,,S45503,LB19_12_08,whole seedling,Emelliodora_Plate6_2015,D4,LB19_12_08,,,LB-19
+,,,,,,,,,S45504,LB19_2_05,whole seedling,Emelliodora_Plate6_2015,E4,LB19_2_05,,,LB-19
+,,,,,,,,,S45505,LB19_28_04,whole seedling,Emelliodora_Plate6_2015,F4,LB19_28_04,,,LB-19
+,,,,,,,,,S45506,LB19_7_07,whole seedling,Emelliodora_Plate6_2015,G4,LB19_7_07,,,LB-19
+,,,,,,,,,S45507,LBT1_14_05,whole seedling,Emelliodora_Plate6_2015,H4,LBT1_14_05,,,LB-T1
+,,,,,,,,,S45508,LBD_3_05,whole seedling,Emelliodora_Plate6_2015,A5,LBD_3_05,,,LB-D
+,,,,,,,,,S45509,LBK2_22_11,whole seedling,Emelliodora_Plate6_2015,B5,LBK2_22_11,,,LB-K2
+,,,,,,,,,S45510,LBD_8_09,whole seedling,Emelliodora_Plate6_2015,C5,LBD_8_09,,,LB-D
+,,,,,,,,,S45511,LB19_12_09,whole seedling,Emelliodora_Plate6_2015,D5,LB19_12_09,,,LB-19
+,,,,,,,,,S45512,LB19_2_06,whole seedling,Emelliodora_Plate6_2015,E5,LB19_2_06,,,LB-19
+,,,,,,,,,S45513,LB19_28_05,whole seedling,Emelliodora_Plate6_2015,F5,LB19_28_05,,,LB-19
+,,,,,,,,,S45514,LB19_7_08,whole seedling,Emelliodora_Plate6_2015,G5,LB19_7_08,,,LB-19
+,,,,,,,,,S45515,LBT1_14_06,whole seedling,Emelliodora_Plate6_2015,H5,LBT1_14_06,,,LB-T1
+,,,,,,,,,S45516,LBD_3_06,whole seedling,Emelliodora_Plate6_2015,A6,LBD_3_06,,,LB-D
+,,,,,,,,,S45517,LBK2_22_12,whole seedling,Emelliodora_Plate6_2015,B6,LBK2_22_12,,,LB-K2
+,,,,,,,,,S45518,LBD_8_10,whole seedling,Emelliodora_Plate6_2015,C6,LBD_8_10,,,LB-D
+,,,,,,,,,S45519,LB19_24_06,whole seedling,Emelliodora_Plate6_2015,D6,LB19_24_06,,,LB-19
+,,,,,,,,,S45520,LB19_2_07,whole seedling,Emelliodora_Plate6_2015,E6,LB19_2_07,,,LB-19
+,,,,,,,,,S45521,LB19_28_06,whole seedling,Emelliodora_Plate6_2015,F6,LB19_28_06,,,LB-19
+,,,,,,,,,S45522,LB19_7_09,whole seedling,Emelliodora_Plate6_2015,G6,LB19_7_09,,,LB-19
+,,,,,,,,,S45523,LBT1_14_07,whole seedling,Emelliodora_Plate6_2015,H6,LBT1_14_07,,,LB-T1
+,,,,,,,,,S45524,LBK2_22_01,whole seedling,Emelliodora_Plate6_2015,A7,LBK2_22_01,,,LB-K2
+,,,,,,,,,S45525,LBK2_22_13,whole seedling,Emelliodora_Plate6_2015,B7,LBK2_22_13,,,LB-K2
+,,,,,,,,,S45526,LBD_8_11,whole seedling,Emelliodora_Plate6_2015,C7,LBD_8_11,,,LB-D
+,,,,,,,,,S45527,LB19_24_07,whole seedling,Emelliodora_Plate6_2015,D7,LB19_24_07,,,LB-19
+,,,,,,,,,S45528,KMCH_01_01,whole seedling,Emelliodora_Plate6_2015,E7,KMCH_01_01,,,KMCH
+,,,,,,,,,S45529,LB19_28_07,whole seedling,Emelliodora_Plate6_2015,F7,LB19_28_07,,,LB-19
+,,,,,,,,,S45530,LB19_7_10,whole seedling,Emelliodora_Plate6_2015,G7,LB19_7_10,,,LB-19
+,,,,,,,,,S45531,LBT1_14_08,whole seedling,Emelliodora_Plate6_2015,H7,LBT1_14_08,,,LB-T1
+,,,,,,,,,S45532,LBK2_22_02,whole seedling,Emelliodora_Plate6_2015,A8,LBK2_22_02,,,LB-K2
+,,,,,,,,,S45533,LBK2_22_14,whole seedling,Emelliodora_Plate6_2015,B8,LBK2_22_14,,,LB-K2
+,,,,,,,,,S45534,LBD_8_12,whole seedling,Emelliodora_Plate6_2015,C8,LBD_8_12,,,LB-D
+,,,,,,,,,S45535,LB19_24_08,whole seedling,Emelliodora_Plate6_2015,D8,LB19_24_08,,,LB-19
+,,,,,,,,,S45536,KMCH_01_02,whole seedling,Emelliodora_Plate6_2015,E8,KMCH_01_02,,,KMCH
+,,,,,,,,,S45537,LB19_28_08,whole seedling,Emelliodora_Plate6_2015,F8,LB19_28_08,,,LB-19
+,,,,,,,,,S45538,LB19_7_11,whole seedling,Emelliodora_Plate6_2015,G8,LB19_7_11,,,LB-19
+,,,,,,,,,S45539,LBT1_14_09,whole seedling,Emelliodora_Plate6_2015,H8,LBT1_14_09,,,LB-T1
+,,,,,,,,,S45540,LBK2_22_03,whole seedling,Emelliodora_Plate6_2015,A9,LBK2_22_03,,,LB-K2
+,,,,,,,,,S45541,LBD_8_01,whole seedling,Emelliodora_Plate6_2015,B9,LBD_8_01,,,LB-D
+,,,,,,,,,S45542,LB19_12_01,whole seedling,Emelliodora_Plate6_2015,C9,LB19_12_01,,,LB-19
+,,,,,,,,,S45543,LB19_24_09,whole seedling,Emelliodora_Plate6_2015,D9,LB19_24_09,,,LB-19
+,,,,,,,,,S45544,KMCH_01_03,whole seedling,Emelliodora_Plate6_2015,E9,KMCH_01_03,,,KMCH
+,,,,,,,,,S45545,LB19_4_01,whole seedling,Emelliodora_Plate6_2015,F9,LB19_4_01,,,LB-19
+,,,,,,,,,S45546,LB19_7_12,whole seedling,Emelliodora_Plate6_2015,G9,LB19_7_12,,,LB-19
+,,,,,,,,,S45547,LBT1_14_10,whole seedling,Emelliodora_Plate6_2015,H9,LBT1_14_10,,,LB-T1
+,,,,,,,,,S45548,LBK2_22_04,whole seedling,Emelliodora_Plate6_2015,A10,LBK2_22_04,,,LB-K2
+,,,,,,,,,S45549,LBD_8_02,whole seedling,Emelliodora_Plate6_2015,B10,LBD_8_02,,,LB-D
+,,,,,,,,,S45550,LB19_12_02,whole seedling,Emelliodora_Plate6_2015,C10,LB19_12_02,,,LB-19
+,,,,,,,,,S45551,LB19_24_10,whole seedling,Emelliodora_Plate6_2015,D10,LB19_24_10,,,LB-19
+,,,,,,,,,S45552,KMCH_01_04,whole seedling,Emelliodora_Plate6_2015,E10,KMCH_01_04,,,KMCH
+,,,,,,,,,S45553,LB19_4_02,whole seedling,Emelliodora_Plate6_2015,F10,LB19_4_02,,,LB-19
+,,,,,,,,,S45554,LB19_7_13,whole seedling,Emelliodora_Plate6_2015,G10,LB19_7_13,,,LB-19
+,,,,,,,,,S45555,LBT1_14_11,whole seedling,Emelliodora_Plate6_2015,H10,LBT1_14_11,,,LB-T1
+,,,,,,,,,S45556,LBK2_22_05,whole seedling,Emelliodora_Plate6_2015,A11,LBK2_22_05,,,LB-K2
+,,,,,,,,,S45557,LBD_8_03,whole seedling,Emelliodora_Plate6_2015,B11,LBD_8_03,,,LB-D
+,,,,,,,,,S45558,LB19_12_03,whole seedling,Emelliodora_Plate6_2015,C11,LB19_12_03,,,LB-19
+,,,,,,,,,S45559,LB19_24_11,whole seedling,Emelliodora_Plate6_2015,D11,LB19_24_11,,,LB-19
+,,,,,,,,,S45560,KMCH_01_05,whole seedling,Emelliodora_Plate6_2015,E11,KMCH_01_05,,,KMCH
+,,,,,,,,,S45561,LB19_5_01,whole seedling,Emelliodora_Plate6_2015,F11,LB19_5_01,,,LB-19
+,,,,,,,,,S45562,LBT1_02_01,whole seedling,Emelliodora_Plate6_2015,G11,LBT1_02_01,,,LB-T1
+,,,,,,,,,S45563,LBT1_14_12,whole seedling,Emelliodora_Plate6_2015,H11,LBT1_14_12,,,LB-T1
+,,,,,,,,,S45564,LBK2_22_06,whole seedling,Emelliodora_Plate6_2015,A12,LBK2_22_06,,,LB-K2
+,,,,,,,,,S45565,LBD_8_04,whole seedling,Emelliodora_Plate6_2015,B12,LBD_8_04,,,LB-D
+,,,,,,,,,S45566,LB19_12_04,whole seedling,Emelliodora_Plate6_2015,C12,LB19_12_04,,,LB-19
+,,,,,,,,,S45567,LB19_2_01,whole seedling,Emelliodora_Plate6_2015,D12,LB19_2_01,,,LB-19
+,,,,,,,,,S45568,KMCH_01_06,whole seedling,Emelliodora_Plate6_2015,E12,KMCH_01_06,,,KMCH
+,,,,,,,,,S45569,LB19_5_02,whole seedling,Emelliodora_Plate6_2015,F12,LB19_5_02,,,LB-19
+,,,,,,,,,S45570,LBT1_14_01,whole seedling,Emelliodora_Plate6_2015,G12,LBT1_14_01,,,LB-T1
+,,,,,,,,,S45571,LBT1_14_13,whole seedling,Emelliodora_Plate6_2015,H12,LBT1_14_13,,,LB-T1
+,,,,,,,,,S45572,LBD_11_27,whole seedling,Emelliodora_Plate9_2015,A1,LBD_11_27,,,LB-D
+,,,,,,,,,S45573,LBD_11_28,whole seedling,Emelliodora_Plate9_2015,B1,LBD_11_28,,,LB-D
+,,,,,,,,,S45574,LBD_11_29,whole seedling,Emelliodora_Plate9_2015,C1,LBD_11_29,,,LB-D
+,,,,,,,,,S45575,LBD_11_30,whole seedling,Emelliodora_Plate9_2015,D1,LBD_11_30,,,LB-D
+,,,,,,,,,S45576,LBD_11_31,whole seedling,Emelliodora_Plate9_2015,E1,LBD_11_31,,,LB-D
+,,,,,,,,,S45577,LBD_11_32,whole seedling,Emelliodora_Plate9_2015,F1,LBD_11_32,,,LB-D
+,,,,,,,,,S45578,LBD_11_33,whole seedling,Emelliodora_Plate9_2015,G1,LBD_11_33,,,LB-D
+,,,,,,,,,S45579,LBD_11_34,whole seedling,Emelliodora_Plate9_2015,H1,LBD_11_34,,,LB-D
+,,,,,,,,,S45580,LBD_5_08,whole seedling,Emelliodora_Plate9_2015,A2,LBD_5_08,,,LB-D
+,,,,,,,,,S45581,LBD_5_09,whole seedling,Emelliodora_Plate9_2015,B2,LBD_5_09,,,LB-D
+,,,,,,,,,S45582,LBD_5_10,whole seedling,Emelliodora_Plate9_2015,C2,LBD_5_10,,,LB-D
+,,,,,,,,,S45583,LBD_5_11,whole seedling,Emelliodora_Plate9_2015,D2,LBD_5_11,,,LB-D
+,,,,,,,,,S45584,LBD_5_12,whole seedling,Emelliodora_Plate9_2015,E2,LBD_5_12,,,LB-D
+,,,,,,,,,S45585,LBD_5_13,whole seedling,Emelliodora_Plate9_2015,F2,LBD_5_13,,,LB-D
+,,,,,,,,,S45586,LBD_5_14,whole seedling,Emelliodora_Plate9_2015,G2,LBD_5_14,,,LB-D
+,,,,,,,,,S45587,LBD_5_15,whole seedling,Emelliodora_Plate9_2015,H2,LBD_5_15,,,LB-D
+,,,,,,,,,S45588,LBD_6_01,whole seedling,Emelliodora_Plate9_2015,A3,LBD_6_01,,,LB-D
+,,,,,,,,,S45589,LBD_6_02,whole seedling,Emelliodora_Plate9_2015,B3,LBD_6_02,,,LB-D
+,,,,,,,,,S45590,LBD_6_03,whole seedling,Emelliodora_Plate9_2015,C3,LBD_6_03,,,LB-D
+,,,,,,,,,S45591,LBD_6_04,whole seedling,Emelliodora_Plate9_2015,D3,LBD_6_04,,,LB-D
+,,,,,,,,,S45592,LBD_6_05,whole seedling,Emelliodora_Plate9_2015,E3,LBD_6_05,,,LB-D
+,,,,,,,,,S45593,LBD_6_06,whole seedling,Emelliodora_Plate9_2015,F3,LBD_6_06,,,LB-D
+,,,,,,,,,S45594,LBD_6_07,whole seedling,Emelliodora_Plate9_2015,G3,LBD_6_07,,,LB-D
+,,,,,,,,,S45595,LBD_6_08,whole seedling,Emelliodora_Plate9_2015,H3,LBD_6_08,,,LB-D
+,,,,,,,,,S45596,LBD_10_01,whole seedling,Emelliodora_Plate9_2015,A4,LBD_10_01,,,LB-D
+,,,,,,,,,S45597,LBD_10_02,whole seedling,Emelliodora_Plate9_2015,B4,LBD_10_02,,,LB-D
+,,,,,,,,,S45598,LBD_10_03,whole seedling,Emelliodora_Plate9_2015,C4,LBD_10_03,,,LB-D
+,,,,,,,,,S45599,LBD_10_04,whole seedling,Emelliodora_Plate9_2015,D4,LBD_10_04,,,LB-D
+,,,,,,,,,S45600,LBD_10_05,whole seedling,Emelliodora_Plate9_2015,E4,LBD_10_05,,,LB-D
+,,,,,,,,,S45601,LBD_10_06,whole seedling,Emelliodora_Plate9_2015,F4,LBD_10_06,,,LB-D
+,,,,,,,,,S45602,LBD_10_07,whole seedling,Emelliodora_Plate9_2015,G4,LBD_10_07,,,LB-D
+,,,,,,,,,S45603,LBD_10_08,whole seedling,Emelliodora_Plate9_2015,H4,LBD_10_08,,,LB-D
+,,,,,,,,,S45604,LB21_13_01,whole seedling,Emelliodora_Plate9_2015,A5,LB21_13_01,,,LB-21
+,,,,,,,,,S45605,LB21_13_02,whole seedling,Emelliodora_Plate9_2015,B5,LB21_13_02,,,LB-21
+,,,,,,,,,S45606,LB21_13_03,whole seedling,Emelliodora_Plate9_2015,C5,LB21_13_03,,,LB-21
+,,,,,,,,,S45607,LB21_13_04,whole seedling,Emelliodora_Plate9_2015,D5,LB21_13_04,,,LB-21
+,,,,,,,,,S45608,LB21_13_05,whole seedling,Emelliodora_Plate9_2015,E5,LB21_13_05,,,LB-21
+,,,,,,,,,S45609,LB21_13_06,whole seedling,Emelliodora_Plate9_2015,F5,LB21_13_06,,,LB-21
+,,,,,,,,,S45610,LB21_24_01,whole seedling,Emelliodora_Plate9_2015,G5,LB21_24_01,,,LB-21
+,,,,,,,,,S45611,LB21_24_02,whole seedling,Emelliodora_Plate9_2015,H5,LB21_24_02,,,LB-21
+,,,,,,,,,S45612,LB21_7_01,whole seedling,Emelliodora_Plate9_2015,A6,LB21_7_01,,,LB-21
+,,,,,,,,,S45613,LB21_7_02,whole seedling,Emelliodora_Plate9_2015,B6,LB21_7_02,,,LB-21
+,,,,,,,,,S45614,LB21_7_03,whole seedling,Emelliodora_Plate9_2015,C6,LB21_7_03,,,LB-21
+,,,,,,,,,S45615,LB21_7_04,whole seedling,Emelliodora_Plate9_2015,D6,LB21_7_04,,,LB-21
+,,,,,,,,,S45616,LB21_7_05,whole seedling,Emelliodora_Plate9_2015,E6,LB21_7_05,,,LB-21
+,,,,,,,,,S45617,LB21_7_06,whole seedling,Emelliodora_Plate9_2015,F6,LB21_7_06,,,LB-21
+,,,,,,,,,S45618,LB21_7_07,whole seedling,Emelliodora_Plate9_2015,G6,LB21_7_07,,,LB-21
+,,,,,,,,,S45619,LB21_7_07R,whole seedling,Emelliodora_Plate9_2015,H6,LB21_7_07R,,,LB-21
+,,,,,,,,,S45620,LB21_1_01,whole seedling,Emelliodora_Plate9_2015,A7,LB21_1_01,,,LB-21
+,,,,,,,,,S45621,LB21_1_01R,whole seedling,Emelliodora_Plate9_2015,B7,LB21_1_01R,,,LB-21
+,,,,,,,,,S45622,LB21_1_02,whole seedling,Emelliodora_Plate9_2015,C7,LB21_1_02,,,LB-21
+,,,,,,,,,S45623,LB21_1_02R,whole seedling,Emelliodora_Plate9_2015,D7,LB21_1_02R,,,LB-21
+,,,,,,,,,S45624,LB21_1_03,whole seedling,Emelliodora_Plate9_2015,E7,LB21_1_03,,,LB-21
+,,,,,,,,,S45625,LB21_1_04,whole seedling,Emelliodora_Plate9_2015,F7,LB21_1_04,,,LB-21
+,,,,,,,,,S45626,LB21_1_05,whole seedling,Emelliodora_Plate9_2015,G7,LB21_1_05,,,LB-21
+,,,,,,,,,S45627,LB21_1_06,whole seedling,Emelliodora_Plate9_2015,H7,LB21_1_06,,,LB-21
+,,,,,,,,,S45628,LB21_1_07,whole seedling,Emelliodora_Plate9_2015,A8,LB21_1_07,,,LB-21
+,,,,,,,,,S45629,LB21_1_08,whole seedling,Emelliodora_Plate9_2015,B8,LB21_1_08,,,LB-21
+,,,,,,,,,S45630,LB21_5_01,whole seedling,Emelliodora_Plate9_2015,C8,LB21_5_01,,,LB-21
+,,,,,,,,,S45631,LB21_5_01R,whole seedling,Emelliodora_Plate9_2015,D8,LB21_5_01R,,,LB-21
+,,,,,,,,,S45632,LB21_5_02,whole seedling,Emelliodora_Plate9_2015,E8,LB21_5_02,,,LB-21
+,,,,,,,,,S45633,LB21_5_02R,whole seedling,Emelliodora_Plate9_2015,F8,LB21_5_02R,,,LB-21
+,,,,,,,,,S45634,LB21_5_03,whole seedling,Emelliodora_Plate9_2015,G8,LB21_5_03,,,LB-21
+,,,,,,,,,S45635,LB21_5_04,whole seedling,Emelliodora_Plate9_2015,H8,LB21_5_04,,,LB-21
+,,,,,,,,,S45636,LB21_5_05,whole seedling,Emelliodora_Plate9_2015,A9,LB21_5_05,,,LB-21
+,,,,,,,,,S45637,LB21_5_06,whole seedling,Emelliodora_Plate9_2015,B9,LB21_5_06,,,LB-21
+,,,,,,,,,S45638,LB21_5_07,whole seedling,Emelliodora_Plate9_2015,C9,LB21_5_07,,,LB-21
+,,,,,,,,,S45639,LB21_5_08,whole seedling,Emelliodora_Plate9_2015,D9,LB21_5_08,,,LB-21
+,,,,,,,,,S45640,LB21_5_09,whole seedling,Emelliodora_Plate9_2015,E9,LB21_5_09,,,LB-21
+,,,,,,,,,S45641,LB21_5_10,whole seedling,Emelliodora_Plate9_2015,F9,LB21_5_10,,,LB-21
+,,,,,,,,,S45642,LB21_5_11,whole seedling,Emelliodora_Plate9_2015,G9,LB21_5_11,,,LB-21
+,,,,,,,,,S45643,LBM_6_01,whole seedling,Emelliodora_Plate9_2015,H9,LBM_6_01,,,LB-M
+,,,,,,,,,S45644,LBM_6_02,whole seedling,Emelliodora_Plate9_2015,A10,LBM_6_02,,,LB-M
+,,,,,,,,,S45645,LBM_6_03,whole seedling,Emelliodora_Plate9_2015,B10,LBM_6_03,,,LB-M
+,,,,,,,,,S45646,LBM_1_01,whole seedling,Emelliodora_Plate9_2015,C10,LBM_1_01,,,LB-M
+,,,,,,,,,S45647,LBM_1_02,whole seedling,Emelliodora_Plate9_2015,D10,LBM_1_02,,,LB-M
+,,,,,,,,,S45648,LBM_1_03,whole seedling,Emelliodora_Plate9_2015,E10,LBM_1_03,,,LB-M
+,,,,,,,,,S45649,LBM_1_04,whole seedling,Emelliodora_Plate9_2015,F10,LBM_1_04,,,LB-M
+,,,,,,,,,S45650,LBM_1_05,whole seedling,Emelliodora_Plate9_2015,G10,LBM_1_05,,,LB-M
+,,,,,,,,,S45651,LBM_1_06,whole seedling,Emelliodora_Plate9_2015,H10,LBM_1_06,,,LB-M
+,,,,,,,,,S45652,LBM_1_07,whole seedling,Emelliodora_Plate9_2015,A11,LBM_1_07,,,LB-M
+,,,,,,,,,S45653,LBM_1_08,whole seedling,Emelliodora_Plate9_2015,B11,LBM_1_08,,,LB-M
+,,,,,,,,,S45654,LBM_1_09,whole seedling,Emelliodora_Plate9_2015,C11,LBM_1_09,,,LB-M
+,,,,,,,,,S45655,LBM_1_10,whole seedling,Emelliodora_Plate9_2015,D11,LBM_1_10,,,LB-M
+,,,,,,,,,S45656,LBM_1_11,whole seedling,Emelliodora_Plate9_2015,E11,LBM_1_11,,,LB-M
+,,,,,,,,,S45657,LBM_1_12,whole seedling,Emelliodora_Plate9_2015,F11,LBM_1_12,,,LB-M
+,,,,,,,,,S45658,LBM_1_13,whole seedling,Emelliodora_Plate9_2015,G11,LBM_1_13,,,LB-M
+,,,,,,,,,S45659,LBM_1_14,whole seedling,Emelliodora_Plate9_2015,H11,LBM_1_14,,,LB-M
+,,,,,,,,,S45660,LBM_1_15,whole seedling,Emelliodora_Plate9_2015,A12,LBM_1_15,,,LB-M
+,,,,,,,,,S45661,LBM_1_16,whole seedling,Emelliodora_Plate9_2015,B12,LBM_1_16,,,LB-M
+,,,,,,,,,S45662,LBM_1_17,whole seedling,Emelliodora_Plate9_2015,C12,LBM_1_17,,,LB-M
+,,,,,,,,,S45663,LBM_1_18,whole seedling,Emelliodora_Plate9_2015,D12,LBM_1_18,,,LB-M
+,,,,,,,,,S45664,LBM_1_19,whole seedling,Emelliodora_Plate9_2015,E12,LBM_1_19,,,LB-M
+,,,,,,,,,S45665,LBM_1_20,whole seedling,Emelliodora_Plate9_2015,F12,LBM_1_20,,,LB-M
+,,,,,,,,,S45666,LBM_1_21,whole seedling,Emelliodora_Plate9_2015,G12,LBM_1_21,,,LB-M
+,,,,,,,,,S45667,LBM_1_22,whole seedling,Emelliodora_Plate9_2015,H12,LBM_1_22,,,LB-M
+,,,,,,,,,S45668,LBM_2_01,whole seedling,Emelliodora_Plate10_2015,A1,LBM_2_01,,,LB-M
+,,,,,,,,,S45669,LBM_2_02,whole seedling,Emelliodora_Plate10_2015,B1,LBM_2_02,,,LB-M
+,,,,,,,,,S45670,LBM_2_03,whole seedling,Emelliodora_Plate10_2015,C1,LBM_2_03,,,LB-M
+,,,,,,,,,S45671,LBM_2_04,whole seedling,Emelliodora_Plate10_2015,D1,LBM_2_04,,,LB-M
+,,,,,,,,,S45672,LBM_2_05,whole seedling,Emelliodora_Plate10_2015,E1,LBM_2_05,,,LB-M
+,,,,,,,,,S45673,LBM_2_06,whole seedling,Emelliodora_Plate10_2015,F1,LBM_2_06,,,LB-M
+,,,,,,,,,S45674,LBM_2_07,whole seedling,Emelliodora_Plate10_2015,G1,LBM_2_07,,,LB-M
+,,,,,,,,,S45675,LBM_2_08,whole seedling,Emelliodora_Plate10_2015,H1,LBM_2_08,,,LB-M
+,,,,,,,,,S45676,LBM_5_08,whole seedling,Emelliodora_Plate10_2015,A2,LBM_5_08,,,LB-M
+,,,,,,,,,S45677,LBM_5_09,whole seedling,Emelliodora_Plate10_2015,B2,LBM_5_09,,,LB-M
+,,,,,,,,,S45678,LBM_5_10,whole seedling,Emelliodora_Plate10_2015,C2,LBM_5_10,,,LB-M
+,,,,,,,,,S45679,LBM_5_11,whole seedling,Emelliodora_Plate10_2015,D2,LBM_5_11,,,LB-M
+,,,,,,,,,S45680,LBM_5_12,whole seedling,Emelliodora_Plate10_2015,E2,LBM_5_12,,,LB-M
+,,,,,,,,,S45681,LBM_5_13,whole seedling,Emelliodora_Plate10_2015,F2,LBM_5_13,,,LB-M
+,,,,,,,,,S45682,LBM_5_13R,whole seedling,Emelliodora_Plate10_2015,G2,LBM_5_13R,,,LB-M
+,,,,,,,,,S45683,LBM_5_14,whole seedling,Emelliodora_Plate10_2015,H2,LBM_5_14,,,LB-M
+,,,,,,,,,S45684,LBM_5_15,whole seedling,Emelliodora_Plate10_2015,A3,LBM_5_15,,,LB-M
+,,,,,,,,,S45685,LBM_5_16,whole seedling,Emelliodora_Plate10_2015,B3,LBM_5_16,,,LB-M
+,,,,,,,,,S45686,LBM_5_17,whole seedling,Emelliodora_Plate10_2015,C3,LBM_5_17,,,LB-M
+,,,,,,,,,S45687,LBM_5_18,whole seedling,Emelliodora_Plate10_2015,D3,LBM_5_18,,,LB-M
+,,,,,,,,,S45688,LBM_5_19,whole seedling,Emelliodora_Plate10_2015,E3,LBM_5_19,,,LB-M
+,,,,,,,,,S45689,LBM_3_1,whole seedling,Emelliodora_Plate10_2015,F3,LBM_3_1,,,LB-M
+,,,,,,,,,S45690,LBM_3_2,whole seedling,Emelliodora_Plate10_2015,G3,LBM_3_2,,,LB-M
+,,,,,,,,,S45691,LBM_3_3,whole seedling,Emelliodora_Plate10_2015,H3,LBM_3_3,,,LB-M
+,,,,,,,,,S45692,LBM_3_04,whole seedling,Emelliodora_Plate10_2015,A4,LBM_3_04,,,LB-M
+,,,,,,,,,S45693,LBM_3_05,whole seedling,Emelliodora_Plate10_2015,B4,LBM_3_05,,,LB-M
+,,,,,,,,,S45694,LBM_3_06,whole seedling,Emelliodora_Plate10_2015,C4,LBM_3_06,,,LB-M
+,,,,,,,,,S45695,LBM_3_07,whole seedling,Emelliodora_Plate10_2015,D4,LBM_3_07,,,LB-M
+,,,,,,,,,S45696,LBM_3_08,whole seedling,Emelliodora_Plate10_2015,E4,LBM_3_08,,,LB-M
+,,,,,,,,,S45697,LB24_22_1,whole seedling,Emelliodora_Plate10_2015,F4,LB24_22_1,,,LB-24
+,,,,,,,,,S45698,LB24_22_2,whole seedling,Emelliodora_Plate10_2015,G4,LB24_22_2,,,LB-24
+,,,,,,,,,S45699,LB24_22_3,whole seedling,Emelliodora_Plate10_2015,H4,LB24_22_3,,,LB-24
+,,,,,,,,,S45700,LB24_22_4,whole seedling,Emelliodora_Plate10_2015,A5,LB24_22_4,,,LB-24
+,,,,,,,,,S45701,LB24_22_5,whole seedling,Emelliodora_Plate10_2015,B5,LB24_22_5,,,LB-24
+,,,,,,,,,S45702,LB24_22_6,whole seedling,Emelliodora_Plate10_2015,C5,LB24_22_6,,,LB-24
+,,,,,,,,,S45703,LB24_22_7,whole seedling,Emelliodora_Plate10_2015,D5,LB24_22_7,,,LB-24
+,,,,,,,,,S45704,LB24_22_8,whole seedling,Emelliodora_Plate10_2015,E5,LB24_22_8,,,LB-24
+,,,,,,,,,S45705,LB24_22_9,whole seedling,Emelliodora_Plate10_2015,F5,LB24_22_9,,,LB-24
+,,,,,,,,,S45706,LB24_22_10,whole seedling,Emelliodora_Plate10_2015,G5,LB24_22_10,,,LB-24
+,,,,,,,,,S45707,LB24_22_11,whole seedling,Emelliodora_Plate10_2015,H5,LB24_22_11,,,LB-24
+,,,,,,,,,S45708,LB24_22_12,whole seedling,Emelliodora_Plate10_2015,A6,LB24_22_12,,,LB-24
+,,,,,,,,,S45709,LB24_22_13,whole seedling,Emelliodora_Plate10_2015,B6,LB24_22_13,,,LB-24
+,,,,,,,,,S45710,LB24_20_01,whole seedling,Emelliodora_Plate10_2015,C6,LB24_20_01,,,LB-24
+,,,,,,,,,S45711,LB24_20_02,whole seedling,Emelliodora_Plate10_2015,D6,LB24_20_02,,,LB-24
+,,,,,,,,,S45712,LB24_20_03,whole seedling,Emelliodora_Plate10_2015,E6,LB24_20_03,,,LB-24
+,,,,,,,,,S45713,LB24_20_04,whole seedling,Emelliodora_Plate10_2015,F6,LB24_20_04,,,LB-24
+,,,,,,,,,S45714,LB24_20_05,whole seedling,Emelliodora_Plate10_2015,G6,LB24_20_05,,,LB-24
+,,,,,,,,,S45715,LB24_20_06,whole seedling,Emelliodora_Plate10_2015,H6,LB24_20_06,,,LB-24
+,,,,,,,,,S45716,LB24_20_07,whole seedling,Emelliodora_Plate10_2015,A7,LB24_20_07,,,LB-24
+,,,,,,,,,S45717,LB24_20_08,whole seedling,Emelliodora_Plate10_2015,B7,LB24_20_08,,,LB-24
+,,,,,,,,,S45718,LB24_20_09,whole seedling,Emelliodora_Plate10_2015,C7,LB24_20_09,,,LB-24
+,,,,,,,,,S45719,LB24_20_10,whole seedling,Emelliodora_Plate10_2015,D7,LB24_20_10,,,LB-24
+,,,,,,,,,S45720,LBK2_28_09,whole seedling,Emelliodora_Plate10_2015,E7,LBK2_28_09,,,LB-K2
+,,,,,,,,,S45721,LBK2_28_10,whole seedling,Emelliodora_Plate10_2015,F7,LBK2_28_10,,,LB-K2
+,,,,,,,,,S45722,LBK2_26_09,whole seedling,Emelliodora_Plate10_2015,G7,LBK2_26_09,,,LB-K2
+,,,,,,,,,S45723,LBK2_26_10,whole seedling,Emelliodora_Plate10_2015,H7,LBK2_26_10,,,LB-K2
+,,,,,,,,,S45724,LBM_1_23,whole seedling,Emelliodora_Plate10_2015,A8,LBM_1_23,,,LB-M
+,,,,,,,,,S45725,LBM_1_24,whole seedling,Emelliodora_Plate10_2015,B8,LBM_1_24,,,LB-M
+,,,,,,,,,S45726,LBM_1_25,whole seedling,Emelliodora_Plate10_2015,C8,LBM_1_25,,,LB-M
+,,,,,,,,,S45727,LB11_8_01,whole seedling,Emelliodora_Plate10_2015,D8,LB11_8_01,,,LB-11
+,,,,,,,,,S45728,LB11_8_02,whole seedling,Emelliodora_Plate10_2015,E8,LB11_8_02,,,LB-11
+,,,,,,,,,S45729,LB11_8_03,whole seedling,Emelliodora_Plate10_2015,F8,LB11_8_03,,,LB-11
+,,,,,,,,,S45730,LB11_8_04,whole seedling,Emelliodora_Plate10_2015,G8,LB11_8_04,,,LB-11
+,,,,,,,,,S45731,LB11_8_05,whole seedling,Emelliodora_Plate10_2015,H8,LB11_8_05,,,LB-11
+,,,,,,,,,S45732,LB11_8_06,whole seedling,Emelliodora_Plate10_2015,A9,LB11_8_06,,,LB-11
+,,,,,,,,,S45733,LB11_8_07,whole seedling,Emelliodora_Plate10_2015,B9,LB11_8_07,,,LB-11
+,,,,,,,,,S45734,LB11_8_08,whole seedling,Emelliodora_Plate10_2015,C9,LB11_8_08,,,LB-11
+,,,,,,,,,S45735,LB11_8_09,whole seedling,Emelliodora_Plate10_2015,D9,LB11_8_09,,,LB-11
+,,,,,,,,,S45736,LB11_8_10,whole seedling,Emelliodora_Plate10_2015,E9,LB11_8_10,,,LB-11
+,,,,,,,,,S45737,LB11_8_11,whole seedling,Emelliodora_Plate10_2015,F9,LB11_8_11,,,LB-11
+,,,,,,,,,S45738,LB11_8_12,whole seedling,Emelliodora_Plate10_2015,G9,LB11_8_12,,,LB-11
+,,,,,,,,,S45739,LB24_16_01,whole seedling,Emelliodora_Plate10_2015,H9,LB24_16_01,,,LB-24
+,,,,,,,,,S45740,LB24_16_02,whole seedling,Emelliodora_Plate10_2015,A10,LB24_16_02,,,LB-24
+,,,,,,,,,S45741,LB24_16_03,whole seedling,Emelliodora_Plate10_2015,B10,LB24_16_03,,,LB-24
+,,,,,,,,,S45742,LB24_16_04,whole seedling,Emelliodora_Plate10_2015,C10,LB24_16_04,,,LB-24
+,,,,,,,,,S45743,LB24_16_05,whole seedling,Emelliodora_Plate10_2015,D10,LB24_16_05,,,LB-24
+,,,,,,,,,S45744,LB24_16_06,whole seedling,Emelliodora_Plate10_2015,E10,LB24_16_06,,,LB-24
+,,,,,,,,,S45745,LB24_16_07,whole seedling,Emelliodora_Plate10_2015,F10,LB24_16_07,,,LB-24
+,,,,,,,,,S45746,LB24_16_08,whole seedling,Emelliodora_Plate10_2015,G10,LB24_16_08,,,LB-24
+,,,,,,,,,S45747,LB24_16_09,whole seedling,Emelliodora_Plate10_2015,H10,LB24_16_09,,,LB-24
+,,,,,,,,,S45748,LB24_16_10,whole seedling,Emelliodora_Plate10_2015,A11,LB24_16_10,,,LB-24
+,,,,,,,,,S45749,LBM_6_01,whole seedling,Emelliodora_Plate10_2015,B11,LBM_6_01,,,LB-M
+,,,,,,,,,S45750,LBM_6_02,whole seedling,Emelliodora_Plate10_2015,C11,LBM_6_02,,,LB-M
+,,,,,,,,,S45751,LBM_6_03,whole seedling,Emelliodora_Plate10_2015,D11,LBM_6_03,,,LB-M
+,,,,,,,,,S45752,LBM_6_04,whole seedling,Emelliodora_Plate10_2015,E11,LBM_6_04,,,LB-M
+,,,,,,,,,S45753,LBM_6_05,whole seedling,Emelliodora_Plate10_2015,F11,LBM_6_05,,,LB-M
+,,,,,,,,,S45754,LBM_6_06,whole seedling,Emelliodora_Plate10_2015,G11,LBM_6_06,,,LB-M
+,,,,,,,,,S45755,LB11_1_01,whole seedling,Emelliodora_Plate10_2015,H11,LB11_1_01,,,LB-11
+,,,,,,,,,S45756,LB11_1_02,whole seedling,Emelliodora_Plate10_2015,A12,LB11_1_02,,,LB-11
+,,,,,,,,,S45757,LB11_1_03,whole seedling,Emelliodora_Plate10_2015,B12,LB11_1_03,,,LB-11
+,,,,,,,,,S45758,LB11_1_04,whole seedling,Emelliodora_Plate10_2015,C12,LB11_1_04,,,LB-11
+,,,,,,,,,S45759,LB11_1_05,whole seedling,Emelliodora_Plate10_2015,D12,LB11_1_05,,,LB-11
+,,,,,,,,,S45760,LB11_1_06,whole seedling,Emelliodora_Plate10_2015,E12,LB11_1_06,,,LB-11
+,,,,,,,,,S45761,LB11_1_07,whole seedling,Emelliodora_Plate10_2015,F12,LB11_1_07,,,LB-11
+,,,,,,,,,S45762,LB11_1_08,whole seedling,Emelliodora_Plate10_2015,G12,LB11_1_08,,,LB-11
+,,,,,,,,,S45763,LB11_1_09,whole seedling,Emelliodora_Plate10_2015,H12,LB11_1_09,,,LB-11
+,,,,,,,,,S45764,YBT1t1_4,leaf from seedling,Emel003A,A1,5321,,,LB-T1
+,,,,,,,,,S45765,YBT3t12_3,leaf from seedling,Emel003A,B1,5424,,,LB-T3
+,,,,,,,,,S45766,PadoM2_4,leaf from seedling,Emel003A,C1,5304,,,PD-M2
+,,,,,,,,,S45767,YBT1t13_1,leaf from seedling,Emel003A,D1,5326,,,LB-T1
+,,,,,,,,,S45768,YBT2t22_6,leaf from seedling,Emel003A,E1,5392,,,LB-T2
+,,,,,,,,,S45769,YBT3t9_7,leaf from seedling,Emel003A,F1,5458,,,LB-T3
+,,,,,,,,,S45770,YBT3t9_4,leaf from seedling,Emel003A,G1,5455,,,LB-T3
+,,,,,,,,,S45771,YBT2t22_5,leaf from seedling,Emel003A,H1,5391,,,LB-T2
+,,,,,,,,,S45772,YBT2t20_4,leaf from seedling,Emel003A,A2,5374,,,LB-T2
+,,,,,,,,,S45773,YBT2t21_6,leaf from seedling,Emel003A,B2,5384,,,LB-T2
+,,,,,,,,,S45774,YBT1t7_4,leaf from seedling,Emel003A,C2,5345,,,LB-T1
+,,,,,,,,,S45775,YBT1t10_4,leaf from seedling,Emel003A,D2,5325,,,LB-T1
+,,,,,,,,,S45776,PadoM4_6,leaf from seedling,Emel003A,E2,5314,,,PD-M4
+,,,,,,,,,S45777,YBT3t10_2,leaf from seedling,Emel003A,F2,5407,,,LB-T3
+,,,,,,,,,S45778,YBT3t11_7,leaf from seedling,Emel003A,G2,5420,,,LB-T3
+,,,,,,,,,S45779,PadoM2_5,leaf from seedling,Emel003A,H2,5305,,,PD-M2
+,,,,,,,,,S45780,YBT1t6_3,leaf from seedling,Emel003A,A3,5336,,,LB-T1
+,,,,,,,,,S45781,YBT3t11_6,leaf from seedling,Emel003A,B3,5419,,,LB-T3
+,,,,,,,,,S45782,YBT2t21_5,leaf from seedling,Emel003A,C3,5383,,,LB-T2
+,,,,,,,,,S45783,YBT3t4_1,leaf from seedling,Emel003A,D3,5430,,,LB-T3
+,,,,,,,,,S45784,YBT1t15_1,leaf from seedling,Emel003A,E3,5327,,,LB-T1
+,,,,,,,,,S45785,YBT2t9_4,leaf from seedling,Emel003A,F3,5401,,,LB-T2
+,,,,,,,,,S45786,YBT3t8_4,leaf from seedling,Emel003A,G3,5447,,,LB-T3
+,,,,,,,,,S45787,YBT2t26_3,leaf from seedling,Emel003A,H3,5397,,,LB-T2
+,,,,,,,,,S45788,YBT2t15_2,leaf from seedling,Emel003A,A4,5363,,,LB-T2
+,,,,,,,,,S45789,YBT3t11_8,leaf from seedling,Emel003A,B4,5421,,,LB-T3
+,,,,,,,,,S45790,PadoM6_1,leaf from seedling,Emel003A,C4,5316,,,PD-M6
+,,,,,,,,,S45791,YBT2t12_5,leaf from seedling,Emel003A,D4,5358,,,LB-T2
+,,,,,,,,,S45792,YBT3t11_4,leaf from seedling,Emel003A,E4,5417,,,LB-T3
+,,,,,,,,,S45793,YBT2t9_2,leaf from seedling,Emel003A,F4,5399,,,LB-T2
+,,,,,,,,,S45794,PadoM4_4,leaf from seedling,Emel003A,G4,5312,,,PD-M4
+,,,,,,,,,S45795,YBT1t6_2,leaf from seedling,Emel003A,H4,5335,,,LB-T1
+,,,,,,,,,S45796,YBT3t10_3,leaf from seedling,Emel003A,A5,5408,,,LB-T3
+,,,,,,,,,S45797,YBT1t9_6,leaf from seedling,Emel003A,B5,5351,,,LB-T1
+,,,,,,,,,S45798,YBT2t22_7,leaf from seedling,Emel003A,C5,5393,,,LB-T2
+,,,,,,,,,S45799,YBT1t1_3,leaf from seedling,Emel003A,D5,5320,,,LB-T1
+,,,,,,,,,S45800,YBT3t4_3,leaf from seedling,Emel003A,E5,5432,,,LB-T3
+,,,,,,,,,S45801,YBT2t22_2,leaf from seedling,Emel003A,F5,5388,,,LB-T2
+,,,,,,,,,S45802,YBT3t7_1,leaf from seedling,Emel003A,G5,5436,,,LB-T3
+,,,,,,,,,S45803,YBT2t22_3,leaf from seedling,Emel003A,H5,5389,,,LB-T2
+,,,,,,,,,S45804,YBT3t7_2,leaf from seedling,Emel003A,A6,5437,,,LB-T3
+,,,,,,,,,S45805,YBT2t9_1,leaf from seedling,Emel003A,B6,5398,,,LB-T2
+,,,,,,,,,S45806,YBT3t9_2,leaf from seedling,Emel003A,C6,5453,,,LB-T3
+,,,,,,,,,S45807,YBT2t20_1,leaf from seedling,Emel003A,D6,5371,,,LB-T2
+,,,,,,,,,S45808,YBT1t6_7,leaf from seedling,Emel003A,E6,5340,,,LB-T1
+,,,,,,,,,S45809,YBT1t6_8,leaf from seedling,Emel003A,F6,5341,,,LB-T1
+,,,,,,,,,S45810,YBT3t12_1,leaf from seedling,Emel003A,G6,5422,,,LB-T3
+,,,,,,,,,S45811,YBT2t21_7,leaf from seedling,Emel003A,H6,5385,,,LB-T2
+,,,,,,,,,S45812,YBT1t10_1,leaf from seedling,Emel003A,A7,5322,,,LB-T1
+,,,,,,,,,blank1,empty,leaf from seedling,Emel003A,B7,empty,,,blank
+,,,,,,,,,S45813,YBT2t15_1,leaf from seedling,Emel003A,C7,5362,,,LB-T2
+,,,,,,,,,S45814,YBT3t4_2,leaf from seedling,Emel003A,D7,5431,,,LB-T3
+,,,,,,,,,S45815,YBT1t1_2,leaf from seedling,Emel003A,E7,5319,,,LB-T1
+,,,,,,,,,S45816,YBT2t12_3,leaf from seedling,Emel003A,F7,5356,,,LB-T2
+,,,,,,,,,S45817,YBT2t22_1,leaf from seedling,Emel003A,G7,5387,,,LB-T2
+,,,,,,,,,S45818,YBT2t26_2,leaf from seedling,Emel003A,H7,5396,,,LB-T2
+,,,,,,,,,S45819,YBT2t19_2,leaf from seedling,Emel003A,A8,5368,,,LB-T2
+,,,,,,,,,S45820,YBT3t8_1,leaf from seedling,Emel003A,B8,5444,,,LB-T3
+,,,,,,,,,S45821,YBT2t20_7,leaf from seedling,Emel003A,C8,5377,,,LB-T2
+,,,,,,,,,S45822,PadoM2_7,leaf from seedling,Emel003A,D8,5307,,,PD-M2
+,,,,,,,,,S45823,YBT2t15_3,leaf from seedling,Emel003A,E8,5364,,,LB-T2
+,,,,,,,,,S45824,YBT2t12_4,leaf from seedling,Emel003A,F8,5357,,,LB-T2
+,,,,,,,,,S45825,YBT3t8_7,leaf from seedling,Emel003A,G8,5450,,,LB-T3
+,,,,,,,,,S45826,YBT3t11_2,leaf from seedling,Emel003A,H8,5415,,,LB-T3
+,,,,,,,,,S45827,YBT3t10_4,leaf from seedling,Emel003A,A9,5409,,,LB-T3
+,,,,,,,,,S45828,PadoM2_2,leaf from seedling,Emel003A,B9,5302,,,PD-M2
+,,,,,,,,,S45829,YBT1t7_1,leaf from seedling,Emel003A,C9,5342,,,LB-T1
+,,,,,,,,,S45830,YBT2t22_4,leaf from seedling,Emel003A,D9,5390,,,LB-T2
+,,,,,,,,,S45831,YBT2t12_6,leaf from seedling,Emel003A,E9,5359,,,LB-T2
+,,,,,,,,,S45832,YBT1t9_2,leaf from seedling,Emel003A,F9,5347,,,LB-T1
+,,,,,,,,,S45833,YBT2t19_3,leaf from seedling,Emel003A,G9,5369,,,LB-T2
+,,,,,,,,,S45834,YBT2t12_1,leaf from seedling,Emel003A,H9,5354,,,LB-T2
+,,,,,,,,,S45835,YBT3t10_1,leaf from seedling,Emel003A,A10,5406,,,LB-T3
+,,,,,,,,,S45836,PadoM4_5,leaf from seedling,Emel003A,B10,5313,,,PD-M4
+,,,,,,,,,S45837,PadoM4_2,leaf from seedling,Emel003A,C10,5310,,,PD-M4
+,,,,,,,,,S45838,YBT1t6_4,leaf from seedling,Emel003A,D10,5337,,,LB-T1
+,,,,,,,,,S45839,YBT2t12_7,leaf from seedling,Emel003A,E10,5360,,,LB-T2
+,,,,,,,,,S45840,YBT3t9_6,leaf from seedling,Emel003A,F10,5457,,,LB-T3
+,,,,,,,,,S45841,PadoM4_3,leaf from seedling,Emel003A,G10,5311,,,PD-M4
+,,,,,,,,,S45842,YBT3t3_1,leaf from seedling,Emel003A,H10,5426,,,LB-T3
+,,,,,,,,,S45843,YBT1t9_7,leaf from seedling,Emel003A,A11,5352,,,LB-T1
+,,,,,,,,,S45844,YBT1t6_5,leaf from seedling,Emel003A,B11,5338,,,LB-T1
+,,,,,,,,,S45845,PadoM6_2,leaf from seedling,Emel003A,C11,5317,,,PD-M6
+,,,,,,,,,S45846,YBT1t9_1,leaf from seedling,Emel003A,D11,5346,,,LB-T1
+,,,,,,,,,S45847,YBT2t20_8,leaf from seedling,Emel003A,E11,5378,,,LB-T2
+,,,,,,,,,S45848,PadoM4_1,leaf from seedling,Emel003A,F11,5309,,,PD-M4
+,,,,,,,,,S45849,YBT2t21_4,leaf from seedling,Emel003A,G11,5382,,,LB-T2
+,,,,,,,,,S45850,YBT3t9_5,leaf from seedling,Emel003A,H11,5456,,,LB-T3
+,,,,,,,,,S45851,YBT2t9_5,leaf from seedling,Emel003A,A12,5402,,,LB-T2
+,,,,,,,,,S45852,YBT1t5_2,leaf from seedling,Emel003A,B12,5331,,,LB-T1
+,,,,,,,,,S45853,YBT2t15_4,leaf from seedling,Emel003A,C12,5365,,,LB-T2
+,,,,,,,,,S45854,YBT3t10_5,leaf from seedling,Emel003A,D12,5410,,,LB-T3
+,,,,,,,,,S45855,PadoM4_7,leaf from seedling,Emel003A,E12,5315,,,PD-M4
+,,,,,,,,,S45856,YBT1t6_1,leaf from seedling,Emel003A,F12,5334,,,LB-T1
+,,,,,,,,,S45857,YBT2t20_3,leaf from seedling,Emel003A,G12,5373,,,LB-T2
+,,,,,,,,,S45858,YBT3t8_5,leaf from seedling,Emel003A,H12,5448,,,LB-T3
+,,,,,,,,,S45859,YBT1t7_3,leaf from seedling,Emel003B,A1,5344,,,LB-T1
+,,,,,,,,,S45860,YBT1t9_4,leaf from seedling,Emel003B,B1,5349,,,LB-T1
+,,,,,,,,,S45861,YBT3t4_4,leaf from seedling,Emel003B,C1,5433,,,LB-T3
+,,,,,,,,,S45862,YBT3t7_5,leaf from seedling,Emel003B,D1,5440,,,LB-T3
+,,,,,,,,,S45863,YBT1t10_2,leaf from seedling,Emel003B,E1,5323,,,LB-T1
+,,,,,,,,,S45864,YBT1t9_5,leaf from seedling,Emel003B,F1,5350,,,LB-T1
+,,,,,,,,,S45865,YBT1t10_3,leaf from seedling,Emel003B,G1,5324,,,LB-T1
+,,,,,,,,,S45866,YBT3t7_4,leaf from seedling,Emel003B,H1,5439,,,LB-T3
+,,,,,,,,,S45867,PadoM2_6,leaf from seedling,Emel003B,A2,5306,,,PD-M2
+,,,,,,,,,S45868,YBT3t10_6,leaf from seedling,Emel003B,B2,5411,,,LB-T3
+,,,,,,,,,S45869,YBT2t9_3,leaf from seedling,Emel003B,C2,5400,,,LB-T2
+,,,,,,,,,S45870,YBT1t9_8,leaf from seedling,Emel003B,D2,5353,,,LB-T1
+,,,,,,,,,S45871,YBT2t26_1,leaf from seedling,Emel003B,E2,5395,,,LB-T2
+,,,,,,,,,S45872,YBT3t11_1,leaf from seedling,Emel003B,F2,5414,,,LB-T3
+,,,,,,,,,S45873,YBT3t8_6,leaf from seedling,Emel003B,G2,5449,,,LB-T3
+,,,,,,,,,S45874,YBT3t8_2,leaf from seedling,Emel003B,H2,5445,,,LB-T3
+,,,,,,,,,S45875,YBT2t19_1,leaf from seedling,Emel003B,A3,5367,,,LB-T2
+,,,,,,,,,S45876,YBT3t7_8,leaf from seedling,Emel003B,B3,5443,,,LB-T3
+,,,,,,,,,S45877,YBT3t11_1,leaf from seedling,Emel003B,C3,5414,,,LB-T3
+,,,,,,,,,S45878,PadoM2_3,leaf from seedling,Emel003B,D3,5303,,,PD-M2
+,,,,,,,,,S45879,YBT2t20_5,leaf from seedling,Emel003B,E3,5375,,,LB-T2
+,,,,,,,,,S45880,YBT2t20_2,leaf from seedling,Emel003B,F3,5372,,,LB-T2
+,,,,,,,,,S45881,YBT3t7_6,leaf from seedling,Emel003B,G3,5441,,,LB-T3
+,,,,,,,,,S45882,YBT3t7_7,leaf from seedling,Emel003B,H3,5442,,,LB-T3
+,,,,,,,,,S45883,PadoM2_8,leaf from seedling,Emel003B,A4,5308,,,PD-M2
+,,,,,,,,,S45884,YBT1t15_3,leaf from seedling,Emel003B,B4,5329,,,LB-T1
+,,,,,,,,,S45885,YBT2t21_1,leaf from seedling,Emel003B,C4,5379,,,LB-T2
+,,,,,,,,,S45886,YBT3t9_3,leaf from seedling,Emel003B,D4,5454,,,LB-T3
+,,,,,,,,,S45887,YBT3t3_2,leaf from seedling,Emel003B,E4,5427,,,LB-T3
+,,,,,,,,,S45888,YBT2t21_2,leaf from seedling,Emel003B,F4,5380,,,LB-T2
+,,,,,,,,,S45889,YBT3t9_8,leaf from seedling,Emel003B,G4,5459,,,LB-T3
+,,,,,,,,,S45890,YBT1t6_6,leaf from seedling,Emel003B,H4,5339,,,LB-T1
+,,,,,,,,,S45891,YBT1t7_2,leaf from seedling,Emel003B,A5,5343,,,LB-T1
+,,,,,,,,,S45892,YBT2t12_8,leaf from seedling,Emel003B,B5,5361,,,LB-T2
+,,,,,,,,,S45893,YBT1t9_3,leaf from seedling,Emel003B,C5,5348,,,LB-T1
+,,,,,,,,,S45894,YBT3t12_2,leaf from seedling,Emel003B,D5,5423,,,LB-T3
+,,,,,,,,,S45895,YBT1t1_1,leaf from seedling,Emel003B,E5,5318,,,LB-T1
+,,,,,,,,,S45896,YBT2t12_2,leaf from seedling,Emel003B,F5,5355,,,LB-T2
+,,,,,,,,,S45897,YBT3t7_3,leaf from seedling,Emel003B,G5,5438,,,LB-T3
+,,,,,,,,,S45898,YBT3t11_5,leaf from seedling,Emel003B,H5,5418,,,LB-T3
+,,,,,,,,,S45899,YBT2t21_3,leaf from seedling,Emel003B,A6,5381,,,LB-T2
+,,,,,,,,,S45900,YBT2t20_6,leaf from seedling,Emel003B,B6,5376,,,LB-T2
+,,,,,,,,,S45901,YBT1t5_1,leaf from seedling,Emel003B,C6,5330,,,LB-T1
+,,,,,,,,,S45902,YBT3t8_3,leaf from seedling,Emel003B,D6,5446,,,LB-T3
+,,,,,,,,,S45903,YBT3t9_1,leaf from seedling,Emel003B,E6,5452,,,LB-T3
+,,,,,,,,,S45904,YBT3t11_3,leaf from seedling,Emel003B,F6,5416,,,LB-T3
+,,,,,,,,,S45905,YBT1t6_6r,leaf from seedling,Emel003B,G6,r5339,,,LB-T1
+,,,,,,,,,S45906,YBT2t12_8r,leaf from seedling,Emel003B,H6,r5361,,,LB-T2
+,,,,,,,,,S45907,PadoM6_1r,leaf from seedling,Emel003B,A7,r5316,,,PD-M6
+,,,,,,,,,S45908,YBT2t19_2r,leaf from seedling,Emel003B,B7,r5368,,,LB-T2
+,,,,,,,,,S45909,PadoM4_1r,leaf from seedling,Emel003B,C7,r5309,,,PD-M4
+,,,,,,,,,S45910,YBT_unknown,leaf from seedling,Emel003B,D7,r0000,,,LB-T
