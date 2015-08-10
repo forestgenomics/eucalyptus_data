@@ -1,5 +1,5 @@
 PlantID,PlantName,AccessionID,AccessionName,ExperimentID,ExperimentName,ExperimentCondition,GrowthLocation,TrayPosition,SampleID,SampleName,SampleType,PlateName,PlateCoordinate,NameInWell,TubeBarcode,Note,PopulationName
-,,,,,,,,,blank1,empty,leaf from seedling,Emel003A,B7,empty,,,blank
+,,,,,,,,,blank1,empty,control,Emel003A,B7,empty,,,blank
 ,,,,,,,,,S45001,U-1,leaf,Emelliodora-LB-Block1,A1,U1,,,LB-U
 ,,,,,,,,,S45002,U-2,leaf,Emelliodora-LB-Block1,B1,U2,,,LB-U
 ,,,,,,,,,S45003,U-3,leaf,Emelliodora-LB-Block1,C1,U3,,,LB-U
