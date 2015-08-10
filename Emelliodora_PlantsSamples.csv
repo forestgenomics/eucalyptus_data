@@ -1,4 +1,5 @@
 PlantID,PlantName,AccessionID,AccessionName,ExperimentID,ExperimentName,ExperimentCondition,GrowthLocation,TrayPosition,SampleID,SampleName,SampleType,PlateName,PlateCoordinate,NameInWell,TubeBarcode,Note,PopulationName
+,,,,,,,,,blank1,empty,leaf from seedling,Emel003A,B7,empty,,,blank
 ,,,,,,,,,S45001,U-1,leaf,Emelliodora-LB-Block1,A1,U1,,,LB-U
 ,,,,,,,,,S45002,U-2,leaf,Emelliodora-LB-Block1,B1,U2,,,LB-U
 ,,,,,,,,,S45003,U-3,leaf,Emelliodora-LB-Block1,C1,U3,,,LB-U
@@ -49,9 +50,9 @@ PlantID,PlantName,AccessionID,AccessionName,ExperimentID,ExperimentName,Experime
 ,,,,,,,,,S45048,H-8,leaf,Emelliodora-LB-Block1,H6,H8,,,LB-H
 ,,,,,,,,,S45049,H-9,leaf,Emelliodora-LB-Block1,A7,H9,,,LB-H
 ,,,,,,,,,S45050,H-10,leaf,Emelliodora-LB-Block1,B7,H10,,,LB-H
-,,,,,,,,,S45051,M-3,leaf,Emelliodora-LB-Block1,C7,M3,,,LB-M
-,,,,,,,,,S45052,M-4,leaf,Emelliodora-LB-Block1,D7,M4,,,LB-M
-,,,,,,,,,S45053,M-5,leaf,Emelliodora-LB-Block1,E7,M5,,,LB-M
+,,,,,,,,,S45051,M-3,leaf,Emelliodora-LB-Block1,C7,M3,,exclude4Tricia,LB-M
+,,,,,,,,,S45052,M-4,leaf,Emelliodora-LB-Block1,D7,M4,,exclude4Tricia,LB-M
+,,,,,,,,,S45053,M-5,leaf,Emelliodora-LB-Block1,E7,M5,,exclude4Tricia,LB-M
 ,,,,,,,,,S45054,D-1,leaf,Emelliodora-LB-Block1,F7,D1,,,LB-D
 ,,,,,,,,,S45055,D-2,leaf,Emelliodora-LB-Block1,G7,D2,,,LB-D
 ,,,,,,,,,S45056,D-3,leaf,Emelliodora-LB-Block1,H7,D3,,,LB-D
@@ -346,10 +347,10 @@ PlantID,PlantName,AccessionID,AccessionName,ExperimentID,ExperimentName,Experime
 ,,,,,,,,,S45345,site26-3,leaf,Emelliodora-LB-Block4,A8,site26-3,,outlier,LB-26
 ,,,,,,,,,S45346,site26-4,leaf,Emelliodora-LB-Block4,B8,site26-4,,outlier,LB-26
 ,,,,,,,,,S45347,site26-5,leaf,Emelliodora-LB-Block4,C8,site26-5,,outlier,LB-26
-,,,,,,,,,S45348,site26-6,leaf,Emelliodora-LB-Block4,D8,site26-6,,,LB-26
+,,,,,,,,,S45348,site26-6,leaf,Emelliodora-LB-Block4,D8,site26-6,,exclude4Tricia,LB-26
 ,,,,,,,,,S45349,site26-7,leaf,Emelliodora-LB-Block4,E8,site26-7,,outlier,LB-26
 ,,,,,,,,,S45350,site26-8,leaf,Emelliodora-LB-Block4,F8,site26-8,,outlier,LB-26
-,,,,,,,,,S45351,site26-9,leaf,Emelliodora-LB-Block4,G8,site26-9,,,LB-26
+,,,,,,,,,S45351,site26-9,leaf,Emelliodora-LB-Block4,G8,site26-9,,exclude4Tricia,LB-26
 ,,,,,,,,,S45352,site26-10,leaf,Emelliodora-LB-Block4,H8,site26-10,,outlier,LB-26
 ,,,,,,,,,S45353,i1-1,leaf,Emelliodora-LB-Block4,A9,i1-1,,,LB-I1
 ,,,,,,,,,S45354,i1-2,leaf,Emelliodora-LB-Block4,B9,i1-2,,,LB-I1
@@ -418,7 +419,7 @@ PlantID,PlantName,AccessionID,AccessionName,ExperimentID,ExperimentName,Experime
 ,,,,,,,,,S45417,LBD_11_14,whole seedling,Emelliodora_Plate5_2015,F5,LBD_11_14,,,LB-D
 ,,,,,,,,,S45418,LBD_11_26,whole seedling,Emelliodora_Plate5_2015,G5,LBD_11_26,,,LB-D
 ,,,,,,,,,S45419,LBD_5_11,whole seedling,Emelliodora_Plate5_2015,H5,LBD_5_11,,,LB-D
-,,,,,,,,,S45420,LBM_5_01,whole seedling,Emelliodora_Plate5_2015,A6,LBM_5_01,,,LB-M
+,,,,,,,,,S45420,LBM_5_01,whole seedling,Emelliodora_Plate5_2015,A6,LBM_5_01,,exclude4Tricia,LB-M
 ,,,,,,,,,S45421,LBD_3_12,whole seedling,Emelliodora_Plate5_2015,B6,LBD_3_12,,,LB-D
 ,,,,,,,,,S45422,LBK2_28_01,whole seedling,Emelliodora_Plate5_2015,C6,LBK2_28_01,,,LB-K2
 ,,,,,,,,,S45423,LBK2_26_05,whole seedling,Emelliodora_Plate5_2015,D6,LBK2_26_05,,,LB-K2
@@ -426,7 +427,7 @@ PlantID,PlantName,AccessionID,AccessionName,ExperimentID,ExperimentName,Experime
 ,,,,,,,,,S45425,LBD_11_15,whole seedling,Emelliodora_Plate5_2015,F6,LBD_11_15,,,LB-D
 ,,,,,,,,,S45426,LBD_5_01,whole seedling,Emelliodora_Plate5_2015,G6,LBD_5_01,,,LB-D
 ,,,,,,,,,S45427,LBD_5_12,whole seedling,Emelliodora_Plate5_2015,H6,LBD_5_12,,,LB-D
-,,,,,,,,,S45428,LBM_5_02,whole seedling,Emelliodora_Plate5_2015,A7,LBM_5_02,,,LB-M
+,,,,,,,,,S45428,LBM_5_02,whole seedling,Emelliodora_Plate5_2015,A7,LBM_5_02,,exclude4Tricia,LB-M
 ,,,,,,,,,S45429,LBD_12_01,whole seedling,Emelliodora_Plate5_2015,B7,LBD_12_01,,,LB-D
 ,,,,,,,,,S45430,LBK2_28_02,whole seedling,Emelliodora_Plate5_2015,C7,LBK2_28_02,,,LB-K2
 ,,,,,,,,,S45431,LBK2_26_06,whole seedling,Emelliodora_Plate5_2015,D7,LBK2_26_06,,,LB-K2
@@ -434,7 +435,7 @@ PlantID,PlantName,AccessionID,AccessionName,ExperimentID,ExperimentName,Experime
 ,,,,,,,,,S45433,LBD_11_16,whole seedling,Emelliodora_Plate5_2015,F7,LBD_11_16,,,LB-D
 ,,,,,,,,,S45434,LBD_5_02,whole seedling,Emelliodora_Plate5_2015,G7,LBD_5_02,,,LB-D
 ,,,,,,,,,S45435,LBD_5_13,whole seedling,Emelliodora_Plate5_2015,H7,LBD_5_13,,,LB-D
-,,,,,,,,,S45436,LBM_5_03,whole seedling,Emelliodora_Plate5_2015,A8,LBM_5_03,,,LB-M
+,,,,,,,,,S45436,LBM_5_03,whole seedling,Emelliodora_Plate5_2015,A8,LBM_5_03,,exclude4Tricia,LB-M
 ,,,,,,,,,S45437,LBD_12_02,whole seedling,Emelliodora_Plate5_2015,B8,LBD_12_02,,,LB-D
 ,,,,,,,,,S45438,LBK2_28_03,whole seedling,Emelliodora_Plate5_2015,C8,LBK2_28_03,,,LB-K2
 ,,,,,,,,,S45439,LBK2_26_07,whole seedling,Emelliodora_Plate5_2015,D8,LBK2_26_07,,,LB-K2
@@ -442,7 +443,7 @@ PlantID,PlantName,AccessionID,AccessionName,ExperimentID,ExperimentName,Experime
 ,,,,,,,,,S45441,LBD_11_17,whole seedling,Emelliodora_Plate5_2015,F8,LBD_11_17,,,LB-D
 ,,,,,,,,,S45442,LBD_5_03,whole seedling,Emelliodora_Plate5_2015,G8,LBD_5_03,,,LB-D
 ,,,,,,,,,S45443,LBD_5_14,whole seedling,Emelliodora_Plate5_2015,H8,LBD_5_14,,,LB-D
-,,,,,,,,,S45444,LBM_5_04,whole seedling,Emelliodora_Plate5_2015,A9,LBM_5_04,,,LB-M
+,,,,,,,,,S45444,LBM_5_04,whole seedling,Emelliodora_Plate5_2015,A9,LBM_5_04,,exclude4Tricia,LB-M
 ,,,,,,,,,S45445,LBD_12_03,whole seedling,Emelliodora_Plate5_2015,B9,LBD_12_03,,,LB-D
 ,,,,,,,,,S45446,LBK2_28_04,whole seedling,Emelliodora_Plate5_2015,C9,LBK2_28_04,,,LB-K2
 ,,,,,,,,,S45447,LBK2_26_08,whole seedling,Emelliodora_Plate5_2015,D9,LBK2_26_08,,,LB-K2
@@ -450,7 +451,7 @@ PlantID,PlantName,AccessionID,AccessionName,ExperimentID,ExperimentName,Experime
 ,,,,,,,,,S45449,LBD_11_18,whole seedling,Emelliodora_Plate5_2015,F9,LBD_11_18,,,LB-D
 ,,,,,,,,,S45450,LBD_5_04,whole seedling,Emelliodora_Plate5_2015,G9,LBD_5_04,,,LB-D
 ,,,,,,,,,S45451,LBD_5_15,whole seedling,Emelliodora_Plate5_2015,H9,LBD_5_15,,,LB-D
-,,,,,,,,,S45452,LBM_5_05,whole seedling,Emelliodora_Plate5_2015,A10,LBM_5_05,,,LB-M
+,,,,,,,,,S45452,LBM_5_05,whole seedling,Emelliodora_Plate5_2015,A10,LBM_5_05,,exclude4Tricia,LB-M
 ,,,,,,,,,S45453,LBD_12_04,whole seedling,Emelliodora_Plate5_2015,B10,LBD_12_04,,,LB-D
 ,,,,,,,,,S45454,LBK2_28_05,whole seedling,Emelliodora_Plate5_2015,C10,LBK2_28_05,,,LB-K2
 ,,,,,,,,,S45455,LB11_9_01,whole seedling,Emelliodora_Plate5_2015,D10,LB11_9_01,,,LB-11
@@ -458,7 +459,7 @@ PlantID,PlantName,AccessionID,AccessionName,ExperimentID,ExperimentName,Experime
 ,,,,,,,,,S45457,LBD_11_19,whole seedling,Emelliodora_Plate5_2015,F10,LBD_11_19,,,LB-D
 ,,,,,,,,,S45458,LBD_5_05,whole seedling,Emelliodora_Plate5_2015,G10,LBD_5_05,,,LB-D
 ,,,,,,,,,S45459,LBD_5_16,whole seedling,Emelliodora_Plate5_2015,H10,LBD_5_16,,,LB-D
-,,,,,,,,,S45460,LBM_5_06,whole seedling,Emelliodora_Plate5_2015,A11,LBM_5_06,,,LB-M
+,,,,,,,,,S45460,LBM_5_06,whole seedling,Emelliodora_Plate5_2015,A11,LBM_5_06,,exclude4Tricia,LB-M
 ,,,,,,,,,S45461,LBD_12_05,whole seedling,Emelliodora_Plate5_2015,B11,LBD_12_05,,,LB-D
 ,,,,,,,,,S45462,LBK2_28_06,whole seedling,Emelliodora_Plate5_2015,C11,LBK2_28_06,,,LB-K2
 ,,,,,,,,,S45463,LB11_9_02,whole seedling,Emelliodora_Plate5_2015,D11,LB11_9_02,,,LB-11
@@ -466,7 +467,7 @@ PlantID,PlantName,AccessionID,AccessionName,ExperimentID,ExperimentName,Experime
 ,,,,,,,,,S45465,LBD_11_20,whole seedling,Emelliodora_Plate5_2015,F11,LBD_11_20,,,LB-D
 ,,,,,,,,,S45466,LBD_5_06,whole seedling,Emelliodora_Plate5_2015,G11,LBD_5_06,,,LB-D
 ,,,,,,,,,S45467,LBD_5_17,whole seedling,Emelliodora_Plate5_2015,H11,LBD_5_17,,,LB-D
-,,,,,,,,,S45468,LBM_5_07,whole seedling,Emelliodora_Plate5_2015,A12,LBM_5_07,,,LB-M
+,,,,,,,,,S45468,LBM_5_07,whole seedling,Emelliodora_Plate5_2015,A12,LBM_5_07,,exclude4Tricia,LB-M
 ,,,,,,,,,S45469,LBD_12_06,whole seedling,Emelliodora_Plate5_2015,B12,LBD_12_06,,,LB-D
 ,,,,,,,,,S45470,LBK2_28_07,whole seedling,Emelliodora_Plate5_2015,C12,LBK2_28_07,,,LB-K2
 ,,,,,,,,,S45471,LB11_9_03,whole seedling,Emelliodora_Plate5_2015,D12,LB11_9_03,,,LB-11
@@ -526,7 +527,7 @@ PlantID,PlantName,AccessionID,AccessionName,ExperimentID,ExperimentName,Experime
 ,,,,,,,,,S45525,LBK2_22_13,whole seedling,Emelliodora_Plate6_2015,B7,LBK2_22_13,,,LB-K2
 ,,,,,,,,,S45526,LBD_8_11,whole seedling,Emelliodora_Plate6_2015,C7,LBD_8_11,,,LB-D
 ,,,,,,,,,S45527,LB19_24_07,whole seedling,Emelliodora_Plate6_2015,D7,LB19_24_07,,,LB-19
-,,,,,,,,,S45528,KMCH_01_01,whole seedling,Emelliodora_Plate6_2015,E7,KMCH_01_01,,,KMCH
+,,,,,,,,,S45528,KMCH_01_01,whole seedling,Emelliodora_Plate6_2015,E7,KMCH_01_01,,exclude4Tricia,KMCH
 ,,,,,,,,,S45529,LB19_28_07,whole seedling,Emelliodora_Plate6_2015,F7,LB19_28_07,,,LB-19
 ,,,,,,,,,S45530,LB19_7_10,whole seedling,Emelliodora_Plate6_2015,G7,LB19_7_10,,,LB-19
 ,,,,,,,,,S45531,LBT1_14_08,whole seedling,Emelliodora_Plate6_2015,H7,LBT1_14_08,,,LB-T1
@@ -534,7 +535,7 @@ PlantID,PlantName,AccessionID,AccessionName,ExperimentID,ExperimentName,Experime
 ,,,,,,,,,S45533,LBK2_22_14,whole seedling,Emelliodora_Plate6_2015,B8,LBK2_22_14,,,LB-K2
 ,,,,,,,,,S45534,LBD_8_12,whole seedling,Emelliodora_Plate6_2015,C8,LBD_8_12,,,LB-D
 ,,,,,,,,,S45535,LB19_24_08,whole seedling,Emelliodora_Plate6_2015,D8,LB19_24_08,,,LB-19
-,,,,,,,,,S45536,KMCH_01_02,whole seedling,Emelliodora_Plate6_2015,E8,KMCH_01_02,,,KMCH
+,,,,,,,,,S45536,KMCH_01_02,whole seedling,Emelliodora_Plate6_2015,E8,KMCH_01_02,,exclude4Tricia,KMCH
 ,,,,,,,,,S45537,LB19_28_08,whole seedling,Emelliodora_Plate6_2015,F8,LB19_28_08,,,LB-19
 ,,,,,,,,,S45538,LB19_7_11,whole seedling,Emelliodora_Plate6_2015,G8,LB19_7_11,,,LB-19
 ,,,,,,,,,S45539,LBT1_14_09,whole seedling,Emelliodora_Plate6_2015,H8,LBT1_14_09,,,LB-T1
@@ -542,7 +543,7 @@ PlantID,PlantName,AccessionID,AccessionName,ExperimentID,ExperimentName,Experime
 ,,,,,,,,,S45541,LBD_8_01,whole seedling,Emelliodora_Plate6_2015,B9,LBD_8_01,,,LB-D
 ,,,,,,,,,S45542,LB19_12_01,whole seedling,Emelliodora_Plate6_2015,C9,LB19_12_01,,,LB-19
 ,,,,,,,,,S45543,LB19_24_09,whole seedling,Emelliodora_Plate6_2015,D9,LB19_24_09,,,LB-19
-,,,,,,,,,S45544,KMCH_01_03,whole seedling,Emelliodora_Plate6_2015,E9,KMCH_01_03,,,KMCH
+,,,,,,,,,S45544,KMCH_01_03,whole seedling,Emelliodora_Plate6_2015,E9,KMCH_01_03,,exclude4Tricia,KMCH
 ,,,,,,,,,S45545,LB19_4_01,whole seedling,Emelliodora_Plate6_2015,F9,LB19_4_01,,,LB-19
 ,,,,,,,,,S45546,LB19_7_12,whole seedling,Emelliodora_Plate6_2015,G9,LB19_7_12,,,LB-19
 ,,,,,,,,,S45547,LBT1_14_10,whole seedling,Emelliodora_Plate6_2015,H9,LBT1_14_10,,,LB-T1
@@ -550,7 +551,7 @@ PlantID,PlantName,AccessionID,AccessionName,ExperimentID,ExperimentName,Experime
 ,,,,,,,,,S45549,LBD_8_02,whole seedling,Emelliodora_Plate6_2015,B10,LBD_8_02,,,LB-D
 ,,,,,,,,,S45550,LB19_12_02,whole seedling,Emelliodora_Plate6_2015,C10,LB19_12_02,,,LB-19
 ,,,,,,,,,S45551,LB19_24_10,whole seedling,Emelliodora_Plate6_2015,D10,LB19_24_10,,,LB-19
-,,,,,,,,,S45552,KMCH_01_04,whole seedling,Emelliodora_Plate6_2015,E10,KMCH_01_04,,,KMCH
+,,,,,,,,,S45552,KMCH_01_04,whole seedling,Emelliodora_Plate6_2015,E10,KMCH_01_04,,exclude4Tricia,KMCH
 ,,,,,,,,,S45553,LB19_4_02,whole seedling,Emelliodora_Plate6_2015,F10,LB19_4_02,,,LB-19
 ,,,,,,,,,S45554,LB19_7_13,whole seedling,Emelliodora_Plate6_2015,G10,LB19_7_13,,,LB-19
 ,,,,,,,,,S45555,LBT1_14_11,whole seedling,Emelliodora_Plate6_2015,H10,LBT1_14_11,,,LB-T1
@@ -558,7 +559,7 @@ PlantID,PlantName,AccessionID,AccessionName,ExperimentID,ExperimentName,Experime
 ,,,,,,,,,S45557,LBD_8_03,whole seedling,Emelliodora_Plate6_2015,B11,LBD_8_03,,,LB-D
 ,,,,,,,,,S45558,LB19_12_03,whole seedling,Emelliodora_Plate6_2015,C11,LB19_12_03,,,LB-19
 ,,,,,,,,,S45559,LB19_24_11,whole seedling,Emelliodora_Plate6_2015,D11,LB19_24_11,,,LB-19
-,,,,,,,,,S45560,KMCH_01_05,whole seedling,Emelliodora_Plate6_2015,E11,KMCH_01_05,,,KMCH
+,,,,,,,,,S45560,KMCH_01_05,whole seedling,Emelliodora_Plate6_2015,E11,KMCH_01_05,,exclude4Tricia,KMCH
 ,,,,,,,,,S45561,LB19_5_01,whole seedling,Emelliodora_Plate6_2015,F11,LB19_5_01,,,LB-19
 ,,,,,,,,,S45562,LBT1_02_01,whole seedling,Emelliodora_Plate6_2015,G11,LBT1_02_01,,,LB-T1
 ,,,,,,,,,S45563,LBT1_14_12,whole seedling,Emelliodora_Plate6_2015,H11,LBT1_14_12,,,LB-T1
@@ -566,7 +567,7 @@ PlantID,PlantName,AccessionID,AccessionName,ExperimentID,ExperimentName,Experime
 ,,,,,,,,,S45565,LBD_8_04,whole seedling,Emelliodora_Plate6_2015,B12,LBD_8_04,,,LB-D
 ,,,,,,,,,S45566,LB19_12_04,whole seedling,Emelliodora_Plate6_2015,C12,LB19_12_04,,,LB-19
 ,,,,,,,,,S45567,LB19_2_01,whole seedling,Emelliodora_Plate6_2015,D12,LB19_2_01,,,LB-19
-,,,,,,,,,S45568,KMCH_01_06,whole seedling,Emelliodora_Plate6_2015,E12,KMCH_01_06,,,KMCH
+,,,,,,,,,S45568,KMCH_01_06,whole seedling,Emelliodora_Plate6_2015,E12,KMCH_01_06,,exclude4Tricia,KMCH
 ,,,,,,,,,S45569,LB19_5_02,whole seedling,Emelliodora_Plate6_2015,F12,LB19_5_02,,,LB-19
 ,,,,,,,,,S45570,LBT1_14_01,whole seedling,Emelliodora_Plate6_2015,G12,LBT1_14_01,,,LB-T1
 ,,,,,,,,,S45571,LBT1_14_13,whole seedling,Emelliodora_Plate6_2015,H12,LBT1_14_13,,,LB-T1
@@ -641,60 +642,60 @@ PlantID,PlantName,AccessionID,AccessionName,ExperimentID,ExperimentName,Experime
 ,,,,,,,,,S45640,LB21_5_09,whole seedling,Emelliodora_Plate9_2015,E9,LB21_5_09,,,LB-21
 ,,,,,,,,,S45641,LB21_5_10,whole seedling,Emelliodora_Plate9_2015,F9,LB21_5_10,,,LB-21
 ,,,,,,,,,S45642,LB21_5_11,whole seedling,Emelliodora_Plate9_2015,G9,LB21_5_11,,,LB-21
-,,,,,,,,,S45643,LBM_6_01,whole seedling,Emelliodora_Plate9_2015,H9,LBM_6_01,,,LB-M
-,,,,,,,,,S45644,LBM_6_02,whole seedling,Emelliodora_Plate9_2015,A10,LBM_6_02,,,LB-M
-,,,,,,,,,S45645,LBM_6_03,whole seedling,Emelliodora_Plate9_2015,B10,LBM_6_03,,,LB-M
-,,,,,,,,,S45646,LBM_1_01,whole seedling,Emelliodora_Plate9_2015,C10,LBM_1_01,,,LB-M
-,,,,,,,,,S45647,LBM_1_02,whole seedling,Emelliodora_Plate9_2015,D10,LBM_1_02,,,LB-M
-,,,,,,,,,S45648,LBM_1_03,whole seedling,Emelliodora_Plate9_2015,E10,LBM_1_03,,,LB-M
-,,,,,,,,,S45649,LBM_1_04,whole seedling,Emelliodora_Plate9_2015,F10,LBM_1_04,,,LB-M
-,,,,,,,,,S45650,LBM_1_05,whole seedling,Emelliodora_Plate9_2015,G10,LBM_1_05,,,LB-M
-,,,,,,,,,S45651,LBM_1_06,whole seedling,Emelliodora_Plate9_2015,H10,LBM_1_06,,,LB-M
-,,,,,,,,,S45652,LBM_1_07,whole seedling,Emelliodora_Plate9_2015,A11,LBM_1_07,,,LB-M
-,,,,,,,,,S45653,LBM_1_08,whole seedling,Emelliodora_Plate9_2015,B11,LBM_1_08,,,LB-M
-,,,,,,,,,S45654,LBM_1_09,whole seedling,Emelliodora_Plate9_2015,C11,LBM_1_09,,,LB-M
-,,,,,,,,,S45655,LBM_1_10,whole seedling,Emelliodora_Plate9_2015,D11,LBM_1_10,,,LB-M
-,,,,,,,,,S45656,LBM_1_11,whole seedling,Emelliodora_Plate9_2015,E11,LBM_1_11,,,LB-M
-,,,,,,,,,S45657,LBM_1_12,whole seedling,Emelliodora_Plate9_2015,F11,LBM_1_12,,,LB-M
-,,,,,,,,,S45658,LBM_1_13,whole seedling,Emelliodora_Plate9_2015,G11,LBM_1_13,,,LB-M
-,,,,,,,,,S45659,LBM_1_14,whole seedling,Emelliodora_Plate9_2015,H11,LBM_1_14,,,LB-M
-,,,,,,,,,S45660,LBM_1_15,whole seedling,Emelliodora_Plate9_2015,A12,LBM_1_15,,,LB-M
-,,,,,,,,,S45661,LBM_1_16,whole seedling,Emelliodora_Plate9_2015,B12,LBM_1_16,,,LB-M
-,,,,,,,,,S45662,LBM_1_17,whole seedling,Emelliodora_Plate9_2015,C12,LBM_1_17,,,LB-M
-,,,,,,,,,S45663,LBM_1_18,whole seedling,Emelliodora_Plate9_2015,D12,LBM_1_18,,,LB-M
-,,,,,,,,,S45664,LBM_1_19,whole seedling,Emelliodora_Plate9_2015,E12,LBM_1_19,,,LB-M
-,,,,,,,,,S45665,LBM_1_20,whole seedling,Emelliodora_Plate9_2015,F12,LBM_1_20,,,LB-M
-,,,,,,,,,S45666,LBM_1_21,whole seedling,Emelliodora_Plate9_2015,G12,LBM_1_21,,,LB-M
-,,,,,,,,,S45667,LBM_1_22,whole seedling,Emelliodora_Plate9_2015,H12,LBM_1_22,,,LB-M
-,,,,,,,,,S45668,LBM_2_01,whole seedling,Emelliodora_Plate10_2015,A1,LBM_2_01,,,LB-M
-,,,,,,,,,S45669,LBM_2_02,whole seedling,Emelliodora_Plate10_2015,B1,LBM_2_02,,,LB-M
-,,,,,,,,,S45670,LBM_2_03,whole seedling,Emelliodora_Plate10_2015,C1,LBM_2_03,,,LB-M
-,,,,,,,,,S45671,LBM_2_04,whole seedling,Emelliodora_Plate10_2015,D1,LBM_2_04,,,LB-M
-,,,,,,,,,S45672,LBM_2_05,whole seedling,Emelliodora_Plate10_2015,E1,LBM_2_05,,,LB-M
-,,,,,,,,,S45673,LBM_2_06,whole seedling,Emelliodora_Plate10_2015,F1,LBM_2_06,,,LB-M
-,,,,,,,,,S45674,LBM_2_07,whole seedling,Emelliodora_Plate10_2015,G1,LBM_2_07,,,LB-M
-,,,,,,,,,S45675,LBM_2_08,whole seedling,Emelliodora_Plate10_2015,H1,LBM_2_08,,,LB-M
-,,,,,,,,,S45676,LBM_5_08,whole seedling,Emelliodora_Plate10_2015,A2,LBM_5_08,,,LB-M
-,,,,,,,,,S45677,LBM_5_09,whole seedling,Emelliodora_Plate10_2015,B2,LBM_5_09,,,LB-M
-,,,,,,,,,S45678,LBM_5_10,whole seedling,Emelliodora_Plate10_2015,C2,LBM_5_10,,,LB-M
-,,,,,,,,,S45679,LBM_5_11,whole seedling,Emelliodora_Plate10_2015,D2,LBM_5_11,,,LB-M
-,,,,,,,,,S45680,LBM_5_12,whole seedling,Emelliodora_Plate10_2015,E2,LBM_5_12,,,LB-M
-,,,,,,,,,S45681,LBM_5_13,whole seedling,Emelliodora_Plate10_2015,F2,LBM_5_13,,,LB-M
-,,,,,,,,,S45682,LBM_5_13R,whole seedling,Emelliodora_Plate10_2015,G2,LBM_5_13R,,,LB-M
-,,,,,,,,,S45683,LBM_5_14,whole seedling,Emelliodora_Plate10_2015,H2,LBM_5_14,,,LB-M
-,,,,,,,,,S45684,LBM_5_15,whole seedling,Emelliodora_Plate10_2015,A3,LBM_5_15,,,LB-M
-,,,,,,,,,S45685,LBM_5_16,whole seedling,Emelliodora_Plate10_2015,B3,LBM_5_16,,,LB-M
-,,,,,,,,,S45686,LBM_5_17,whole seedling,Emelliodora_Plate10_2015,C3,LBM_5_17,,,LB-M
-,,,,,,,,,S45687,LBM_5_18,whole seedling,Emelliodora_Plate10_2015,D3,LBM_5_18,,,LB-M
-,,,,,,,,,S45688,LBM_5_19,whole seedling,Emelliodora_Plate10_2015,E3,LBM_5_19,,,LB-M
-,,,,,,,,,S45689,LBM_3_1,whole seedling,Emelliodora_Plate10_2015,F3,LBM_3_1,,,LB-M
-,,,,,,,,,S45690,LBM_3_2,whole seedling,Emelliodora_Plate10_2015,G3,LBM_3_2,,,LB-M
-,,,,,,,,,S45691,LBM_3_3,whole seedling,Emelliodora_Plate10_2015,H3,LBM_3_3,,,LB-M
-,,,,,,,,,S45692,LBM_3_04,whole seedling,Emelliodora_Plate10_2015,A4,LBM_3_04,,,LB-M
-,,,,,,,,,S45693,LBM_3_05,whole seedling,Emelliodora_Plate10_2015,B4,LBM_3_05,,,LB-M
-,,,,,,,,,S45694,LBM_3_06,whole seedling,Emelliodora_Plate10_2015,C4,LBM_3_06,,,LB-M
-,,,,,,,,,S45695,LBM_3_07,whole seedling,Emelliodora_Plate10_2015,D4,LBM_3_07,,,LB-M
-,,,,,,,,,S45696,LBM_3_08,whole seedling,Emelliodora_Plate10_2015,E4,LBM_3_08,,,LB-M
+,,,,,,,,,S45643,LBM_6_01,whole seedling,Emelliodora_Plate9_2015,H9,LBM_6_01,,exclude4Tricia,LB-M
+,,,,,,,,,S45644,LBM_6_02,whole seedling,Emelliodora_Plate9_2015,A10,LBM_6_02,,exclude4Tricia,LB-M
+,,,,,,,,,S45645,LBM_6_03,whole seedling,Emelliodora_Plate9_2015,B10,LBM_6_03,,exclude4Tricia,LB-M
+,,,,,,,,,S45646,LBM_1_01,whole seedling,Emelliodora_Plate9_2015,C10,LBM_1_01,,exclude4Tricia,LB-M
+,,,,,,,,,S45647,LBM_1_02,whole seedling,Emelliodora_Plate9_2015,D10,LBM_1_02,,exclude4Tricia,LB-M
+,,,,,,,,,S45648,LBM_1_03,whole seedling,Emelliodora_Plate9_2015,E10,LBM_1_03,,exclude4Tricia,LB-M
+,,,,,,,,,S45649,LBM_1_04,whole seedling,Emelliodora_Plate9_2015,F10,LBM_1_04,,exclude4Tricia,LB-M
+,,,,,,,,,S45650,LBM_1_05,whole seedling,Emelliodora_Plate9_2015,G10,LBM_1_05,,exclude4Tricia,LB-M
+,,,,,,,,,S45651,LBM_1_06,whole seedling,Emelliodora_Plate9_2015,H10,LBM_1_06,,exclude4Tricia,LB-M
+,,,,,,,,,S45652,LBM_1_07,whole seedling,Emelliodora_Plate9_2015,A11,LBM_1_07,,exclude4Tricia,LB-M
+,,,,,,,,,S45653,LBM_1_08,whole seedling,Emelliodora_Plate9_2015,B11,LBM_1_08,,exclude4Tricia,LB-M
+,,,,,,,,,S45654,LBM_1_09,whole seedling,Emelliodora_Plate9_2015,C11,LBM_1_09,,exclude4Tricia,LB-M
+,,,,,,,,,S45655,LBM_1_10,whole seedling,Emelliodora_Plate9_2015,D11,LBM_1_10,,exclude4Tricia,LB-M
+,,,,,,,,,S45656,LBM_1_11,whole seedling,Emelliodora_Plate9_2015,E11,LBM_1_11,,exclude4Tricia,LB-M
+,,,,,,,,,S45657,LBM_1_12,whole seedling,Emelliodora_Plate9_2015,F11,LBM_1_12,,exclude4Tricia,LB-M
+,,,,,,,,,S45658,LBM_1_13,whole seedling,Emelliodora_Plate9_2015,G11,LBM_1_13,,exclude4Tricia,LB-M
+,,,,,,,,,S45659,LBM_1_14,whole seedling,Emelliodora_Plate9_2015,H11,LBM_1_14,,exclude4Tricia,LB-M
+,,,,,,,,,S45660,LBM_1_15,whole seedling,Emelliodora_Plate9_2015,A12,LBM_1_15,,exclude4Tricia,LB-M
+,,,,,,,,,S45661,LBM_1_16,whole seedling,Emelliodora_Plate9_2015,B12,LBM_1_16,,exclude4Tricia,LB-M
+,,,,,,,,,S45662,LBM_1_17,whole seedling,Emelliodora_Plate9_2015,C12,LBM_1_17,,exclude4Tricia,LB-M
+,,,,,,,,,S45663,LBM_1_18,whole seedling,Emelliodora_Plate9_2015,D12,LBM_1_18,,exclude4Tricia,LB-M
+,,,,,,,,,S45664,LBM_1_19,whole seedling,Emelliodora_Plate9_2015,E12,LBM_1_19,,exclude4Tricia,LB-M
+,,,,,,,,,S45665,LBM_1_20,whole seedling,Emelliodora_Plate9_2015,F12,LBM_1_20,,exclude4Tricia,LB-M
+,,,,,,,,,S45666,LBM_1_21,whole seedling,Emelliodora_Plate9_2015,G12,LBM_1_21,,exclude4Tricia,LB-M
+,,,,,,,,,S45667,LBM_1_22,whole seedling,Emelliodora_Plate9_2015,H12,LBM_1_22,,exclude4Tricia,LB-M
+,,,,,,,,,S45668,LBM_2_01,whole seedling,Emelliodora_Plate10_2015,A1,LBM_2_01,,exclude4Tricia,LB-M
+,,,,,,,,,S45669,LBM_2_02,whole seedling,Emelliodora_Plate10_2015,B1,LBM_2_02,,exclude4Tricia,LB-M
+,,,,,,,,,S45670,LBM_2_03,whole seedling,Emelliodora_Plate10_2015,C1,LBM_2_03,,exclude4Tricia,LB-M
+,,,,,,,,,S45671,LBM_2_04,whole seedling,Emelliodora_Plate10_2015,D1,LBM_2_04,,exclude4Tricia,LB-M
+,,,,,,,,,S45672,LBM_2_05,whole seedling,Emelliodora_Plate10_2015,E1,LBM_2_05,,exclude4Tricia,LB-M
+,,,,,,,,,S45673,LBM_2_06,whole seedling,Emelliodora_Plate10_2015,F1,LBM_2_06,,exclude4Tricia,LB-M
+,,,,,,,,,S45674,LBM_2_07,whole seedling,Emelliodora_Plate10_2015,G1,LBM_2_07,,exclude4Tricia,LB-M
+,,,,,,,,,S45675,LBM_2_08,whole seedling,Emelliodora_Plate10_2015,H1,LBM_2_08,,exclude4Tricia,LB-M
+,,,,,,,,,S45676,LBM_5_08,whole seedling,Emelliodora_Plate10_2015,A2,LBM_5_08,,exclude4Tricia,LB-M
+,,,,,,,,,S45677,LBM_5_09,whole seedling,Emelliodora_Plate10_2015,B2,LBM_5_09,,exclude4Tricia,LB-M
+,,,,,,,,,S45678,LBM_5_10,whole seedling,Emelliodora_Plate10_2015,C2,LBM_5_10,,exclude4Tricia,LB-M
+,,,,,,,,,S45679,LBM_5_11,whole seedling,Emelliodora_Plate10_2015,D2,LBM_5_11,,exclude4Tricia,LB-M
+,,,,,,,,,S45680,LBM_5_12,whole seedling,Emelliodora_Plate10_2015,E2,LBM_5_12,,exclude4Tricia,LB-M
+,,,,,,,,,S45681,LBM_5_13,whole seedling,Emelliodora_Plate10_2015,F2,LBM_5_13,,exclude4Tricia,LB-M
+,,,,,,,,,S45682,LBM_5_13R,whole seedling,Emelliodora_Plate10_2015,G2,LBM_5_13R,,exclude4Tricia,LB-M
+,,,,,,,,,S45683,LBM_5_14,whole seedling,Emelliodora_Plate10_2015,H2,LBM_5_14,,exclude4Tricia,LB-M
+,,,,,,,,,S45684,LBM_5_15,whole seedling,Emelliodora_Plate10_2015,A3,LBM_5_15,,exclude4Tricia,LB-M
+,,,,,,,,,S45685,LBM_5_16,whole seedling,Emelliodora_Plate10_2015,B3,LBM_5_16,,exclude4Tricia,LB-M
+,,,,,,,,,S45686,LBM_5_17,whole seedling,Emelliodora_Plate10_2015,C3,LBM_5_17,,exclude4Tricia,LB-M
+,,,,,,,,,S45687,LBM_5_18,whole seedling,Emelliodora_Plate10_2015,D3,LBM_5_18,,exclude4Tricia,LB-M
+,,,,,,,,,S45688,LBM_5_19,whole seedling,Emelliodora_Plate10_2015,E3,LBM_5_19,,exclude4Tricia,LB-M
+,,,,,,,,,S45689,LBM_3_1,whole seedling,Emelliodora_Plate10_2015,F3,LBM_3_1,,exclude4Tricia,LB-M
+,,,,,,,,,S45690,LBM_3_2,whole seedling,Emelliodora_Plate10_2015,G3,LBM_3_2,,exclude4Tricia,LB-M
+,,,,,,,,,S45691,LBM_3_3,whole seedling,Emelliodora_Plate10_2015,H3,LBM_3_3,,exclude4Tricia,LB-M
+,,,,,,,,,S45692,LBM_3_04,whole seedling,Emelliodora_Plate10_2015,A4,LBM_3_04,,exclude4Tricia,LB-M
+,,,,,,,,,S45693,LBM_3_05,whole seedling,Emelliodora_Plate10_2015,B4,LBM_3_05,,exclude4Tricia,LB-M
+,,,,,,,,,S45694,LBM_3_06,whole seedling,Emelliodora_Plate10_2015,C4,LBM_3_06,,exclude4Tricia,LB-M
+,,,,,,,,,S45695,LBM_3_07,whole seedling,Emelliodora_Plate10_2015,D4,LBM_3_07,,exclude4Tricia,LB-M
+,,,,,,,,,S45696,LBM_3_08,whole seedling,Emelliodora_Plate10_2015,E4,LBM_3_08,,exclude4Tricia,LB-M
 ,,,,,,,,,S45697,LB24_22_1,whole seedling,Emelliodora_Plate10_2015,F4,LB24_22_1,,,LB-24
 ,,,,,,,,,S45698,LB24_22_2,whole seedling,Emelliodora_Plate10_2015,G4,LB24_22_2,,,LB-24
 ,,,,,,,,,S45699,LB24_22_3,whole seedling,Emelliodora_Plate10_2015,H4,LB24_22_3,,,LB-24
@@ -722,9 +723,9 @@ PlantID,PlantName,AccessionID,AccessionName,ExperimentID,ExperimentName,Experime
 ,,,,,,,,,S45721,LBK2_28_10,whole seedling,Emelliodora_Plate10_2015,F7,LBK2_28_10,,,LB-K2
 ,,,,,,,,,S45722,LBK2_26_09,whole seedling,Emelliodora_Plate10_2015,G7,LBK2_26_09,,,LB-K2
 ,,,,,,,,,S45723,LBK2_26_10,whole seedling,Emelliodora_Plate10_2015,H7,LBK2_26_10,,,LB-K2
-,,,,,,,,,S45724,LBM_1_23,whole seedling,Emelliodora_Plate10_2015,A8,LBM_1_23,,,LB-M
-,,,,,,,,,S45725,LBM_1_24,whole seedling,Emelliodora_Plate10_2015,B8,LBM_1_24,,,LB-M
-,,,,,,,,,S45726,LBM_1_25,whole seedling,Emelliodora_Plate10_2015,C8,LBM_1_25,,,LB-M
+,,,,,,,,,S45724,LBM_1_23,whole seedling,Emelliodora_Plate10_2015,A8,LBM_1_23,,exclude4Tricia,LB-M
+,,,,,,,,,S45725,LBM_1_24,whole seedling,Emelliodora_Plate10_2015,B8,LBM_1_24,,exclude4Tricia,LB-M
+,,,,,,,,,S45726,LBM_1_25,whole seedling,Emelliodora_Plate10_2015,C8,LBM_1_25,,exclude4Tricia,LB-M
 ,,,,,,,,,S45727,LB11_8_01,whole seedling,Emelliodora_Plate10_2015,D8,LB11_8_01,,,LB-11
 ,,,,,,,,,S45728,LB11_8_02,whole seedling,Emelliodora_Plate10_2015,E8,LB11_8_02,,,LB-11
 ,,,,,,,,,S45729,LB11_8_03,whole seedling,Emelliodora_Plate10_2015,F8,LB11_8_03,,,LB-11
@@ -747,12 +748,12 @@ PlantID,PlantName,AccessionID,AccessionName,ExperimentID,ExperimentName,Experime
 ,,,,,,,,,S45746,LB24_16_08,whole seedling,Emelliodora_Plate10_2015,G10,LB24_16_08,,,LB-24
 ,,,,,,,,,S45747,LB24_16_09,whole seedling,Emelliodora_Plate10_2015,H10,LB24_16_09,,,LB-24
 ,,,,,,,,,S45748,LB24_16_10,whole seedling,Emelliodora_Plate10_2015,A11,LB24_16_10,,,LB-24
-,,,,,,,,,S45749,LBM_6_01,whole seedling,Emelliodora_Plate10_2015,B11,LBM_6_01,,,LB-M
-,,,,,,,,,S45750,LBM_6_02,whole seedling,Emelliodora_Plate10_2015,C11,LBM_6_02,,,LB-M
-,,,,,,,,,S45751,LBM_6_03,whole seedling,Emelliodora_Plate10_2015,D11,LBM_6_03,,,LB-M
-,,,,,,,,,S45752,LBM_6_04,whole seedling,Emelliodora_Plate10_2015,E11,LBM_6_04,,,LB-M
-,,,,,,,,,S45753,LBM_6_05,whole seedling,Emelliodora_Plate10_2015,F11,LBM_6_05,,,LB-M
-,,,,,,,,,S45754,LBM_6_06,whole seedling,Emelliodora_Plate10_2015,G11,LBM_6_06,,,LB-M
+,,,,,,,,,S45749,LBM_6_01,whole seedling,Emelliodora_Plate10_2015,B11,LBM_6_01,,exclude4Tricia,LB-M
+,,,,,,,,,S45750,LBM_6_02,whole seedling,Emelliodora_Plate10_2015,C11,LBM_6_02,,exclude4Tricia,LB-M
+,,,,,,,,,S45751,LBM_6_03,whole seedling,Emelliodora_Plate10_2015,D11,LBM_6_03,,exclude4Tricia,LB-M
+,,,,,,,,,S45752,LBM_6_04,whole seedling,Emelliodora_Plate10_2015,E11,LBM_6_04,,exclude4Tricia,LB-M
+,,,,,,,,,S45753,LBM_6_05,whole seedling,Emelliodora_Plate10_2015,F11,LBM_6_05,,exclude4Tricia,LB-M
+,,,,,,,,,S45754,LBM_6_06,whole seedling,Emelliodora_Plate10_2015,G11,LBM_6_06,,exclude4Tricia,LB-M
 ,,,,,,,,,S45755,LB11_1_01,whole seedling,Emelliodora_Plate10_2015,H11,LB11_1_01,,,LB-11
 ,,,,,,,,,S45756,LB11_1_02,whole seedling,Emelliodora_Plate10_2015,A12,LB11_1_02,,,LB-11
 ,,,,,,,,,S45757,LB11_1_03,whole seedling,Emelliodora_Plate10_2015,B12,LB11_1_03,,,LB-11
@@ -811,7 +812,6 @@ PlantID,PlantName,AccessionID,AccessionName,ExperimentID,ExperimentName,Experime
 ,,,,,,,,,S45810,YBT3t12_1,leaf from seedling,Emel003A,G6,5422,,,LB-T3
 ,,,,,,,,,S45811,YBT2t21_7,leaf from seedling,Emel003A,H6,5385,,,LB-T2
 ,,,,,,,,,S45812,YBT1t10_1,leaf from seedling,Emel003A,A7,5322,,,LB-T1
-,,,,,,,,,blank1,empty,leaf from seedling,Emel003A,B7,empty,,,blank
 ,,,,,,,,,S45813,YBT2t15_1,leaf from seedling,Emel003A,C7,5362,,,LB-T2
 ,,,,,,,,,S45814,YBT3t4_2,leaf from seedling,Emel003A,D7,5431,,,LB-T3
 ,,,,,,,,,S45815,YBT1t1_2,leaf from seedling,Emel003A,E7,5319,,,LB-T1
@@ -909,4 +909,4 @@ PlantID,PlantName,AccessionID,AccessionName,ExperimentID,ExperimentName,Experime
 ,,,,,,,,,S45907,PadoM6_1r,leaf from seedling,Emel003B,A7,r5316,,,PD-M6
 ,,,,,,,,,S45908,YBT2t19_2r,leaf from seedling,Emel003B,B7,r5368,,,LB-T2
 ,,,,,,,,,S45909,PadoM4_1r,leaf from seedling,Emel003B,C7,r5309,,,PD-M4
-,,,,,,,,,S45910,YBT_unknown,leaf from seedling,Emel003B,D7,r0000,,,LB-T
+,,,,,,,,,S45910,YBT_unknown,leaf from seedling,Emel003B,D7,r0000,,exclude4Tricia,LB-T
